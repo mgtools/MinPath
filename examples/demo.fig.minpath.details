@@ -1,0 +1,1698 @@
+path Transporters_In_Models fam0 438 fam-found 62 # Transporters_In_Models
+   FIG036441 hits 1 # Lysine-specific permease
+   FIG111239 hits 24 # Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+   FIG137178 hits 1 # Ferric siderophore transport system, periplasmic binding protein TonB
+   FIG000912 hits 1 # Outer membrane vitamin B12 receptor BtuB
+   FIG059912 hits 3 # L-proline Glycine Betaine ABC transport ATP-binding protein proV (TC 3.A.1.12.1)
+   FIG132287 hits 2 # Ammonium transporter
+   FIG000754 hits 294 # Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)
+   FIG105177 hits 3 # ATP synthase delta chain (EC 3.6.3.14)
+   FIG133436 hits 4 # NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+   FIG142331 hits 2 # MotA/TolQ/ExbB proton channel family protein
+   FIG010331 hits 1 # Branched-chain amino acid transport ATP-binding protein livF (TC 3.A.1.4.1)
+   FIG000558 hits 269 # NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+   FIG139059 hits 4 # Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+   FIG052585 hits 1 # Multiple sugar ABC transporter, substrate-binding protein
+   FIG070235 hits 3 # HoxN/HupN/NixA family nickel/cobalt transporter
+   FIG141691 hits 1 # Molybdenum ABC transporter, periplasmic molybdenum-binding protein modA (TC 3.A.1.8.1)
+   FIG050383 hits 1 # Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein oppA (TC 3.A.1.5.1)
+   FIG001383 hits 3 # PTS system, fructose-specific IIB component (EC 2.7.1.69) / PTS system, fructose-specific IIC component (EC 2.7.1.69)
+   FIG004490 hits 9 # ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit
+   FIG045706 hits 2 # Phosphate ABC transporter, periplasmic phosphate-binding protein pstS (TC 3.A.1.7.1)
+   FIG000640 hits 935 # Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+   FIG041595 hits 7 # NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+   FIG038303 hits 1 # ATP synthase protein I
+   FIG000569 hits 571 # NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+   FIG101448 hits 2111 # NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+   FIG142714 hits 1 # Dipeptide-binding ABC transporter, periplasmic substrate-binding component (TC 3.A.1.5.2)
+   FIG140266 hits 1 # Zinc ABC transporter, inner membrane permease protein ZnuB
+   FIG134687 hits 5 # ATP synthase beta chain (EC 3.6.3.14)
+   FIG016567 hits 3 # Cobalt-zinc-cadmium resistance protein czcD
+   FIG016110 hits 1 # Xanthine/uracil/thiamine/ascorbate permease family protein
+   FIG143956 hits 1 # Methionine ABC transporter substrate-binding protein
+   FIG142606 hits 2 # Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+   FIG138165 hits 40 # Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+   FIG141668 hits 4 # NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+   FIG083250 hits 1 # Kup system potassium uptake protein
+   FIG056028 hits 1 # Thiol:disulfide interchange protein DsbC
+   FIG000082 hits 2 # ATP synthase alpha chain (EC 3.6.3.14)
+   FIG121082 hits 1 # Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2) / ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit
+   FIG006048 hits 1 # ATP synthase B chain (EC 3.6.3.14)
+   FIG136521 hits 1 # Trk system potassium uptake protein trkA
+   FIG066882 hits 1 # Nitrate/nitrite transporter
+   FIG095639 hits 1 # D-xylose transport ATP-binding protein xylG
+   FIG011114 hits 1 # Phosphate transport ATP-binding protein pstB (TC 3.A.1.7.1)
+   FIG000559 hits 215 # NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+   FIG045144 hits 1 # Methionine ABC transporter permease protein
+   FIG133539 hits 1 # NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+   FIG000138 hits 1 # ATP synthase A chain (EC 3.6.3.14)
+   FIG000512 hits 1 # NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+   FIG144742 hits 7 # Cytosine/purine/uracil/thiamine/allantoin permease family protein
+   FIG145979 hits 1473 # NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+   FIG014979 hits 2 # NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+   FIG133041 hits 941 # NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+   FIG063246 hits 1 # ATP synthase C chain (EC 3.6.3.14)
+   FIG003898 hits 1 # Zinc transporter zitB
+   FIG008889 hits 5 # Arsenical-resistance protein ACR3
+   FIG003244 hits 1 # H(+)/Cl(-) exchange transporter clcA
+   FIG138425 hits 1159 # Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+   FIG009278 hits 2 # Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9) / Fructose-specific phosphocarrier protein HPr (EC 2.7.1.69) / PTS system, fructose-specific IIA component (EC 2.7.1.69)
+   FIG133411 hits 4 # Dipeptide transport ATP-binding protein dppD (TC 3.A.1.5.2)
+   FIG136151 hits 1 # High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+   FIG133254 hits 1 # Oligopeptide transport ATP-binding protein oppF (TC 3.A.1.5.1)
+   FIG001095 hits 1 # Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+path Widespread_colonization_island fam0 22 fam-found 1 # Widespread_colonization_island
+   FIG145901 hits 1 # Flp pilus assembly protein TadB
+path De_Novo_Purine_Biosynthesis fam0 29 fam-found 11 # De_Novo_Purine_Biosynthesis
+   FIG140123 hits 2 # Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3)
+   FIG142623 hits 1 # Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)
+   FIG000179 hits 9 # Amidophosphoribosyltransferase (EC 2.4.2.14)
+   FIG000235 hits 5 # Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+   FIG145205 hits 6 # Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+   FIG000375 hits 1 # Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)
+   FIG142617 hits 3 # Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+   FIG093798 hits 1 # IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+   FIG135930 hits 1 # Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21) / Phosphoribosylaminoimidazole carboxylase catalytic subunit (EC 4.1.1.21)
+   FIG000117 hits 7 # Adenylosuccinate lyase (EC 4.3.2.2)
+   FIG142306 hits 2 # Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) / IMP cyclohydrolase (EC 3.5.4.10)
+path Sugar_catabolome_in_Shewanella_species fam0 196 fam-found 30 # Sugar_catabolome_in_Shewanella_species
+   FIG144441 hits 9 # Chitinase (EC 3.2.1.14)
+   FIG000245 hits 5 # Glucose-6-phosphate isomerase (EC 5.3.1.9)
+   FIG144239 hits 2 # Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9); Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+   FIG111267 hits 10 # Trehalase (EC 3.2.1.28)
+   FIG078792 hits 10 # Phosphoglycerate kinase (EC 2.7.2.3)
+   FIG130792 hits 1 # Alpha-galactosidase (EC 3.2.1.22)
+   FIG143783 hits 2 # Beta-hexosaminidase (EC 3.2.1.52)
+   FIG029467 hits 6 # UDP-glucose 4-epimerase (EC 5.1.3.2)
+   FIG087387 hits 2 # Glucosamine-6-phosphate deaminase (EC 3.5.99.6)
+   FIG144688 hits 6 # 6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+   FIG095801 hits 2 # 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+   FIG142691 hits 2 # Ribokinase (EC 2.7.1.15)
+   FIG145875 hits 4 # Enolase (EC 4.2.1.11)
+   FIG051490 hits 1 # Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+   FIG037640 hits 4 # Transketolase (EC 2.2.1.1)
+   FIG032866 hits 4 # Phosphoenolpyruvate synthase (EC 2.7.9.2)
+   FIG142031 hits 3 # Beta-galactosidase (EC 3.2.1.23)
+   FIG141741 hits 7 # NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+   FIG145908 hits 2 # Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+   FIG067190 hits 2 # Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+   FIG103619 hits 3 # Alpha-glucosidase (EC 3.2.1.20)
+   FIG000043 hits 1 # Pyruvate kinase (EC 2.7.1.40)
+   FIG000076 hits 4 # Triosephosphate isomerase (EC 5.3.1.1)
+   FIG133512 hits 2 # Gluconokinase (EC 2.7.1.12)
+   FIG139145 hits 1 # Glycerol dehydrogenase (EC 1.1.1.6)
+   FIG145890 hits 7 # N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+   FIG000732 hits 1 # Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+   FIG009278 hits 2 # Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9) / Fructose-specific phosphocarrier protein HPr (EC 2.7.1.69) / PTS system, fructose-specific IIA component (EC 2.7.1.69)
+   FIG138182 hits 11 # Beta-mannosidase (EC 3.2.1.25)
+   FIG000415 hits 1 # Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+path Phenylacetyl-CoA_catabolic_pathway_(core) fam0 21 fam-found 1 # Phenylacetyl-CoA_catabolic_pathway_(core)
+   FIG143508 hits 3 # Aldehyde dehydrogenase (EC 1.2.1.3), PaaZ
+path Hydantoin_metabolism fam0 22 fam-found 4 # Hydantoin_metabolism
+   FIG043123 hits 1 # Beta-ureidopropionase (EC 3.5.1.6)
+   FIG134076 hits 2 # N-methylhydantoinase (ATP-hydrolyzing) (EC 3.5.2.14)
+   FIG144742 hits 7 # Cytosine/purine/uracil/thiamine/allantoin permease family protein
+   FIG009468 hits 1 # D-hydantoinase (EC 3.5.2.2)
+path Pyrimidine_utilization fam0 20 fam-found 3 # Pyrimidine_utilization
+   FIG043123 hits 1 # Beta-ureidopropionase (EC 3.5.1.6)
+   FIG139250 hits 1 # Predicted flavin reductase RutF in novel pyrimidine catabolism pathway
+   FIG006454 hits 1 # Predicted pyrimidine permease RutG in novel pyrimidine catabolism pathway
+path Flavohaemoglobin fam0 64 fam-found 9 # Flavohaemoglobin
+   FIG145261 hits 3 # Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG075956 hits 3 # FKBP-type peptidyl-prolyl cis-trans isomerase
+   FIG000914 hits 5 # NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+   FIG057850 hits 1 # Myo-inositol-1(or 4)-monophosphatase (EC 3.1.3.25)
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG070991 hits 1 # Iron binding protein IscA for iron-sulfur cluster assembly
+   FIG003244 hits 1 # H(+)/Cl(-) exchange transporter clcA
+   FIG001095 hits 1 # Cytochrome O ubiquinol oxidase subunit II (EC 1.10.3.-)
+path 271-Bsub fam0 332 fam-found 118 # 271-Bsub
+   FIG106123 hits 1 # Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+   FIG000441 hits 4 # Chromosomal replication initiator protein dnaA
+   FIG134133 hits 2 # DNA primase (EC 2.7.7.-)
+   FIG085033 hits 1 # UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+   FIG144033 hits 1 # Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+   FIG136178 hits 3 # SSU ribosomal protein S2p (SAe)
+   FIG137287 hits 1 # Peptide chain release factor 2
+   FIG082287 hits 3 # Acyl carrier protein
+   FIG078792 hits 10 # Phosphoglycerate kinase (EC 2.7.2.3)
+   FIG142464 hits 3 # Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+   FIG027058 hits 8 # Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+   FIG135554 hits 2 # UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
+   FIG126554 hits 2 # Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+   FIG005756 hits 2 # 3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+   FIG135756 hits 4 # Preprotein translocase secY subunit (TC 3.A.5.1.1)
+   FIG145365 hits 2 # Chromosome partition protein smc
+   FIG058365 hits 1 # Translation elongation factor Tu
+   FIG087062 hits 5 # Aspartyl-tRNA synthetase (EC 6.1.1.12)
+   FIG061911 hits 2 # Hydrolase (HAD superfamily)
+   FIG114758 hits 1 # Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+   FIG145177 hits 2 # 1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+   FIG144436 hits 2 # DNA ligase (EC 6.5.1.2)
+   FIG095801 hits 2 # 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+   FIG129707 hits 1 # Ribonuclease Z (EC 3.1.26.11)
+   FIG144196 hits 12 # Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+   FIG143916 hits 2 # Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+   FIG136916 hits 1 # Topoisomerase IV subunit B (EC 5.99.1.-)
+   FIG025404 hits 2 # Thioredoxin reductase (EC 1.8.1.9)
+   FIG000213 hits 1 # SSU ribosomal protein S20p
+   FIG136868 hits 1 # Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+   FIG138224 hits 5 # Rod shape-determining protein mreB
+   FIG006522 hits 2 # tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+   FIG133409 hits 5 # Glutamyl-tRNA synthetase (EC 6.1.1.17)
+   FIG145875 hits 4 # Enolase (EC 4.2.1.11)
+   FIG037640 hits 4 # Transketolase (EC 2.2.1.1)
+   FIG000214 hits 3 # LSU ribosomal protein L19p
+   FIG048551 hits 1 # 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.4.3)
+   FIG096399 hits 1 # LSU ribosomal protein L35p
+   FIG138345 hits 1 # Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)
+   FIG000087 hits 1 # Histidyl-tRNA synthetase (EC 6.1.1.21)
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG060605 hits 1 # GTP-binding protein
+   FIG144397 hits 2 # Dihydrofolate reductase (EC 1.5.1.3)
+   FIG131731 hits 1 # Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+   FIG024731 hits 6 # CTP synthase (EC 6.3.4.2)
+   FIG142266 hits 1 # LSU ribosomal protein L2p (L8e)
+   FIG141984 hits 2 # Arginyl-tRNA synthetase (EC 6.1.1.19)
+   FIG000204 hits 5 # DNA topoisomerase I (EC 5.99.1.2)
+   FIG145418 hits 1 # Topoisomerase IV subunit A (EC 5.99.1.-)
+   FIG142370 hits 9 # Adenylate kinase (EC 2.7.4.3)
+   FIG143370 hits 1 # ATP-dependent DNA helicase pcrA (EC 3.6.1.-)
+   FIG000370 hits 2 # Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+   FIG144909 hits 15 # Seryl-tRNA synthetase (EC 6.1.1.11)
+   FIG142262 hits 3 # LSU ribosomal protein L21p
+   FIG016262 hits 1 # Inactive homolog of metal-dependent proteases, putative molecular chaperone
+   FIG142184 hits 4 # S-adenosylmethionine synthetase (EC 2.5.1.6)
+   FIG133184 hits 3 # Farnesyl pyrophosphate synthetase (FPP synthetase) (FPS) (Farnesyl diphosphate synthetase) / Dimethylallyltransferase (EC 2.5.1.1) / Geranyltranstransferase (EC 2.5.1.10)
+   FIG144880 hits 2 # Ribosome recycling factor
+   FIG018727 hits 1 # Iron-sulfur cluster assembly ATPase protein SufC
+   FIG043630 hits 13 # Methionine aminopeptidase (EC 3.4.11.18)
+   FIG035486 hits 10 # Valyl-tRNA synthetase (EC 6.1.1.9)
+   FIG134486 hits 2 # Replicative DNA helicase (EC 3.6.1.-) [SA14-24]
+   FIG108661 hits 2 # GTP-binding protein EngB
+   FIG088759 hits 5 # DNA polymerase III alpha subunit (EC 2.7.7.7)
+   FIG038814 hits 5 # RNA polymerase sigma factor RpoD
+   FIG000069 hits 7 # Prolyl-tRNA synthetase (EC 6.1.1.15)
+   FIG118381 hits 1 # LSU ribosomal protein L20p
+   FIG000381 hits 2 # 4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+   FIG000914 hits 5 # NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+   FIG145205 hits 6 # Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+   FIG138129 hits 1 # Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+   FIG030013 hits 1 # UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)
+   FIG144443 hits 1 # Alanine racemase (EC 5.1.1.1)
+   FIG145614 hits 3 # Glutamyl-tRNA synthetase (EC 6.1.1.17); Glutamyl-tRNA(Gln) synthetase
+   FIG145849 hits 1 # LSU ribosomal protein L14p (L23e)
+   FIG136524 hits 1 # tRNA nucleotidyltransferase (EC 2.7.7.25)
+   FIG029023 hits 4 # DNA gyrase subunit A (EC 5.99.1.3)
+   FIG059747 hits 3 # Cell division protein ftsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+   FIG021822 hits 6 # Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+   FIG144479 hits 3 # Guanylate kinase (EC 2.7.4.8)
+   FIG145929 hits 1 # DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+   FIG144684 hits 1 # SSU ribosomal protein S15p (S13e)
+   FIG001577 hits 1 # LSU ribosomal protein L6p (L9e)
+   FIG121568 hits 1 # UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+   FIG000300 hits 5 # Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+   FIG144300 hits 2 # N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+   FIG000168 hits 1 # Transcription termination protein NusA
+   FIG113377 hits 1 # DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+   FIG002377 hits 1 # Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+   FIG098667 hits 4 # Heat shock protein 60 family chaperone GroEL
+   FIG144134 hits 1 # Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+   FIG135076 hits 1 # GTP-binding protein EngA
+   FIG000076 hits 4 # Triosephosphate isomerase (EC 5.3.1.1)
+   FIG000114 hits 4 # Leucyl-tRNA synthetase (EC 6.1.1.4)
+   FIG000221 hits 1 # Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+   FIG134148 hits 1 # 1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+   FIG125256 hits 4 # Translation elongation factor Ts
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG048805 hits 5 # DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)
+   FIG144138 hits 6 # Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+   FIG000203 hits 1 # SSU ribosomal protein S12p (S23e)
+   FIG133848 hits 7 # NAD kinase (EC 2.7.1.23)
+   FIG061560 hits 1 # Peptide chain release factor 1
+   FIG000169 hits 1 # COG0536: GTP-binding protein Obg
+   FIG133311 hits 4 # Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+   FIG000102 hits 17 # Translation initiation factor 2
+   FIG090921 hits 1 # Peptidyl-tRNA hydrolase (EC 3.1.1.29)
+   FIG141476 hits 1 # Iron-sulfur cluster assembly protein SufD
+   FIG030919 hits 15 # Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+   FIG000420 hits 1 # Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+   FIG069496 hits 1 # Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+   FIG142496 hits 6 # Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+   FIG000206 hits 2 # Translation initiation factor 3
+   FIG000451 hits 2 # Iron-sulfur cluster assembly protein SufB
+   FIG142552 hits 30 # Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+   FIG000264 hits 2 # LSU ribosomal protein L1p (L10Ae)
+   FIG134254 hits 4 # Translation elongation factor G
+   FIG000096 hits 6 # Methionyl-tRNA synthetase (EC 6.1.1.10)
+path Fatty_Acid_Biosynthesis_FASII fam0 31 fam-found 9 # Fatty_Acid_Biosynthesis_FASII
+   FIG106123 hits 1 # Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+   FIG082287 hits 3 # Acyl carrier protein
+   FIG005756 hits 2 # 3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100)
+   FIG114758 hits 1 # Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+   FIG032579 hits 1 # N-acetylglucosamine deacetylase (EC 3.5.1.-) / (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase (EC 4.2.1.-)
+   FIG001501 hits 1 # 4'-phosphopantetheinyl transferase (EC 2.7.8.-)
+   FIG000420 hits 1 # Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14)
+   FIG069496 hits 1 # Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2)
+   FIG001277 hits 1 # 3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+path tRNA_modification_Archaea fam0 74 fam-found 16 # tRNA_modification_Archaea
+   FIG108342 hits 2 # tRNA-i(6)A37 methylthiotransferase
+   FIG001925 hits 1 # Predicted P-loop ATPase fused to an acetyltransferase COG1444
+   FIG052365 hits 17 # Cysteine desulfurase (EC 2.8.1.7)
+   FIG138689 hits 1 # tRNA (adenine57/58-N1)-methyltransferase (EC 2.1.1.36)
+   FIG104810 hits 2 # tRNA pseudouridine synthase A (EC 4.2.1.70)
+   FIG006031 hits 4 # Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
+   FIG067909 hits 3 # tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+   FIG083747 hits 2 # tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+   FIG143850 hits 2 # Protein RtcB
+   FIG134326 hits 4 # 5-carboxymethyl uridine and 5-carboxymethyl 2-thiouridine methyltransferase
+   FIG005603 hits 1 # conserved protein with predicted RNA binding PUA domain
+   FIG007559 hits 1 # tRNA cytosine methylase Pos56
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG140874 hits 6 # Sua5 YciO YrdC YwlC family protein
+   FIG144138 hits 6 # Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+   FIG138938 hits 1 # tRNA(Cytosine32)-2-thiocytidine synthetase
+path Thiamin_biosynthesis fam0 49 fam-found 8 # Thiamin_biosynthesis
+   FIG144387 hits 2 # Thiamine-monophosphate kinase (EC 2.7.4.16)
+   FIG122688 hits 1 # Thiamin ABC transporter, substrate-binding component
+   FIG132992 hits 1 # Thiazole biosynthetic enzyme Thi4
+   FIG144159 hits 1 # Thiamin biosynthesis protein ThiC
+   FIG134639 hits 1 # Phosphomethylpyrimidine kinase (EC 2.7.4.7) / Thiaminase II (EC 3.5.99.2)
+   FIG005195 hits 1 # Thiazole biosynthetic enzyme Thi4 / Ribose 1,5-bisphosphate or 5-ribose-1,2-cyclic phosphate dehydrogenase
+   FIG135919 hits 6 # Hydroxyethylthiazole kinase (EC 2.7.1.50) / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+   FIG064730 hits 2 # Hydroxymethylpyrimidine synthesis protein THI5
+path Ammonia_assimilation fam0 17 fam-found 7 # Ammonia_assimilation
+   FIG004883 hits 2 # Nitrogen regulation protein NR(I)
+   FIG132287 hits 2 # Ammonium transporter
+   FIG138767 hits 1 # Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+   FIG066179 hits 1 # [Protein-PII] uridylyltransferase (EC 2.7.7.59)
+   FIG002258 hits 36 # Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+   FIG054759 hits 1 # RNA polymerase sigma-54 factor rpoN
+   FIG013573 hits 3 # Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+path Thioredoxin-disulfide_reductase fam0 11 fam-found 3 # Thioredoxin-disulfide_reductase
+   FIG019925 hits 1 # Alkyl hydroperoxide reductase protein F (EC 1.6.4.-)
+   FIG025404 hits 2 # Thioredoxin reductase (EC 1.8.1.9)
+   FIG141969 hits 3 # Alkyl hydroperoxide reductase subunit C-like protein
+path Wyeosine-MimG_Biosynthesis fam0 11 fam-found 6 # Wyeosine-MimG_Biosynthesis
+   FIG137033 hits 1 # tRNA methylase Yol141w homolog Wyeosine biosynthesis
+   FIG025404 hits 2 # Thioredoxin reductase (EC 1.8.1.9)
+   FIG006031 hits 4 # Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
+   FIG083747 hits 2 # tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG066338 hits 2 # tRNA methylase Trm12p Wyeosine biosynthesis
+path Flagellum fam0 62 fam-found 5 # Flagellum
+   FIG139313 hits 1 # Flagellar biosynthesis protein fliL
+   FIG054759 hits 1 # RNA polymerase sigma-54 factor rpoN
+   FIG038814 hits 5 # RNA polymerase sigma factor RpoD
+   FIG009398 hits 1 # Flagellar hook-associated protein flgL
+   FIG009068 hits 1 # RNA polymerase sigma factor for flagellar operon
+path Nitrate_and_nitrite_ammonification fam0 41 fam-found 2 # Nitrate_and_nitrite_ammonification
+   FIG084048 hits 10 # Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+   FIG066882 hits 1 # Nitrate/nitrite transporter
+path DNA-replication fam0 45 fam-found 16 # DNA-replication
+   FIG000441 hits 4 # Chromosomal replication initiator protein dnaA
+   FIG134133 hits 2 # DNA primase (EC 2.7.7.-)
+   FIG142758 hits 5 # Transcription-repair coupling factor
+   FIG000404 hits 1 # DNA polymerase I (EC 2.7.7.7)
+   FIG101225 hits 1 # Single-stranded-DNA-specific exonuclease recJ (EC 3.1.-.-)
+   FIG092597 hits 4 # ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+   FIG145952 hits 2 # Helicase PriA essential for oriC/DnaA-independent DNA replication
+   FIG090880 hits 1 # DNA polymerase III epsilon subunit (EC 2.7.7.7)
+   FIG134486 hits 2 # Replicative DNA helicase (EC 3.6.1.-) [SA14-24]
+   FIG088759 hits 5 # DNA polymerase III alpha subunit (EC 2.7.7.7)
+   FIG145977 hits 3 # ATP-dependent DNA helicase RecQ
+   FIG145652 hits 1 # Replicative DNA helicase (EC 3.6.1.-); intein-containing
+   FIG145929 hits 1 # DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+   FIG142491 hits 1 # Holliday junction DNA helicase RuvB
+   FIG071469 hits 1 # Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)
+   FIG133679 hits 1 # DNA repair protein RecN
+path DNA_Repair_Base_Excision fam0 14 fam-found 6 # DNA_Repair_Base_Excision
+   FIG144436 hits 2 # DNA ligase (EC 6.5.1.2)
+   FIG000404 hits 1 # DNA polymerase I (EC 2.7.7.7)
+   FIG101225 hits 1 # Single-stranded-DNA-specific exonuclease recJ (EC 3.1.-.-)
+   FIG115829 hits 3 # Flap structure-specific endonuclease (EC 3.-.-.-)
+   FIG005024 hits 2 # Uracil-DNA glycosylase (EC 3.2.2.-)
+   FIG142396 hits 1 # Endonuclease III (EC 4.2.99.18)
+path Terminal_cytochrome_d_ubiquinol_oxidases fam0 9 fam-found 2 # Terminal_cytochrome_d_ubiquinol_oxidases
+   FIG133179 hits 2 # putative Cytochrome bd2, subunit II
+   FIG080642 hits 1 # putative Cytochrome bd2, subunit I
+path Glutamine,_Glutamate,_Aspartate_and_Asparagine_Biosynthesis fam0 27 fam-found 10 # Glutamine,_Glutamate,_Aspartate_and_Asparagine_Biosynthesis
+   FIG086883 hits 2 # L-asparaginase (EC 3.5.1.1)
+   FIG133178 hits 4 # Aspartate aminotransferase (EC 2.6.1.1)
+   FIG139365 hits 2 # Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)
+   FIG138767 hits 1 # Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+   FIG145651 hits 1 # Aspartate ammonia-lyase (EC 4.3.1.1)
+   FIG002258 hits 36 # Glutamate synthase [NADPH] large chain (EC 1.4.1.13)
+   FIG013573 hits 3 # Glutamate synthase [NADPH] small chain (EC 1.4.1.13)
+   FIG139094 hits 1 # Glutamine synthetase type I (EC 6.3.1.2)
+   FIG137408 hits 2 # NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+   FIG138192 hits 3 # glutamine synthetase family protein
+path Ribosome_LSU_eukaryotic_and_archaeal fam0 50 fam-found 20 # Ribosome_LSU_eukaryotic_and_archaeal
+   FIG044883 hits 1 # LSU ribosomal protein P0 (L10p)
+   FIG057758 hits 1 # LSU ribosomal protein L44e
+   FIG136270 hits 2 # LSU ribosomal protein L13Ae (L13p)
+   FIG003892 hits 1 # LSU ribosomal protein L1e (L4p)
+   FIG142553 hits 1 # LSU ribosomal protein L3e (L3p)
+   FIG134727 hits 1 # LSU ribosomal protein L37e
+   FIG003849 hits 1 # LSU ribosomal protein L7e (L30p)
+   FIG003968 hits 1 # LSU ribosomal protein L9e (L6p)
+   FIG040003 hits 1 # LSU ribosomal protein L23e (L14p)
+   FIG075111 hits 1 # LSU ribosomal protein L19e
+   FIG134185 hits 2 # LSU ribosomal protein L22e
+   FIG004048 hits 1 # LSU ribosomal protein L8e (L2p)
+   FIG133967 hits 1 # LSU ribosomal protein L6e
+   FIG135798 hits 4 # LSU ribosomal protein L21e
+   FIG133099 hits 1 # LSU ribosomal protein L18e
+   FIG048906 hits 1 # LSU ribosomal protein L34e
+   FIG035725 hits 3 # LSU ribosomal protein L10e (L16p)
+   FIG003938 hits 3 # LSU ribosomal protein L5e (L18p)
+   FIG004038 hits 2 # LSU ribosomal protein L17e (L22p)
+   FIG133957 hits 1 # LSU ribosomal protein P2
+path Ribosome_SSU_eukaryotic_and_archaeal fam0 34 fam-found 16 # Ribosome_SSU_eukaryotic_and_archaeal
+   FIG004033 hits 3 # SSU ribosomal protein S3e (S3p)
+   FIG003963 hits 1 # SSU ribosomal protein S15Ae (S8p)
+   FIG003951 hits 2 # SSU ribosomal protein S2e (S5p)
+   FIG134358 hits 2 # ubiquitin / SSU ribosomal protein S27Ae
+   FIG141992 hits 2 # SSU ribosomal protein S3Ae
+   FIG133944 hits 1 # SSU ribosomal protein S17e
+   FIG141721 hits 4 # SSU ribosomal protein S18e (S13p)
+   FIG004043 hits 1 # SSU ribosomal protein S13e (S15p)
+   FIG065668 hits 1 # SSU ribosomal protein S4e
+   FIG133668 hits 1 # SSU ribosomal protein S12e
+   FIG003843 hits 1 # SSU ribosomal protein S19e
+   FIG003860 hits 2 # SSU ribosomal protein S20e (S10p)
+   FIG048918 hits 1 # SSU ribosomal protein S9e (S4p)
+   FIG004126 hits 1 # SSU ribosomal protein S16e (S9p)
+   FIG039156 hits 1 # SSU ribosomal protein S24e
+   FIG004044 hits 2 # SSU ribosomal protein S15e (S19p)
+path Polyhydroxybutyrate_metabolism fam0 45 fam-found 6 # Polyhydroxybutyrate_metabolism
+   FIG001558 hits 1 # 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)
+   FIG077916 hits 1 # Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+   FIG002522 hits 1 # Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)
+   FIG035155 hits 1 # Enoyl-CoA hydratase (EC 4.2.1.17)
+   FIG013994 hits 2 # Short chain fatty acids transporter
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path rRNA_methylation_in_clusters fam0 80 fam-found 20 # rRNA_methylation_in_clusters
+   FIG145177 hits 2 # 1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+   FIG144436 hits 2 # DNA ligase (EC 6.5.1.2)
+   FIG085685 hits 1 # Dimethyladenosine transferase (EC 2.1.1.-)
+   FIG135179 hits 3 # Ribonuclease P protein component 3 (EC 3.1.26.5)
+   FIG000087 hits 1 # Histidyl-tRNA synthetase (EC 6.1.1.21)
+   FIG112423 hits 1 # RNA binding methyltransferase FtsJ like
+   FIG131731 hits 1 # Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+   FIG024731 hits 6 # CTP synthase (EC 6.3.4.2)
+   FIG141992 hits 2 # SSU ribosomal protein S3Ae
+   FIG000184 hits 1 # Putative deoxyribonuclease YcfH
+   FIG004043 hits 1 # SSU ribosomal protein S13e (S15p)
+   FIG049915 hits 9 # GTP-binding and nucleic acid-binding protein YchF
+   FIG144300 hits 2 # N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+   FIG136521 hits 1 # Trk system potassium uptake protein trkA
+   FIG135798 hits 4 # LSU ribosomal protein L21e
+   FIG000138 hits 1 # ATP synthase A chain (EC 3.6.3.14)
+   FIG133848 hits 7 # NAD kinase (EC 2.7.1.23)
+   FIG000560 hits 3 # Peptide chain release factor 3
+   FIG133679 hits 1 # DNA repair protein RecN
+   FIG000096 hits 6 # Methionyl-tRNA synthetase (EC 6.1.1.10)
+path Formate_hydrogenase fam0 60 fam-found 2 # Formate_hydrogenase
+   FIG037722 hits 1 # Formate dehydrogenase chain D (EC 1.2.1.2)
+   FIG063488 hits 2 # NAD-dependent formate dehydrogenase (EC 1.2.1.2)
+path DNA_repair,_bacterial fam0 40 fam-found 10 # DNA_repair,_bacterial
+   FIG143963 hits 4 # Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
+   FIG113558 hits 1 # DNA polymerase IV (EC 2.7.7.7)
+   FIG145235 hits 1 # Exonuclease SbcC
+   FIG065316 hits 3 # Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+   FIG050913 hits 1 # DNA repair protein RadC
+   FIG000899 hits 3 # Endonuclease IV (EC 3.1.21.2)
+   FIG000283 hits 2 # DNA repair protein RadA
+   FIG133679 hits 1 # DNA repair protein RecN
+   FIG141809 hits 1 # Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+   FIG001980 hits 1 # Very-short-patch mismatch repair endonuclease (G-T specific)
+path Lysine_Biosynthesis_DAP_Pathway fam0 26 fam-found 6 # Lysine_Biosynthesis_DAP_Pathway
+   FIG042004 hits 1 # Aspartokinase (EC 2.7.2.4)
+   FIG000908 hits 2 # 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)
+   FIG138129 hits 1 # Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+   FIG138250 hits 3 # Diaminopimelate decarboxylase (EC 4.1.1.20)
+   FIG138144 hits 12 # Ornithine aminotransferase (EC 2.6.1.13); Succinylornithine transaminase (EC 2.6.1.81); Acetylornithine aminotransferase (EC 2.6.1.11); N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+   FIG001368 hits 1 # N-succinyl-L,L-diaminopimelate aminotransferase alternative (EC 2.6.1.17)
+path Ribosome_SSU_mitochondrial fam0 40 fam-found 8 # Ribosome_SSU_mitochondrial
+   FIG135313 hits 3 # SSU ribosomal protein S4p (S9e), mitochondrial
+   FIG145303 hits 2 # SSU ribosomal protein S5p (S2e), mitochondrial
+   FIG141748 hits 1 # SSU ribosomal protein S10p (S20e), mitochondrial
+   FIG137032 hits 1 # SSU ribosomal protein S13p (S18e), mitochondrial
+   FIG137147 hits 3 # SSU ribosomal protein S2p (SAe), mitochondrial
+   FIG134417 hits 3 # SSU ribosomal protein S7p (S5e), mitochondrial
+   FIG134118 hits 1 # SSU ribosomal protein S17p (S11e), mitochondrial
+   FIG134681 hits 3 # SSU ribosomal protein S9p (S16e), mitochondrial
+path Folate_Biosynthesis fam0 73 fam-found 15 # Folate_Biosynthesis
+   FIG143926 hits 3 # Folylpolyglutamate synthase (EC 6.3.2.17)
+   FIG000307 hits 1 # Dihydropteroate synthase (EC 2.5.1.15)
+   FIG143925 hits 3 # Thymidylate synthase (EC 2.1.1.45)
+   FIG143792 hits 1 # Xanthosine/inosine triphosphate pyrophosphatase
+   FIG137313 hits 2 # 6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG144397 hits 2 # Dihydrofolate reductase (EC 1.5.1.3)
+   FIG131731 hits 1 # Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+   FIG001348 hits 3 # Thymidylate synthase thyX (EC 2.1.1.-)
+   FIG138402 hits 1 # FolM Alternative dihydrofolate reductase 1
+   FIG000480 hits 1 # 5'-nucleotidase surE (EC 3.1.3.5)
+   FIG133311 hits 4 # Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+   FIG113546 hits 5 # GTP cyclohydrolase I (EC 3.5.4.16) type 1
+   FIG000106 hits 1 # Dihydrofolate synthase (EC 6.3.2.12) / Folylpolyglutamate synthase (EC 6.3.2.17)
+   FIG063794 hits 1 # Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+path tRNA_modification_Archaea_Henri fam0 53 fam-found 20 # tRNA_modification_Archaea_Henri
+   FIG137033 hits 1 # tRNA methylase Yol141w homolog Wyeosine biosynthesis
+   FIG001925 hits 1 # Predicted P-loop ATPase fused to an acetyltransferase COG1444
+   FIG120792 hits 1 # Structure-specific tRNA-binding protein trbp111
+   FIG138689 hits 1 # tRNA (adenine57/58-N1)-methyltransferase (EC 2.1.1.36)
+   FIG104810 hits 2 # tRNA pseudouridine synthase A (EC 4.2.1.70)
+   FIG137313 hits 2 # 6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+   FIG000490 hits 1 # Queuosine Biosynthesis QueE Radical SAM
+   FIG006031 hits 4 # Fe-S OXIDOREDUCTASE (1.8.-.-) Wyeosine biosynthesis
+   FIG067909 hits 3 # tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+   FIG001032 hits 1 # NADPH dependent preQ0 reductase
+   FIG083747 hits 2 # tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+   FIG000491 hits 1 # Queuosine Biosynthesis QueC ATPase
+   FIG005603 hits 1 # conserved protein with predicted RNA binding PUA domain
+   FIG007559 hits 1 # tRNA cytosine methylase Pos56
+   FIG140874 hits 6 # Sua5 YciO YrdC YwlC family protein
+   FIG113546 hits 5 # GTP cyclohydrolase I (EC 3.5.4.16) type 1
+   FIG139041 hits 1 # tRNA dihydrouridine synthase B
+   FIG134009 hits 2 # cell division protein PELOTA
+   FIG066338 hits 2 # tRNA methylase Trm12p Wyeosine biosynthesis
+   FIG138938 hits 1 # tRNA(Cytosine32)-2-thiocytidine synthetase
+path tRNA_modification_Bacteria fam0 88 fam-found 29 # tRNA_modification_Bacteria
+   FIG108342 hits 2 # tRNA-i(6)A37 methylthiotransferase
+   FIG138239 hits 1 # tRNA:m(5)U-54 MTase gid
+   FIG001925 hits 1 # Predicted P-loop ATPase fused to an acetyltransferase COG1444
+   FIG137464 hits 2 # tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA
+   FIG052365 hits 17 # Cysteine desulfurase (EC 2.8.1.7)
+   FIG000196 hits 1 # tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+   FIG104810 hits 2 # tRNA pseudouridine synthase A (EC 4.2.1.70)
+   FIG006522 hits 2 # tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+   FIG000490 hits 1 # Queuosine Biosynthesis QueE Radical SAM
+   FIG112423 hits 1 # RNA binding methyltransferase FtsJ like
+   FIG000664 hits 1 # Ferredoxin, 2Fe-2S
+   FIG029155 hits 2 # tRNA-guanine transglycosylase (EC 2.4.2.29)
+   FIG066418 hits 7 # Hypothetical protein ybgI
+   FIG018727 hits 1 # Iron-sulfur cluster assembly ATPase protein SufC
+   FIG142486 hits 2 # tRNA-specific adenosine-34 deaminase (EC 3.5.4.-)
+   FIG100269 hits 1 # COG1559 protein yceG like
+   FIG001032 hits 1 # NADPH dependent preQ0 reductase
+   FIG000516 hits 1 # tRNA pseudouridine synthase B (EC 4.2.1.70)
+   FIG057633 hits 1 # S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)
+   FIG083747 hits 2 # tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+   FIG000491 hits 1 # Queuosine Biosynthesis QueC ATPase
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG140874 hits 6 # Sua5 YciO YrdC YwlC family protein
+   FIG113546 hits 5 # GTP cyclohydrolase I (EC 3.5.4.16) type 1
+   FIG070991 hits 1 # Iron binding protein IscA for iron-sulfur cluster assembly
+   FIG141476 hits 1 # Iron-sulfur cluster assembly protein SufD
+   FIG000451 hits 2 # Iron-sulfur cluster assembly protein SufB
+   FIG141746 hits 1 # Believed to be involved in assembly of Fe-S clusters
+   FIG138938 hits 1 # tRNA(Cytosine32)-2-thiocytidine synthetase
+path tRNA_modification_yeast_mitochondrial fam0 13 fam-found 7 # tRNA_modification_yeast_mitochondrial
+   FIG137464 hits 2 # tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA
+   FIG000196 hits 1 # tRNA delta(2)-isopentenylpyrophosphate transferase (EC 2.5.1.8)
+   FIG104810 hits 2 # tRNA pseudouridine synthase A (EC 4.2.1.70)
+   FIG006522 hits 2 # tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+   FIG067909 hits 3 # tRNA pseudouridine 55 synthase (EC 4.2.1.70)
+   FIG083747 hits 2 # tRNA (Guanine37-N1) -methyltransferase (EC 2.1.1.31)
+   FIG140874 hits 6 # Sua5 YciO YrdC YwlC family protein
+path Respiratory_dehydrogenases_1 fam0 23 fam-found 7 # Respiratory_dehydrogenases_1
+   FIG145722 hits 2 # L-lactate dehydrogenase (EC 1.1.2.3)
+   FIG133783 hits 2 # Glycerol-3-phosphate dehydrogenase (EC 1.1.99.5)
+   FIG139059 hits 4 # Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+   FIG054875 hits 2 # D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+   FIG011024 hits 8 # NADH dehydrogenase (EC 1.6.99.3)
+   FIG139145 hits 1 # Glycerol dehydrogenase (EC 1.1.1.6)
+   FIG145276 hits 1 # Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)
+path XXBobCopyTrmE fam0 18 fam-found 10 # XXBobCopyTrmE
+   FIG037722 hits 1 # Formate dehydrogenase chain D (EC 1.2.1.2)
+   FIG138239 hits 1 # tRNA:m(5)U-54 MTase gid
+   FIG137464 hits 2 # tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA
+   FIG052365 hits 17 # Cysteine desulfurase (EC 2.8.1.7)
+   FIG018727 hits 1 # Iron-sulfur cluster assembly ATPase protein SufC
+   FIG039054 hits 2 # Quinolinate synthetase (EC 4.1.99.-)
+   FIG142606 hits 2 # Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+   FIG142396 hits 1 # Endonuclease III (EC 4.2.99.18)
+   FIG133311 hits 4 # Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+   FIG000451 hits 2 # Iron-sulfur cluster assembly protein SufB
+path 4-Hydroxyphenylacetic_acid_catabolic_pathway fam0 15 fam-found 2 # 4-Hydroxyphenylacetic_acid_catabolic_pathway
+   FIG137536 hits 2 # 5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC 5.3.3.10)
+   FIG010241 hits 1 # 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase (EC 5.3.3.-) / 5-carboxymethyl-2-oxo-hex-3- ene-1,7-dioate decarboxylase (EC 4.1.1.-)
+path eukaryotic_rRNA_modification_and_related_functions fam0 32 fam-found 5 # eukaryotic_rRNA_modification_and_related_functions
+   FIG133748 hits 1 # NADH dehydrogenase subunit 5
+   FIG141893 hits 1 # RNA helicase, putative
+   FIG133337 hits 2 # Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor (EC 1.10.2.2)
+   FIG136161 hits 2 # Non-imprinted in Prader-Willi/Angelman syndrome 1
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path Glutaredoxins fam0 34 fam-found 4 # Glutaredoxins
+   FIG000722 hits 2 # Glutathione synthetase (EC 6.3.2.3)
+   FIG141741 hits 7 # NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+   FIG027687 hits 1 # Glutaredoxin-related protein
+   FIG061560 hits 1 # Peptide chain release factor 1
+path Glutathione_Redox_Metabolism fam0 24 fam-found 7 # Glutathione_Redox_Metabolism
+   FIG000722 hits 2 # Glutathione synthetase (EC 6.3.2.3)
+   FIG061554 hits 1 # Gamma-glutamyltranspeptidase (EC 2.3.2.2)
+   FIG142224 hits 1 # Glutathione S-transferase, theta (EC 2.5.1.18)
+   FIG000714 hits 3 # Membrane alanine aminopeptidase N (EC 3.4.11.2)
+   FIG107402 hits 3 # Glutathione reductase (EC 1.8.1.7)
+   FIG135910 hits 4 # Glutamate--cysteine ligase eukaryotic (EC 6.3.2.2)
+   FIG137991 hits 27 # 5-oxoprolinase (EC 3.5.2.9)
+path Hypothetical_DUF454 fam0 22 fam-found 4 # Hypothetical_DUF454
+   FIG145365 hits 2 # Chromosome partition protein smc
+   FIG134486 hits 2 # Replicative DNA helicase (EC 3.6.1.-) [SA14-24]
+   FIG138738 hits 1 # Two-component sensor kinase SA14-24
+   FIG000107 hits 7 # Adenylosuccinate synthetase (EC 6.3.4.4)
+path Auxin_biosynthesis fam0 14 fam-found 5 # Auxin_biosynthesis
+   FIG133365 hits 1 # Tryptophan synthase beta chain (EC 4.2.1.20)
+   FIG134909 hits 3 # Tryptophan synthase alpha chain (EC 4.2.1.20) / Tryptophan synthase beta chain (EC 4.2.1.20)
+   FIG141753 hits 37 # Copper amine oxidase precursor (EC 1.4.3.6)
+   FIG138138 hits 3 # Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+   FIG136121 hits 4 # Indole-3-pyruvate decarboxylase (EC 4.1.1.74)
+path Type_VI_secretion_systems fam0 14 fam-found 2 # Type_VI_secretion_systems
+   FIG031178 hits 1 # IcmF-related protein
+   FIG061045 hits 13 # ClpB protein
+path Biogenesis_of_c-type_cytochromes fam0 42 fam-found 5 # Biogenesis_of_c-type_cytochromes
+   FIG141722 hits 7 # Citrate synthase (si) (EC 2.3.3.1)
+   FIG133342 hits 48 # Aconitate hydratase (EC 4.2.1.3)
+   FIG000345 hits 1 # Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+   FIG133238 hits 1 # Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+   FIG133681 hits 2 # Cytochrome C1 heme lyase CCHL (EC 4.4.1.17)
+path Serine-glyoxylate_cycle fam0 76 fam-found 19 # Serine-glyoxylate_cycle
+   FIG141722 hits 7 # Citrate synthase (si) (EC 2.3.3.1)
+   FIG133342 hits 48 # Aconitate hydratase (EC 4.2.1.3)
+   FIG000834 hits 6 # Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+   FIG145875 hits 4 # Enolase (EC 4.2.1.11)
+   FIG136937 hits 2 # Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG113839 hits 3 # Isocitrate lyase (EC 4.1.3.1)
+   FIG049014 hits 3 # Methylmalonyl-CoA mutase (EC 5.4.99.2)
+   FIG142606 hits 2 # Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+   FIG138165 hits 40 # Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+   FIG139472 hits 6 # Malate dehydrogenase (EC 1.1.1.37)
+   FIG002201 hits 1 # Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)
+   FIG133311 hits 4 # Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+   FIG144889 hits 20 # Malate synthase (EC 2.3.3.9)
+   FIG063794 hits 1 # Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+   FIG001433 hits 1 # Malate synthase G (EC 2.3.3.9)
+   FIG138249 hits 1 # Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+   FIG084998 hits 36 # B12 binding domain / kinase domain / Methylmalonyl-CoA mutase (EC 5.4.99.2)
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path TCA_Cycle fam0 67 fam-found 19 # TCA_Cycle
+   FIG141722 hits 7 # Citrate synthase (si) (EC 2.3.3.1)
+   FIG133342 hits 48 # Aconitate hydratase (EC 4.2.1.3)
+   FIG137010 hits 1 # Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+   FIG138490 hits 2 # 2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)
+   FIG136937 hits 2 # Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)
+   FIG037466 hits 3 # ATP-citrate (pro-S-) -lyase (EC 2.3.3.8)
+   FIG141726 hits 15 # 2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+   FIG142606 hits 2 # Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+   FIG000870 hits 2 # 2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)
+   FIG138165 hits 40 # Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+   FIG133165 hits 2 # Succinyl-CoA ligase [GDP-forming] alpha chain (EC 6.2.1.4)
+   FIG127747 hits 2 # Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+   FIG145003 hits 1 # Citrate lyase beta chain (EC 4.1.3.6)
+   FIG139472 hits 6 # Malate dehydrogenase (EC 1.1.1.37)
+   FIG144036 hits 4 # Fumarate hydratase class II (EC 4.2.1.2)
+   FIG133745 hits 8 # Dihydrolipoamide dehydrogenase (EC 1.8.1.4); Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+   FIG134715 hits 1 # Isocitrate dehydrogenase [NAD] subunit II, mitochondrial precursor (EC 1.1.1.41)
+   FIG133351 hits 1 # Succinyl-CoA ligase [GDP-forming] beta chain (EC 6.2.1.4)
+   FIG134156 hits 1 # Isocitrate dehydrogenase [NAD] subunit I, mitochondrial precursor (EC 1.1.1.41)
+path Cobalt-zinc-cadmium_resistance fam0 36 fam-found 6 # Cobalt-zinc-cadmium_resistance
+   FIG015178 hits 5 # Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+   FIG016567 hits 3 # Cobalt-zinc-cadmium resistance protein czcD
+   FIG039054 hits 2 # Quinolinate synthetase (EC 4.1.99.-)
+   FIG041735 hits 2 # Cobalt-zinc-cadmium resistance protein czcA
+   FIG138355 hits 1 # Heavy metal RND efflux outer membrane protein, CzcC family
+   FIG003898 hits 1 # Zinc transporter zitB
+path Phosphate_metabolism fam0 58 fam-found 9 # Phosphate_metabolism
+   FIG133436 hits 4 # NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+   FIG142558 hits 5 # Phosphate starvation-inducible protein PhoH, predicted ATPase
+   FIG145623 hits 20 # Alkaline phosphatase (EC 3.1.3.1)
+   FIG145940 hits 6 # Polyphosphate kinase (EC 2.7.4.1)
+   FIG045706 hits 2 # Phosphate ABC transporter, periplasmic phosphate-binding protein pstS (TC 3.A.1.7.1)
+   FIG024892 hits 1 # Alkaline phosphatase synthesis transcriptional regulatory protein
+   FIG011114 hits 1 # Phosphate transport ATP-binding protein pstB (TC 3.A.1.7.1)
+   FIG134148 hits 1 # 1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+   FIG035711 hits 1 # Inorganic pyrophosphatase (EC 3.6.1.1)
+path DNA_repair,_UvrABC_system fam0 10 fam-found 4 # DNA_repair,_UvrABC_system
+   FIG061441 hits 3 # Excinuclease ABC subunit B
+   FIG000147 hits 13 # Excinuclease ABC subunit A
+   FIG000185 hits 1 # Excinuclease ABC subunit C
+   FIG005924 hits 2 # Excinuclease ABC subunit A paralog in greater Bacteroides group
+path Salicylate_and_gentisate_catabolism fam0 20 fam-found 4 # Salicylate_and_gentisate_catabolism
+   FIG093239 hits 1 # Fumarylacetoacetate hydrolase family protein
+   FIG145866 hits 1 # 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases
+   FIG038087 hits 1 # Maleylacetoacetate isomerase (EC 5.2.1.2) / Glutathione S-transferase
+   FIG142630 hits 3 # Fumarylacetoacetase (EC 3.7.1.2)
+path Unsaturated_Fatty_Acid_Metabolism fam0 13 fam-found 3 # Unsaturated_Fatty_Acid_Metabolism
+   FIG134441 hits 2 # Fatty acid desaturase (EC 1.14.19.3)
+   FIG111239 hits 24 # Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+   FIG001277 hits 1 # 3-oxoacyl-[acyl-carrier-protein] synthase, KASI (EC 2.3.1.41)
+path Oxidative_stress fam0 49 fam-found 7 # Oxidative_stress
+   FIG000313 hits 1 # Catalase (EC 1.11.1.6)
+   FIG138439 hits 1 # Organic hydroperoxide resistance transcriptional regulator
+   FIG001237 hits 3 # Redox-sensitive transcriptional regulator (AT-rich DNA-binding protein)
+   FIG133375 hits 1 # transcriptional regulator, Crp/Fnr family
+   FIG050592 hits 1 # Superoxide dismutase [Mn] (EC 1.15.1.1)
+   FIG141969 hits 3 # Alkyl hydroperoxide reductase subunit C-like protein
+   FIG000907 hits 4 # Catalase (EC 1.11.1.6) / Peroxidase (EC 1.11.1.7)
+path COG0451 fam0 9 fam-found 4 # COG0451
+   FIG145891 hits 1 # Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+   FIG025364 hits 1 # Nucleoside-diphosphate-sugar epimerases
+   FIG076054 hits 3 # Undecaprenyl-diphosphatase (EC 3.6.1.27)
+   FIG077757 hits 2 # 3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+path Anaerobic_respiratory_reductases fam0 50 fam-found 5 # Anaerobic_respiratory_reductases
+   FIG133754 hits 20 # Isovaleryl-CoA dehydrogenase (EC 1.3.99.10); Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)
+   FIG110549 hits 5 # Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)
+   FIG134347 hits 1 # Ferric reductase (1.6.99.14)
+   FIG142643 hits 3 # Anaerobic dimethyl sulfoxide reductase chain A (EC 1.8.99.-)
+   FIG001140 hits 1 # Anaerobic dimethyl sulfoxide reductase chain C (EC 1.8.99.-)
+path Beta-lactamase fam0 16 fam-found 1 # Beta-lactamase
+   FIG121554 hits 1 # Beta-lactamase (EC 3.5.2.6)
+path Chorismate:_Intermediate_for_synthesis_of_PAPA_antibiotics,_PABA,_anthranilate,_3-hydroxyanthranilate_and_more. fam0 47 fam-found 1 # Chorismate:_Intermediate_for_synthesis_of_PAPA_antibiotics,_PABA,_anthranilate,_3-hydroxyanthranilate_and_more.
+   FIG143151 hits 3 # Anthranilate synthase, aminase component (EC 4.1.3.27)
+path Respiratory_Complex_I fam0 44 fam-found 16 # Respiratory_Complex_I
+   FIG000558 hits 269 # NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)
+   FIG041595 hits 7 # NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
+   FIG000569 hits 571 # NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
+   FIG101448 hits 2111 # NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
+   FIG141892 hits 902 # NADH dehydrogenase subunit 2
+   FIG133748 hits 1 # NADH dehydrogenase subunit 5
+   FIG141668 hits 4 # NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
+   FIG142093 hits 11 # NADH dehydrogenase subunit 1
+   FIG000559 hits 215 # NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
+   FIG133539 hits 1 # NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)
+   FIG000512 hits 1 # NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
+   FIG145979 hits 1473 # NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+   FIG014979 hits 2 # NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
+   FIG133041 hits 941 # NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
+   FIG136828 hits 2 # NADH dehydrogenase subunit 3
+   FIG144274 hits 1 # NADH dehydrogenase I subunit 4, Involved in photosystem-1 cyclic electron flow
+path Polyamine_Metabolism fam0 48 fam-found 4 # Polyamine_Metabolism
+   FIG138220 hits 2 # Agmatinase (EC 3.5.3.11)
+   FIG138714 hits 1 # Spermidine synthase (EC 2.5.1.16)
+   FIG137731 hits 1 # Biosynthetic arginine decarboxylase (EC 4.1.1.19)
+   FIG142296 hits 1 # N-carbamoylputrescine amidase (3.5.1.53)
+path Serine_Biosynthesis fam0 8 fam-found 4 # Serine_Biosynthesis
+   FIG125621 hits 1 # Phosphoserine phosphatase (EC 3.1.3.3)
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG031250 hits 7 # D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+   FIG135134 hits 4 # Phosphoserine aminotransferase (EC 2.6.1.52)
+path Glu-tRNA(Gln)_transamidation fam0 21 fam-found 7 # Glu-tRNA(Gln)_transamidation
+   FIG134621 hits 1 # Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.-)
+   FIG004287 hits 1 # Glutamyl-tRNA(Gln) amidotransferase transferase subunit (EC 6.3.5.-)
+   FIG133409 hits 5 # Glutamyl-tRNA synthetase (EC 6.1.1.17)
+   FIG134270 hits 6 # Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.-)
+   FIG142459 hits 3 # Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+   FIG145614 hits 3 # Glutamyl-tRNA synthetase (EC 6.1.1.17); Glutamyl-tRNA(Gln) synthetase
+   FIG144138 hits 6 # Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+path C_jejuni_colonization_of_chick_caeca fam0 21 fam-found 5 # C_jejuni_colonization_of_chick_caeca
+   FIG142621 hits 1 # Phosphate acetyltransferase (EC 2.3.1.8)
+   FIG054759 hits 1 # RNA polymerase sigma-54 factor rpoN
+   FIG003715 hits 3 # UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)
+   FIG009068 hits 1 # RNA polymerase sigma factor for flagellar operon
+   FIG001408 hits 1 # Rrf2 family transcriptional regulator
+path Fermentations:_Mixed_acid fam0 22 fam-found 5 # Fermentations:_Mixed_acid
+   FIG142621 hits 1 # Phosphate acetyltransferase (EC 2.3.1.8)
+   FIG145409 hits 1 # L-lactate dehydrogenase (EC 1.1.1.27)
+   FIG140866 hits 3 # Alcohol dehydrogenase (EC 1.1.1.1)
+   FIG000043 hits 1 # Pyruvate kinase (EC 2.7.1.40)
+   FIG000842 hits 1 # D-lactate dehydrogenase (EC 1.1.1.28)
+path Pyruvate_metabolism_II:_acetyl-CoA,_acetogenesis_from_pyruvate fam0 58 fam-found 10 # Pyruvate_metabolism_II:_acetyl-CoA,_acetogenesis_from_pyruvate
+   FIG142621 hits 1 # Phosphate acetyltransferase (EC 2.3.1.8)
+   FIG144239 hits 2 # Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9); Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)
+   FIG027045 hits 1 # Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)
+   FIG050464 hits 3 # Acetyl-CoA synthetase (ADP-forming) alpha and beta chains, putative
+   FIG043470 hits 1 # Acetyl-CoA synthetase (ADP-forming) alpha chain (EC 6.2.1.13)
+   FIG022631 hits 7 # Acetyl-coenzyme A synthetase (EC 6.2.1.1)
+   FIG144992 hits 1 # Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+   FIG128190 hits 1 # NAD-dependent protein deacetylase of SIR2 family
+   FIG133054 hits 8 # Aldehyde dehydrogenase (EC 1.2.1.3)
+   FIG141935 hits 10 # Aldehyde dehydrogenase (EC 1.2.1.3); Aldehyde dehydrogenase A (EC 1.2.1.22)
+path Fe-S_cluster_assembly fam0 18 fam-found 8 # Fe-S_cluster_assembly
+   FIG052365 hits 17 # Cysteine desulfurase (EC 2.8.1.7)
+   FIG023179 hits 2 # probable iron binding protein from the HesB_IscA_SufA family
+   FIG000664 hits 1 # Ferredoxin, 2Fe-2S
+   FIG018727 hits 1 # Iron-sulfur cluster assembly ATPase protein SufC
+   FIG038625 hits 2 # Iron-sulfur cluster assembly scaffold protein IscU
+   FIG070991 hits 1 # Iron binding protein IscA for iron-sulfur cluster assembly
+   FIG141476 hits 1 # Iron-sulfur cluster assembly protein SufD
+   FIG000451 hits 2 # Iron-sulfur cluster assembly protein SufB
+path Bacterial_Cell_Division fam0 33 fam-found 9 # Bacterial_Cell_Division
+   FIG123621 hits 1 # Cell division protein ftsK
+   FIG138224 hits 5 # Rod shape-determining protein mreB
+   FIG129087 hits 1 # Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+   FIG079393 hits 3 # Cell division protein ftsH (EC 3.4.24.-)
+   FIG138054 hits 1 # Cell division protein ftsJ / Ribosomal RNA large subunit methyltransferase J (EC 2.1.1.-)
+   FIG059747 hits 3 # Cell division protein ftsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+   FIG142329 hits 3 # Cell division protein ftsJ
+   FIG144134 hits 1 # Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+   FIG136088 hits 1 # S-adenosyl-methyltransferase mraW (EC 2.1.1.-)
+path Bacterial_Cytoskeleton fam0 36 fam-found 6 # Bacterial_Cytoskeleton
+   FIG123621 hits 1 # Cell division protein ftsK
+   FIG001404 hits 1 # Cell division protein zipA
+   FIG138224 hits 5 # Rod shape-determining protein mreB
+   FIG000803 hits 1 # Rod shape-determining protein rodA
+   FIG059747 hits 3 # Cell division protein ftsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+   FIG066978 hits 2 # Chromosome (plasmid) partitioning protein ParA
+path Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes fam0 13 fam-found 1 # Na(+)-translocating_NADH-quinone_oxidoreductase_and_rnf-like_group_of_electron_transport_complexes
+   FIG001289 hits 1 # Na(+)-translocating NADH-quinone reductase subunit E (EC 1.6.5.-)
+path Iron_acquisition_in_Vibrio fam0 83 fam-found 1 # Iron_acquisition_in_Vibrio
+   FIG143858 hits 2 # Similar to coproporphyrinogen III oxidase, oxygen-independent (EC 1.3.99.22)
+path Catechol_branch_of_beta-ketoadipate_pathway fam0 14 fam-found 3 # Catechol_branch_of_beta-ketoadipate_pathway
+   FIG141707 hits 1 # Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+   FIG007171 hits 6 # Catechol 1,2-dioxygenase 1 (EC 1.13.11.1)
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path Orphan_regulatory_proteins fam0 36 fam-found 1 # Orphan_regulatory_proteins
+   FIG004678 hits 2 # BarA sensory histidine kinase (= VarS = GacS)
+path Galactosylceramide_and_Sulfatide_metabolism fam0 24 fam-found 4 # Galactosylceramide_and_Sulfatide_metabolism
+   FIG130792 hits 1 # Alpha-galactosidase (EC 3.2.1.22)
+   FIG114214 hits 1 # Glycoprotein gp2
+   FIG142031 hits 3 # Beta-galactosidase (EC 3.2.1.23)
+   FIG046295 hits 4 # Arylsulfatase (EC 3.1.6.1)
+path Dihydroxyacetone_kinases fam0 33 fam-found 5 # Dihydroxyacetone_kinases
+   FIG134342 hits 3 # Ribose 5-phosphate isomerase B (EC 5.3.1.6)
+   FIG000076 hits 4 # Triosephosphate isomerase (EC 5.3.1.1)
+   FIG145840 hits 13 # Dihydroxyacetone kinase, ATP-dependent (EC 2.7.1.29)
+   FIG003702 hits 2 # Sorbitol dehydrogenase (EC 1.1.1.14)
+   FIG000415 hits 1 # Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+path tRNA_cmo5U_synthesis fam0 24 fam-found 7 # tRNA_cmo5U_synthesis
+   FIG108342 hits 2 # tRNA-i(6)A37 methylthiotransferase
+   FIG142558 hits 5 # Phosphate starvation-inducible protein PhoH, predicted ATPase
+   FIG144584 hits 2 # Shikimate 5-dehydrogenase (EC 1.1.1.25)
+   FIG136868 hits 1 # Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+   FIG105618 hits 1 # Iron-uptake factor PiuC
+   FIG106479 hits 6 # Ubiquinone biosynthesis monooxygenase UbiB
+   FIG143850 hits 2 # Protein RtcB
+path Purine_conversions fam0 46 fam-found 15 # Purine_conversions
+   FIG145307 hits 7 # Nucleoside diphosphate kinase (EC 2.7.4.6)
+   FIG027058 hits 8 # Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+   FIG019689 hits 3 # GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2)
+   FIG023004 hits 2 # Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
+   FIG133834 hits 2 # Adenosine kinase (EC 2.7.1.20)
+   FIG145940 hits 6 # Polyphosphate kinase (EC 2.7.4.1)
+   FIG000687 hits 1 # Adenosine deaminase (EC 3.5.4.4)
+   FIG135418 hits 2 # 5'-nucleotidase (EC 3.1.3.5)
+   FIG142370 hits 9 # Adenylate kinase (EC 2.7.4.3)
+   FIG144479 hits 3 # Guanylate kinase (EC 2.7.4.8)
+   FIG117785 hits 2 # Guanine deaminase (EC 3.5.4.3)
+   FIG000117 hits 7 # Adenylosuccinate lyase (EC 4.3.2.2)
+   FIG000107 hits 7 # Adenylosuccinate synthetase (EC 6.3.4.4)
+   FIG001278 hits 2 # GMP reductase (EC 1.7.1.7)
+   FIG000277 hits 1 # Adenine phosphoribosyltransferase (EC 2.4.2.7)
+path Inorganic_Sulfur_Assimilation fam0 38 fam-found 5 # Inorganic_Sulfur_Assimilation
+   FIG134013 hits 4 # Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+   FIG132973 hits 1 # Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+   FIG144592 hits 2 # Adenylylsulfate kinase (EC 2.7.1.25)
+   FIG018484 hits 1 # Sulfate adenylyltransferase, dissimilatory-type (EC 2.7.7.4)
+   FIG008251 hits 1 # Ferredoxin--sulfite reductase (EC 1.8.7.1)
+path Entner-Doudoroff_Pathway fam0 56 fam-found 17 # Entner-Doudoroff_Pathway
+   FIG144307 hits 1 # Phosphoglycerate mutase (EC 5.4.2.1)
+   FIG078792 hits 10 # Phosphoglycerate kinase (EC 2.7.2.3)
+   FIG144688 hits 6 # 6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+   FIG095801 hits 2 # 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+   FIG139059 hits 4 # Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+   FIG145875 hits 4 # Enolase (EC 4.2.1.11)
+   FIG141950 hits 2 # Gluconolactonase (EC 3.1.1.17)
+   FIG141741 hits 7 # NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+   FIG145908 hits 2 # Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+   FIG001065 hits 1 # Glucokinase (EC 2.7.1.2)
+   FIG000043 hits 1 # Pyruvate kinase (EC 2.7.1.40)
+   FIG001401 hits 2 # Gluconate dehydratase (EC 4.2.1.39)
+   FIG133054 hits 8 # Aldehyde dehydrogenase (EC 1.2.1.3)
+   FIG123023 hits 22 # Hexokinase (EC 2.7.1.1)
+   FIG141935 hits 10 # Aldehyde dehydrogenase (EC 1.2.1.3); Aldehyde dehydrogenase A (EC 1.2.1.22)
+   FIG133512 hits 2 # Gluconokinase (EC 2.7.1.12)
+   FIG103830 hits 1 # Uronate isomerase (EC 5.3.1.12)
+path Glycolysis_and_Gluconeogenesis fam0 42 fam-found 17 # Glycolysis_and_Gluconeogenesis
+   FIG144307 hits 1 # Phosphoglycerate mutase (EC 5.4.2.1)
+   FIG000245 hits 5 # Glucose-6-phosphate isomerase (EC 5.3.1.9)
+   FIG078792 hits 10 # Phosphoglycerate kinase (EC 2.7.2.3)
+   FIG006554 hits 1 # Pyrophosphate--fructose 6-phosphate 1-phosphotransferase, alpha subunit (EC 2.7.1.90)
+   FIG095801 hits 2 # 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+   FIG001916 hits 6 # Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+   FIG145875 hits 4 # Enolase (EC 4.2.1.11)
+   FIG032866 hits 4 # Phosphoenolpyruvate synthase (EC 2.7.9.2)
+   FIG141741 hits 7 # NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+   FIG145908 hits 2 # Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+   FIG000370 hits 2 # Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+   FIG001065 hits 1 # Glucokinase (EC 2.7.1.2)
+   FIG000043 hits 1 # Pyruvate kinase (EC 2.7.1.40)
+   FIG123023 hits 22 # Hexokinase (EC 2.7.1.1)
+   FIG001076 hits 3 # Pyruvate,phosphate dikinase (EC 2.7.9.1)
+   FIG000076 hits 4 # Triosephosphate isomerase (EC 5.3.1.1)
+   FIG000732 hits 1 # Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)
+path Phosphoglycerate_mutase_protein_family fam0 3 fam-found 2 # Phosphoglycerate_mutase_protein_family
+   FIG144307 hits 1 # Phosphoglycerate mutase (EC 5.4.2.1)
+   FIG095801 hits 2 # 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (EC 5.4.2.1)
+path Transport_of_Zinc fam0 13 fam-found 3 # Transport_of_Zinc
+   FIG139133 hits 5 # COG0523: Putative GTPases (G3E family)
+   FIG140266 hits 1 # Zinc ABC transporter, inner membrane permease protein ZnuB
+   FIG144106 hits 3 # Zinc transporter, ZIP family
+path Zinc_regulated_enzymes fam0 17 fam-found 7 # Zinc_regulated_enzymes
+   FIG139133 hits 5 # COG0523: Putative GTPases (G3E family)
+   FIG000348 hits 1 # Porphobilinogen synthase (EC 4.2.1.24)
+   FIG000032 hits 3 # Dihydroorotase (EC 3.5.2.3)
+   FIG051667 hits 1 # Carbonic anhydrase (EC 4.2.1.1)
+   FIG113546 hits 5 # GTP cyclohydrolase I (EC 3.5.4.16) type 1
+   FIG140063 hits 1 # C4-type zinc finger protein, DksA/TraR family
+   FIG136272 hits 9 # Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31) / Histidinol dehydrogenase (EC 1.1.1.23)
+path Transcription_factors_bacterial fam0 14 fam-found 3 # Transcription_factors_bacterial
+   FIG142758 hits 5 # Transcription-repair coupling factor
+   FIG000168 hits 1 # Transcription termination protein NusA
+   FIG000392 hits 3 # Transcription termination factor Rho
+path Photorespiration_(oxidative_C2_cycle) fam0 62 fam-found 17 # Photorespiration_(oxidative_C2_cycle)
+   FIG137010 hits 1 # Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+   FIG138767 hits 1 # Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+   FIG144585 hits 1 # 2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+   FIG000313 hits 1 # Catalase (EC 1.11.1.6)
+   FIG003638 hits 1 # D-glycerate 3-kinase (EC 2.7.1.31), plant type
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG001333 hits 1 # Glycolate dehydrogenase (EC 1.1.99.14), iron-sulfur subunit GlcF
+   FIG133745 hits 8 # Dihydrolipoamide dehydrogenase (EC 1.8.1.4); Dihydrolipoamide dehydrogenase of 2-oxoglutarate dehydrogenase (EC 1.8.1.4)
+   FIG000907 hits 4 # Catalase (EC 1.11.1.6) / Peroxidase (EC 1.11.1.7)
+   FIG139094 hits 1 # Glutamine synthetase type I (EC 6.3.1.2)
+   FIG102445 hits 2 # Glycolate oxidase (EC 1.1.3.15) # predicted in (Eisenhut et al., 2006)
+   FIG144889 hits 20 # Malate synthase (EC 2.3.3.9)
+   FIG133864 hits 1 # Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+   FIG138538 hits 1 # Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
+   FIG001433 hits 1 # Malate synthase G (EC 2.3.3.9)
+   FIG133433 hits 1 # Glycolate oxidase (EC 1.1.3.15) / (S)-2-hydroxy-acid oxidase (EC 1.1.3.15)
+   FIG000700 hits 2 # Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+path NAD_and_NADP_cofactor_biosynthesis_global fam0 60 fam-found 14 # NAD_and_NADP_cofactor_biosynthesis_global
+   FIG133436 hits 4 # NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
+   FIG144436 hits 2 # DNA ligase (EC 6.5.1.2)
+   FIG001585 hits 1 # Kynureninase (EC 3.7.1.3)
+   FIG025209 hits 2 # Nicotinamidase (EC 3.5.1.19)
+   FIG128190 hits 1 # NAD-dependent protein deacetylase of SIR2 family
+   FIG000914 hits 5 # NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+   FIG133462 hits 2 # 3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)
+   FIG135401 hits 2 # Ribosylnicotinamide kinase, eukaryotic (EC 2.7.1.22)
+   FIG039054 hits 2 # Quinolinate synthetase (EC 4.1.99.-)
+   FIG115968 hits 8 # Kynurenine 3-monooxygenase (EC 1.14.13.9)
+   FIG003882 hits 1 # Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1) / ADP-ribose pyrophosphatase (EC 3.6.1.13)
+   FIG000413 hits 2 # Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)
+   FIG133848 hits 7 # NAD kinase (EC 2.7.1.23)
+   FIG002848 hits 1 # Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)
+path Pyruvate_metabolism_I:_anaplerotic_reactions,_PEP fam0 40 fam-found 7 # Pyruvate_metabolism_I:_anaplerotic_reactions,_PEP
+   FIG145178 hits 2 # Pyruvate carboxyl transferase (EC 6.4.1.1)
+   FIG000834 hits 6 # Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)
+   FIG032866 hits 4 # Phosphoenolpyruvate synthase (EC 2.7.9.2)
+   FIG000043 hits 1 # Pyruvate kinase (EC 2.7.1.40)
+   FIG008510 hits 4 # NAD-dependent malic enzyme (EC 1.1.1.38)
+   FIG131472 hits 3 # NADP-dependent malic enzyme (EC 1.1.1.40)
+   FIG001076 hits 3 # Pyruvate,phosphate dikinase (EC 2.7.9.1)
+path Gamma-aminobutyrate_(GABA)_shunt fam0 17 fam-found 2 # Gamma-aminobutyrate_(GABA)_shunt
+   FIG132963 hits 9 # Succinate-semialdehyde dehydrogenase [NADP+] (EC 1.2.1.16)
+   FIG138767 hits 1 # Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+path Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis fam0 23 fam-found 3 # Choline_and_Betaine_Uptake_and_Betaine_Biosynthesis
+   FIG059912 hits 3 # L-proline Glycine Betaine ABC transport ATP-binding protein proV (TC 3.A.1.12.1)
+   FIG145456 hits 1 # Choline-sulfatase (EC 3.1.6.6)
+   FIG073339 hits 2 # Choline dehydrogenase (EC 1.1.99.1)
+path SigmaB_stress_responce_regulation fam0 17 fam-found 1 # SigmaB_stress_responce_regulation
+   FIG106245 hits 1 # Serine phosphatase RsbU, regulator of sigma subunit
+path Photosystem_II fam0 29 fam-found 2 # Photosystem_II
+   FIG116834 hits 55 # photosystem II protein D1 (PsbA)
+   FIG017500 hits 1 # Cytochrome b559 alpha chain (PsbE)
+path Soluble_cytochromes_and_functionally_related_electron_carriers fam0 22 fam-found 2 # Soluble_cytochromes_and_functionally_related_electron_carriers
+   FIG035623 hits 1 # Iron-sulfur cluster-binding protein
+   FIG000664 hits 1 # Ferredoxin, 2Fe-2S
+path Potassium_homeostasis_Pavel fam0 31 fam-found 4 # Potassium_homeostasis_Pavel
+   FIG140116 hits 1 # Potassium efflux system kefA / Small-conductance mechanosensitive channel
+   FIG083250 hits 1 # Kup system potassium uptake protein
+   FIG136521 hits 1 # Trk system potassium uptake protein trkA
+   FIG137362 hits 1 # putative Glutathione-regulated potassium-efflux system protein KefB
+path Sucrose_Metabolism fam0 28 fam-found 6 # Sucrose_Metabolism
+   FIG000245 hits 5 # Glucose-6-phosphate isomerase (EC 5.3.1.9)
+   FIG030911 hits 3 # UDP-glucose dehydrogenase (EC 1.1.1.22)
+   FIG019198 hits 2 # Beta-glucosidase (EC 3.2.1.21)
+   FIG135626 hits 1 # UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+   FIG001065 hits 1 # Glucokinase (EC 2.7.1.2)
+   FIG133431 hits 8 # 1,4-alpha-glucan phosphorylase (EC 2.4.1.1)
+path Rhamnose_containing_glycans fam0 35 fam-found 5 # Rhamnose_containing_glycans
+   FIG045467 hits 2 # dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+   FIG029467 hits 6 # UDP-glucose 4-epimerase (EC 5.1.3.2)
+   FIG138345 hits 1 # Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)
+   FIG000187 hits 1 # Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
+   FIG045575 hits 1 # O-antigen export system, permease protein
+path Bacterial_motility:Gliding fam0 40 fam-found 4 # Bacterial_motility:Gliding
+   FIG144754 hits 4 # Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+   FIG139509 hits 1 # Type II secretory pathway, component PulF/Type 4 fimbrial assembly protein pilC
+   FIG139948 hits 1 # General secretion pathway protein E / Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB
+   FIG138959 hits 1 # General secretion pathway protein F / Type II secretory pathway, component PulF/Type 4 fimbrial assembly protein pilC
+path Terminal_cytochrome_C_oxidases_copy fam0 47 fam-found 4 # Terminal_cytochrome_C_oxidases_copy
+   FIG144756 hits 77 # Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+   FIG000640 hits 935 # Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+   FIG135083 hits 3 # Cytochrome c oxidase polypeptide Vb, mitochondrial precursor (EC 1.9.3.1)
+   FIG138425 hits 1159 # Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+path Bacterial_Endolysins:_autolysins,_phage,_and_phage-like_lysins fam0 6 fam-found 1 # Bacterial_Endolysins:_autolysins,_phage,_and_phage-like_lysins
+   FIG024628 hits 1 # N-acetylmuramoyl-L-alanine amidase
+path Carotenoids fam0 34 fam-found 3 # Carotenoids
+   FIG139162 hits 1 # Phytoene dehydrogenase and related proteins
+   FIG132544 hits 5 # Phytoene dehydrogenase (EC 1.14.99.-)
+   FIG000928 hits 1 # Phytoene synthase (EC 2.5.1.32)
+path Translation_initiation_factors_eukaryotic_and_archaeal fam0 29 fam-found 14 # Translation_initiation_factors_eukaryotic_and_archaeal
+   FIG133239 hits 3 # Eukaryotic translation initiation factor 4B
+   FIG042556 hits 1 # Eukaryotic translation initiation factor 2 gamma subunit
+   FIG142345 hits 2 # Eukaryotic translation initiation factor 4A
+   FIG133901 hits 2 # Eukaryotic translation initiation factor 3 39 kDa subunit
+   FIG133393 hits 3 # Eukaryotic translation initiation factor 3 RNA-binding subunit
+   FIG135296 hits 5 # Eukaryotic translation initiation factor 3 93 kDa subunit
+   FIG079804 hits 1 # Eukaryotic translation initiation factor 6
+   FIG134523 hits 2 # Eukaryotic translation initiation factor 2 beta subunit
+   FIG000102 hits 17 # Translation initiation factor 2
+   FIG070884 hits 2 # Eukaryotic translation initiation factor 2 alpha subunit
+   FIG133752 hits 4 # Eukaryotic translation initiation factor 3 135 kDa subunit
+   FIG134433 hits 1 # Eukaryotic translation initiation factor 3 110 kDa subunit
+   FIG134917 hits 3 # Translation initiation factor 2B delta subunit
+   FIG135096 hits 6 # Translation initiation factor 2B beta subunit
+path Riboflavin,_FMN_and_FAD_metabolism fam0 29 fam-found 4 # Riboflavin,_FMN_and_FAD_metabolism
+   FIG002260 hits 3 # 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+   FIG145397 hits 1 # Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+   FIG000273 hits 3 # Riboflavin synthase alpha chain (EC 2.5.1.9)
+   FIG135394 hits 2 # Pyrimidine deaminase eukaryotic (EC 3.5.4.26)
+path COG0277 fam0 3 fam-found 2 # COG0277
+   FIG093239 hits 1 # Fumarylacetoacetate hydrolase family protein
+   FIG031250 hits 7 # D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+path Pterin_carbinolamine_dehydratase fam0 13 fam-found 7 # Pterin_carbinolamine_dehydratase
+   FIG093239 hits 1 # Fumarylacetoacetate hydrolase family protein
+   FIG038087 hits 1 # Maleylacetoacetate isomerase (EC 5.2.1.2) / Glutathione S-transferase
+   FIG069309 hits 2 # Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+   FIG142630 hits 3 # Fumarylacetoacetase (EC 3.7.1.2)
+   FIG142361 hits 3 # 4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+   FIG027527 hits 1 # Histidinol-phosphate aminotransferase (EC 2.6.1.9) @ Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+   FIG001172 hits 9 # Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+path Pterin_metabolism_3 fam0 32 fam-found 11 # Pterin_metabolism_3
+   FIG093239 hits 1 # Fumarylacetoacetate hydrolase family protein
+   FIG137313 hits 2 # 6-pyruvoyl tetrahydrobiopterin synthase (EC 4.2.3.12)
+   FIG018866 hits 2 # COG1565: Uncharacterized conserved protein
+   FIG038087 hits 1 # Maleylacetoacetate isomerase (EC 5.2.1.2) / Glutathione S-transferase
+   FIG069309 hits 2 # Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+   FIG142630 hits 3 # Fumarylacetoacetase (EC 3.7.1.2)
+   FIG138402 hits 1 # FolM Alternative dihydrofolate reductase 1
+   FIG142361 hits 3 # 4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+   FIG113546 hits 5 # GTP cyclohydrolase I (EC 3.5.4.16) type 1
+   FIG027527 hits 1 # Histidinol-phosphate aminotransferase (EC 2.6.1.9) @ Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+   FIG001172 hits 9 # Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+path UDP-N-acetylmuramate_from_Fructose-6-phosphate_Biosynthesis fam0 15 fam-found 6 # UDP-N-acetylmuramate_from_Fructose-6-phosphate_Biosynthesis
+   FIG144033 hits 1 # Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+   FIG030013 hits 1 # UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.1.1.158)
+   FIG133417 hits 2 # Phosphoacetylglucosamine mutase (EC 5.4.2.3)
+   FIG144300 hits 2 # N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+   FIG002377 hits 1 # Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+   FIG133739 hits 2 # Glucosamine 6-phosphate N-acetyltransferase (EC 2.3.1.4)
+path Biotin_biosynthesis fam0 33 fam-found 4 # Biotin_biosynthesis
+   FIG111239 hits 24 # Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+   FIG000467 hits 1 # Biotin synthase (EC 2.8.1.6)
+   FIG000423 hits 1 # Dethiobiotin synthetase (EC 6.3.3.3)
+   FIG035278 hits 4 # Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+path Carbonate_Biomineralization fam0 14 fam-found 4 # Carbonate_Biomineralization
+   FIG111239 hits 24 # Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+   FIG136866 hits 3 # Electron transfer flavoprotein, beta subunit
+   FIG013087 hits 1 # Transcriptional regulator, TetR family
+   FIG035155 hits 1 # Enoyl-CoA hydratase (EC 4.2.1.17)
+path Proteasome_eukaryotic fam0 41 fam-found 26 # Proteasome_eukaryotic
+   FIG134033 hits 1 # proteasome subunit beta1 (EC 3.4.25.1)
+   FIG133198 hits 4 # proteasome regulatory subunit Rpt2
+   FIG134434 hits 4 # proteasome regulatory subunit Rpn10
+   FIG135183 hits 3 # proteasome regulatory subunit Rpn5
+   FIG133065 hits 1 # proteasome regulatory subunit Rpn7
+   FIG135295 hits 1 # proteasome subunit beta3 (EC 3.4.25.1)
+   FIG134238 hits 13 # proteasome regulatory subunit Rpt6
+   FIG133606 hits 13 # proteasome regulatory subunit Rpt1
+   FIG135005 hits 1 # proteasome regulatory subunit Rpn4
+   FIG142472 hits 2 # proteasome regulatory subunit Rpn3
+   FIG133339 hits 4 # proteasome subunit alpha5 (EC 3.4.25.1)
+   FIG134598 hits 4 # proteasome subunit alpha7 (EC 3.4.25.1)
+   FIG134149 hits 2 # proteasome regulatory subunit Rpn1
+   FIG134219 hits 1 # proteasome subunit beta7 (EC 3.4.25.1)
+   FIG133809 hits 2 # proteasome subunit alpha6 (EC 3.4.25.1)
+   FIG134066 hits 1 # proteasome regulatory subunit Rpn9
+   FIG134784 hits 3 # proteasome subunit beta6 (EC 3.4.25.1)
+   FIG142282 hits 2 # proteasome regulatory subunit p28
+   FIG136836 hits 2 # proteasome subunit beta2 (EC 3.4.25.1)
+   FIG133615 hits 1 # proteasome regulatory subunit Rpn6
+   FIG133471 hits 4 # proteasome regulatory subunit Rpn11
+   FIG133922 hits 3 # proteasome regulatory subunit Rpn8
+   FIG142587 hits 2 # proteasome regulatory subunit Rpn12
+   FIG133700 hits 1 # proteasome regulatory subunit Rpn2
+   FIG134272 hits 4 # proteasome subunit alpha1 (EC 3.4.25.1)
+   FIG133096 hits 2 # proteasome regulatory subunit Rpt5
+path LOS_core_oligosaccharide_biosynthesis fam0 29 fam-found 3 # LOS_core_oligosaccharide_biosynthesis
+   FIG074675 hits 1 # ADP-heptose synthase (EC 2.7.-.-) / D-glycero-beta-D-manno-heptose 7-phosphate kinase
+   FIG001052 hits 2 # ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+   FIG077757 hits 2 # 3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+path Threonine_degradation fam0 21 fam-found 5 # Threonine_degradation
+   FIG092923 hits 2 # Ornithine cyclodeaminase (EC 4.3.1.12)
+   FIG144385 hits 1 # Threonine dehydrogenase and related Zn-dependent dehydrogenases
+   FIG141753 hits 37 # Copper amine oxidase precursor (EC 1.4.3.6)
+   FIG000679 hits 4 # Low-specificity L-threonine aldolase (EC 4.1.2.5)
+   FIG001888 hits 6 # 5-aminolevulinate synthase (EC 2.3.1.37)
+path Heme_and_Siroheme_Biosynthesis fam0 52 fam-found 11 # Heme_and_Siroheme_Biosynthesis
+   FIG139010 hits 1 # Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+   FIG090522 hits 2 # Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+   FIG133409 hits 5 # Glutamyl-tRNA synthetase (EC 6.1.1.17)
+   FIG000345 hits 1 # Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)
+   FIG145087 hits 1 # Uroporphyrinogen-III synthase (EC 4.2.1.75)
+   FIG000348 hits 1 # Porphobilinogen synthase (EC 4.2.1.24)
+   FIG145614 hits 3 # Glutamyl-tRNA synthetase (EC 6.1.1.17); Glutamyl-tRNA(Gln) synthetase
+   FIG000428 hits 6 # Uroporphyrinogen III decarboxylase (EC 4.1.1.37)
+   FIG000338 hits 1 # Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
+   FIG000363 hits 3 # Porphobilinogen deaminase (EC 2.5.1.61)
+   FIG001888 hits 6 # 5-aminolevulinate synthase (EC 2.3.1.37)
+path Nudix_proteins_(nucleoside_triphosphate_hydrolases) fam0 25 fam-found 3 # Nudix_proteins_(nucleoside_triphosphate_hydrolases)
+   FIG000911 hits 6 # NADH pyrophosphatase (EC 3.6.1.22)
+   FIG004727 hits 1 # Nudix hydrolase family protein PA3470
+   FIG003882 hits 1 # Nicotinamide-nucleotide adenylyltransferase, NadM family (EC 2.7.7.1) / ADP-ribose pyrophosphatase (EC 3.6.1.13)
+path Menaquinone_Biosynthesis_via_Futalosine fam0 16 fam-found 6 # Menaquinone_Biosynthesis_via_Futalosine
+   FIG145792 hits 2 # 5'-methylthioadenosine phosphorylase (EC 2.4.2.28)
+   FIG136868 hits 1 # Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+   FIG115626 hits 2 # 3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-)
+   FIG000687 hits 1 # Adenosine deaminase (EC 3.5.4.4)
+   FIG000499 hits 2 # 4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.-)
+   FIG000573 hits 1 # 3-polyprenyl-4-hydroxybenzoate carboxy-lyase UbiX (EC 4.1.1.-)
+path Coenzyme_F420_synthesis fam0 8 fam-found 1 # Coenzyme_F420_synthesis
+   FIG016203 hits 1 # 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1
+path EGS_prediction fam0 37 fam-found 15 # EGS_prediction
+   FIG136178 hits 3 # SSU ribosomal protein S2p (SAe)
+   FIG135756 hits 4 # Preprotein translocase secY subunit (TC 3.A.5.1.1)
+   FIG144196 hits 12 # Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+   FIG143916 hits 2 # Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+   FIG000087 hits 1 # Histidyl-tRNA synthetase (EC 6.1.1.21)
+   FIG142266 hits 1 # LSU ribosomal protein L2p (L8e)
+   FIG035486 hits 10 # Valyl-tRNA synthetase (EC 6.1.1.9)
+   FIG145849 hits 1 # LSU ribosomal protein L14p (L23e)
+   FIG049915 hits 9 # GTP-binding and nucleic acid-binding protein YchF
+   FIG144684 hits 1 # SSU ribosomal protein S15p (S13e)
+   FIG001577 hits 1 # LSU ribosomal protein L6p (L9e)
+   FIG000114 hits 4 # Leucyl-tRNA synthetase (EC 6.1.1.4)
+   FIG000203 hits 1 # SSU ribosomal protein S12p (S23e)
+   FIG108107 hits 1 # LSU ribosomal protein L11p (L12e)
+   FIG000264 hits 2 # LSU ribosomal protein L1p (L10Ae)
+path Threonine_and_Homoserine_Biosynthesis fam0 13 fam-found 6 # Threonine_and_Homoserine_Biosynthesis
+   FIG133178 hits 4 # Aspartate aminotransferase (EC 2.6.1.1)
+   FIG042004 hits 1 # Aspartokinase (EC 2.7.2.4)
+   FIG000434 hits 2 # Homoserine dehydrogenase (EC 1.1.1.3)
+   FIG138370 hits 10 # Homoserine kinase (EC 2.7.1.39)
+   FIG138129 hits 1 # Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+   FIG144305 hits 1 # Threonine synthase (EC 4.2.3.1)
+path COG2363 fam0 23 fam-found 5 # COG2363
+   FIG052365 hits 17 # Cysteine desulfurase (EC 2.8.1.7)
+   FIG015923 hits 1 # ThiJ/PfpI family protein
+   FIG144159 hits 1 # Thiamin biosynthesis protein ThiC
+   FIG134639 hits 1 # Phosphomethylpyrimidine kinase (EC 2.7.4.7) / Thiaminase II (EC 3.5.99.2)
+   FIG135919 hits 6 # Hydroxyethylthiazole kinase (EC 2.7.1.50) / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)
+path Siderophore_enterobactin_biosynthesis_and_ferric_enterbactin_transport fam0 21 fam-found 1 # Siderophore_enterobactin_biosynthesis_and_ferric_enterbactin_transport
+   FIG142327 hits 1 # Menaquinone-specific isochorismate synthase (EC 5.4.4.2)
+path Experimental-DCE_degrader fam0 4 fam-found 2 # Experimental-DCE_degrader
+   FIG136911 hits 1 # Glutathione S-transferase (EC 2.5.1.18)
+   FIG107402 hits 3 # Glutathione reductase (EC 1.8.1.7)
+path cAMP_signaling_in_bacteria fam0 49 fam-found 8 # cAMP_signaling_in_bacteria
+   FIG136911 hits 1 # Glutathione S-transferase (EC 2.5.1.18)
+   FIG138767 hits 1 # Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
+   FIG092685 hits 3 # Adenylate cyclase (EC 4.6.1.1)
+   FIG025209 hits 2 # Nicotinamidase (EC 3.5.1.19)
+   FIG142224 hits 1 # Glutathione S-transferase, theta (EC 2.5.1.18)
+   FIG038087 hits 1 # Maleylacetoacetate isomerase (EC 5.2.1.2) / Glutathione S-transferase
+   FIG029978 hits 6 # Arsenical pump-driving ATPase (EC 3.6.3.16)
+   FIG000277 hits 1 # Adenine phosphoribosyltransferase (EC 2.4.2.7)
+path Arginine_Biosynthesis_extended fam0 36 fam-found 7 # Arginine_Biosynthesis_extended
+   FIG006178 hits 1 # Argininosuccinate lyase (EC 4.3.2.1)
+   FIG000383 hits 1 # Acetylglutamate kinase (EC 2.7.2.8)
+   FIG000358 hits 1 # N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+   FIG144652 hits 1 # Argininosuccinate synthase (EC 6.3.4.5)
+   FIG138144 hits 12 # Ornithine aminotransferase (EC 2.6.1.13); Succinylornithine transaminase (EC 2.6.1.81); Acetylornithine aminotransferase (EC 2.6.1.11); N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+   FIG135607 hits 4 # Glutamate N-acetyltransferase (EC 2.3.1.35) / Amino-acid acetyltransferase (EC 2.3.1.1)
+   FIG140282 hits 1 # Acetylornithine deacetylase (EC 3.5.1.16)
+path Sugar_utilization_in_Thermotogales fam0 37 fam-found 9 # Sugar_utilization_in_Thermotogales
+   FIG141178 hits 11 # Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8)
+   FIG143783 hits 2 # Beta-hexosaminidase (EC 3.2.1.52)
+   FIG035467 hits 6 # Beta-xylosidase (EC 3.2.1.37)
+   FIG019198 hits 2 # Beta-glucosidase (EC 3.2.1.21)
+   FIG142031 hits 3 # Beta-galactosidase (EC 3.2.1.23)
+   FIG001065 hits 1 # Glucokinase (EC 2.7.1.2)
+   FIG035493 hits 2 # Alpha-xylosidase (EC 3.2.1.-)
+   FIG145890 hits 7 # N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
+   FIG138182 hits 11 # Beta-mannosidase (EC 3.2.1.25)
+path Methylglyoxal_Metabolism fam0 18 fam-found 5 # Methylglyoxal_Metabolism
+   FIG015178 hits 5 # Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+   FIG006779 hits 2 # Lactoylglutathione lyase (EC 4.4.1.5)
+   FIG035184 hits 1 # Methylglyoxal synthase (EC 4.2.3.3)
+   FIG133054 hits 8 # Aldehyde dehydrogenase (EC 1.2.1.3)
+   FIG141935 hits 10 # Aldehyde dehydrogenase (EC 1.2.1.3); Aldehyde dehydrogenase A (EC 1.2.1.22)
+path Pyridoxin_(Vitamin_B6)_Biosynthesis fam0 18 fam-found 6 # Pyridoxin_(Vitamin_B6)_Biosynthesis
+   FIG145177 hits 2 # 1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+   FIG141741 hits 7 # NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
+   FIG031250 hits 7 # D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+   FIG135134 hits 4 # Phosphoserine aminotransferase (EC 2.6.1.52)
+   FIG001203 hits 3 # Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)
+   FIG021445 hits 10 # Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)
+path Coenzyme_B12_biosynthesis fam0 84 fam-found 7 # Coenzyme_B12_biosynthesis
+   FIG000912 hits 1 # Outer membrane vitamin B12 receptor BtuB
+   FIG001045 hits 1 # Cob(I)alamin adenosyltransferase PduO (EC 2.5.1.17)
+   FIG139010 hits 1 # Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) / Uroporphyrinogen-III synthase (EC 4.2.1.75)
+   FIG090522 hits 2 # Siroheme synthase / Precorrin-2 oxidase (EC 1.3.1.76) / Sirohydrochlorin ferrochelatase (EC 4.99.1.4) / Uroporphyrinogen-III methyltransferase (EC 2.1.1.107)
+   FIG001880 hits 1 # CobW GTPase involved in cobalt insertion for B12 biosynthesis
+   FIG144867 hits 1 # Cobyric acid synthase
+   FIG001528 hits 1 # Cobalt-precorrin-3b C17-methyltransferase
+path Chorismate_Synthesis fam0 86 fam-found 3 # Chorismate_Synthesis
+   FIG144584 hits 2 # Shikimate 5-dehydrogenase (EC 1.1.1.25)
+   FIG145907 hits 4 # Prephenate dehydratase (EC 4.2.1.51)
+   FIG141982 hits 5 # 3-dehydroquinate synthase (EC 4.2.3.4)
+path Type_4_secretion_and_conjugative_transfer fam0 81 fam-found 2 # Type_4_secretion_and_conjugative_transfer
+   FIG003135 hits 1 # IncF plasmid conjugative transfer pilus assembly protein TraB
+   FIG006378 hits 1 # Ync
+path Periplasmic_Stress_Response fam0 9 fam-found 1 # Periplasmic_Stress_Response
+   FIG048912 hits 1 # Membrane-associated zinc metalloprotease
+path XXBOB fam0 21 fam-found 8 # XXBOB
+   FIG133045 hits 4 # ATP phosphoribosyltransferase (EC 2.4.2.17)
+   FIG000303 hits 2 # Histidinol dehydrogenase (EC 1.1.1.23)
+   FIG003731 hits 4 # Histidinol-phosphatase (EC 3.1.3.15)
+   FIG000258 hits 3 # Imidazole glycerol phosphate synthase cyclase subunit (EC 4.1.3.-)
+   FIG135748 hits 2 # Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
+   FIG027527 hits 1 # Histidinol-phosphate aminotransferase (EC 2.6.1.9) @ Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+   FIG000601 hits 3 # Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+   FIG136272 hits 9 # Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19) / Phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31) / Histidinol dehydrogenase (EC 1.1.1.23)
+path XXBOB2 fam0 2 fam-found 1 # XXBOB2
+   FIG133045 hits 4 # ATP phosphoribosyltransferase (EC 2.4.2.17)
+path Protein_chaperones fam0 10 fam-found 7 # Protein_chaperones
+   FIG061045 hits 13 # ClpB protein
+   FIG145267 hits 4 # Chaperone protein hscA
+   FIG145364 hits 2 # Chaperone protein DnaJ
+   FIG144325 hits 10 # Chaperone protein DnaK
+   FIG141867 hits 1 # Chaperone protein HtpG
+   FIG136199 hits 2 # Chaperone protein hscB
+   FIG027226 hits 1 # DnaJ-class molecular chaperone CbpA
+path Proteolysis_in_bacteria,_ATP-dependent fam0 20 fam-found 5 # Proteolysis_in_bacteria,_ATP-dependent
+   FIG061045 hits 13 # ClpB protein
+   FIG134688 hits 7 # ATP-dependent protease La (EC 3.4.21.53) Type I ## mitochondrial
+   FIG020108 hits 2 # ATP-dependent Clp protease ATP-binding subunit clpA
+   FIG000241 hits 2 # ATP-dependent Clp protease ATP-binding subunit clpX
+   FIG133120 hits 7 # ATP-dependent protease La (EC 3.4.21.53) Type I
+path Urea_decomposition fam0 26 fam-found 8 # Urea_decomposition
+   FIG144045 hits 1 # Urease gamma subunit (EC 3.5.1.5)
+   FIG142792 hits 1 # Urease alpha subunit (EC 3.5.1.5)
+   FIG003397 hits 2 # Urea carboxylase
+   FIG113155 hits 1 # Urea ABC transporter, permease protein UrtC
+   FIG001001 hits 4 # Urease accessory protein UreG
+   FIG134877 hits 35 # Urease alpha subunit (EC 3.5.1.5) / Urease beta subunit (EC 3.5.1.5)
+   FIG001113 hits 1 # Urease accessory protein UreD
+   FIG054317 hits 1 # Urea carboxylase-related ABC transporter, periplasmic substrate-binding protein
+path Anaerobic_benzoate_metabolism fam0 17 fam-found 2 # Anaerobic_benzoate_metabolism
+   FIG077916 hits 1 # Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+   FIG001018 hits 6 # Glutaryl-CoA dehydrogenase (EC 1.3.99.7)
+path Glycerolipid_and_Glycerophospholipid_Metabolism_in_Bacteria fam0 31 fam-found 7 # Glycerolipid_and_Glycerophospholipid_Metabolism_in_Bacteria
+   FIG082287 hits 3 # Acyl carrier protein
+   FIG140866 hits 3 # Alcohol dehydrogenase (EC 1.1.1.1)
+   FIG136561 hits 1 # CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)
+   FIG133054 hits 8 # Aldehyde dehydrogenase (EC 1.2.1.3)
+   FIG141935 hits 10 # Aldehyde dehydrogenase (EC 1.2.1.3); Aldehyde dehydrogenase A (EC 1.2.1.22)
+   FIG016882 hits 15 # Glycerol-3-phosphate acyltransferase (EC 2.3.1.15)
+   FIG134148 hits 1 # 1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+path Propanoate_to_succinate_module fam0 9 fam-found 2 # Propanoate_to_succinate_module
+   FIG138978 hits 1 # Propionate--CoA ligase (EC 6.2.1.17)
+   FIG138994 hits 1 # PrpF protein involved in 2-methylcitrate cycle
+path Molybdopterin_experimental fam0 14 fam-found 4 # Molybdopterin_experimental
+   FIG006834 hits 2 # Molybdopterin-guanine dinucleotide biosynthesis protein A
+   FIG085866 hits 2 # Molybdenum cofactor biosynthesis protein A
+   FIG099748 hits 1 # Molybdopterin-guanine dinucleotide biosynthesis protein B
+   FIG053487 hits 1 # Molybdenum cofactor biosynthesis protein C
+path Acetoin,_butanediol_metabolism fam0 27 fam-found 2 # Acetoin,_butanediol_metabolism
+   FIG002893 hits 1 # CDP-4-dehydro-6-deoxy-D-glucose 3-dehydratase (EC 4.2.1.-)
+   FIG142238 hits 4 # Acetolactate synthase large subunit (EC 2.2.1.6)
+path Coenzyme_A_Biosynthesis fam0 24 fam-found 9 # Coenzyme_A_Biosynthesis
+   FIG000364 hits 1 # 3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
+   FIG000261 hits 2 # Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+   FIG138447 hits 4 # 2-dehydropantoate 2-reductase (EC 1.1.1.169)
+   FIG118397 hits 3 # Ketol-acid reductoisomerase (EC 1.1.1.86)
+   FIG026381 hits 2 # Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+   FIG000440 hits 2 # Pantoate--beta-alanine ligase (EC 6.3.2.1)
+   FIG136027 hits 1 # Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)
+   FIG046134 hits 1 # Phosphopantetheine adenylyltransferase, type II eukaryotic (EC 2.7.7.3)
+   FIG000695 hits 1 # Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)
+path trimethylamine_N-oxide_(TMAO)_reductase fam0 14 fam-found 1 # trimethylamine_N-oxide_(TMAO)_reductase
+   FIG071731 hits 1 # Trimethylamine-N-oxide reductase (Cytochrome c) (EC 1.7.2.3)
+path RNA_polymerase_III fam0 17 fam-found 9 # RNA_polymerase_III
+   FIG144267 hits 2 # DNA-directed RNA polymerase III largest subunit (EC 2.7.7.6)
+   FIG133225 hits 2 # DNA-directed RNA polymerase III 36 kDa polypeptide (EC 2.7.7.6)
+   FIG133718 hits 2 # DNA-directed RNA polymerase III 74 kDa polypeptide (EC 2.7.7.6)
+   FIG141910 hits 1 # DNA-directed RNA polymerase III 25 kDa polypeptide (EC 2.7.7.6)
+   FIG141719 hits 11 # DNA-directed RNA polymerase III 37/80 kDa polypeptide (EC 2.7.7.6)
+   FIG133608 hits 1 # DNA-directed RNA polymerases I, II, and III 27 kDa polypeptide (EC 2.7.7.6)
+   FIG133755 hits 2 # DNA-directed RNA polymerases I, II, and III 14.5 kDa polypeptide (EC 2.7.7.6)
+   FIG142350 hits 9 # DNA-directed RNA polymerase III second largest subunit (EC 2.7.7.6)
+   FIG134126 hits 2 # DNA-directed RNA polymerases I and III 40 kDa polypeptide (EC 2.7.7.6)
+path tRNA_aminoacylation,_mitochondrial fam0 27 fam-found 10 # tRNA_aminoacylation,_mitochondrial
+   FIG136418 hits 5 # Tyrosyl-tRNA synthetase (EC 6.1.1.1), mitochondrial
+   FIG133655 hits 7 # Prolyl-tRNA synthetase (EC 6.1.1.15), mitochondrial
+   FIG133627 hits 1 # Asparaginyl-tRNA synthetase (EC 6.1.1.22), mitochondrial
+   FIG133729 hits 1 # Isoleucyl-tRNA synthetase (EC 6.1.1.5), mitochondrial
+   FIG136795 hits 3 # Methionyl-tRNA synthetase (EC 6.1.1.10), mitochondrial
+   FIG134169 hits 4 # Leucyl-tRNA synthetase (EC 6.1.1.4), mitochondrial
+   FIG134018 hits 1 # Threonyl-tRNA synthetase (EC 6.1.1.3), mitochondrial
+   FIG136070 hits 1 # Histidyl-tRNA synthetase (EC 6.1.1.21), mitochondrial
+   FIG134097 hits 7 # Seryl-tRNA synthetase (EC 6.1.1.11), mitochondrial
+   FIG142812 hits 7 # Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20), mitochondrial
+path De_Novo_Pyrimidine_Synthesis fam0 20 fam-found 8 # De_Novo_Pyrimidine_Synthesis
+   FIG017183 hits 5 # Uracil phosphoribosyltransferase (EC 2.4.2.9)
+   FIG060876 hits 9 # Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
+   FIG025759 hits 3 # Orotate phosphoribosyltransferase (EC 2.4.2.10)
+   FIG000032 hits 3 # Dihydroorotase (EC 3.5.2.3)
+   FIG137013 hits 3 # Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
+   FIG143953 hits 1 # Aspartate carbamoyltransferase (EC 2.1.3.2)
+   FIG106168 hits 3 # Dihydroorotate dehydrogenase (EC 1.3.3.1)
+   FIG000130 hits 3 # Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
+path Vibrio_Polysaccharide_(VPS)_Biosynthesis fam0 31 fam-found 1 # Vibrio_Polysaccharide_(VPS)_Biosynthesis
+   FIG134624 hits 4 # Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
+path Isoprenoid_Biosynthesis fam0 33 fam-found 12 # Isoprenoid_Biosynthesis
+   FIG001783 hits 8 # Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+   FIG145177 hits 2 # 1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+   FIG077916 hits 1 # Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+   FIG048551 hits 1 # 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.4.3)
+   FIG133184 hits 3 # Farnesyl pyrophosphate synthetase (FPP synthetase) (FPS) (Farnesyl diphosphate synthetase) / Dimethylallyltransferase (EC 2.5.1.1) / Geranyltranstransferase (EC 2.5.1.10)
+   FIG083356 hits 7 # Mevalonate kinase (EC 2.7.1.36)
+   FIG000381 hits 2 # 4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+   FIG116159 hits 5 # Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+   FIG136633 hits 1 # Phosphomevalonate kinase (EC 2.7.4.2)
+   FIG135993 hits 1 # Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+   FIG001616 hits 4 # Isopentenyl-diphosphate delta-isomerase (EC 5.3.3.2)
+   FIG001120 hits 1 # Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+path Mevalonate_Branch_of_Isoprenoid_Biosynthesis fam0 12 fam-found 6 # Mevalonate_Branch_of_Isoprenoid_Biosynthesis
+   FIG001783 hits 8 # Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+   FIG077916 hits 1 # Acetyl-CoA acetyltransferase (EC 2.3.1.9)
+   FIG083356 hits 7 # Mevalonate kinase (EC 2.7.1.36)
+   FIG116159 hits 5 # Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
+   FIG136633 hits 1 # Phosphomevalonate kinase (EC 2.7.4.2)
+   FIG135993 hits 1 # Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
+path General_secretory_pathway_(Sec-SRP)_complex_(TC_3.A.5.1.1) fam0 14 fam-found 5 # General_secretory_pathway_(Sec-SRP)_complex_(TC_3.A.5.1.1)
+   FIG126554 hits 2 # Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+   FIG135756 hits 4 # Preprotein translocase secY subunit (TC 3.A.5.1.1)
+   FIG143916 hits 2 # Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+   FIG061940 hits 1 # Protein-export membrane protein secD (TC 3.A.5.1.1) / Protein-export membrane protein secF (TC 3.A.5.1.1)
+   FIG144134 hits 1 # Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+path Ribosome_LSU_mitochondrial fam0 57 fam-found 14 # Ribosome_LSU_mitochondrial
+   FIG136963 hits 1 # LSU ribosomal protein L27p, mitochondrial
+   FIG145331 hits 1 # LSU ribosomal protein L41mt, mitochondrial
+   FIG144031 hits 2 # LSU ribosomal protein L2p (L8e), mitochondrial
+   FIG134824 hits 1 # LSU ribosomal protein L47mt, mitochondrial
+   FIG133466 hits 1 # LSU ribosomal protein L43mt, mitochondrial
+   FIG136504 hits 3 # LSU ribosomal protein L32p, mitochondrial
+   FIG133256 hits 1 # LSU ribosomal protein L15p (L27Ae), mitochondrial
+   FIG133413 hits 1 # LSU ribosomal protein L14p (L23e), mitochondrial
+   FIG133514 hits 1 # LSU ribosomal protein L11p (L12e), mitochondrial
+   FIG135972 hits 1 # LSU ribosomal protein L21p, mitochondrial
+   FIG134432 hits 1 # LSU ribosomal protein L4p (L1e), mitochondrial
+   FIG135120 hits 1 # LSU ribosomal protein L38mt, mitochondrial
+   FIG135698 hits 1 # LSU ribosomal protein L5p (L11e), mitochondrial
+   FIG133274 hits 1 # LSU ribosomal protein L3p (L3e), mitochondrial
+path Trehalose_Biosynthesis fam0 14 fam-found 2 # Trehalose_Biosynthesis
+   FIG133220 hits 3 # 1,4-alpha-glucan (glycogen) branching enzyme (EC 2.4.1.18)
+   FIG133505 hits 2 # Alpha,alpha-trehalose-phosphate synthase [UDP-forming] (EC 2.4.1.15)
+path Branched_chain_amino_acid_degradation_regulons fam0 41 fam-found 15 # Branched_chain_amino_acid_degradation_regulons
+   FIG000963 hits 3 # Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)
+   FIG143464 hits 10 # 3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31)
+   FIG133754 hits 20 # Isovaleryl-CoA dehydrogenase (EC 1.3.99.10); Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2)
+   FIG133059 hits 2 # Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+   FIG133585 hits 1 # Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4); 2-oxoisovalerate dehydrogenase alpha subunit (EC 1.2.4.4)
+   FIG002522 hits 1 # Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)
+   FIG144691 hits 7 # Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+   FIG136866 hits 3 # Electron transfer flavoprotein, beta subunit
+   FIG145953 hits 3 # Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27)
+   FIG133163 hits 2 # Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4); 2-oxoisovalerate dehydrogenase beta subunit (EC 1.2.4.4)
+   FIG143257 hits 1 # Isovaleryl-CoA dehydrogenase (EC 1.3.99.10)
+   FIG138249 hits 1 # Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4)
+   FIG138403 hits 1 # Methylglutaconyl-CoA hydratase (EC 4.2.1.18)
+   FIG002182 hits 1 # Branched-chain acyl-CoA dehydrogenase (EC 1.3.99.12)
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path Universal_GTPases fam0 23 fam-found 11 # Universal_GTPases
+   FIG058365 hits 1 # Translation elongation factor Tu
+   FIG143916 hits 2 # Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+   FIG108661 hits 2 # GTP-binding protein EngB
+   FIG133561 hits 3 # GTPase Nop2p which associates with pre-60S ribosomal subunits in the nucleolus and is required for their export and maturation
+   FIG049915 hits 9 # GTP-binding and nucleic acid-binding protein YchF
+   FIG144134 hits 1 # Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+   FIG135076 hits 1 # GTP-binding protein EngA
+   FIG000169 hits 1 # COG0536: GTP-binding protein Obg
+   FIG000102 hits 17 # Translation initiation factor 2
+   FIG071077 hits 5 # Translation elongation factor 1 alpha subunit
+   FIG134254 hits 4 # Translation elongation factor G
+path tRNA_aminoacylation fam0 50 fam-found 22 # tRNA_aminoacylation
+   FIG142464 hits 3 # Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+   FIG087062 hits 5 # Aspartyl-tRNA synthetase (EC 6.1.1.12)
+   FIG144196 hits 12 # Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+   FIG133409 hits 5 # Glutamyl-tRNA synthetase (EC 6.1.1.17)
+   FIG000087 hits 1 # Histidyl-tRNA synthetase (EC 6.1.1.21)
+   FIG141984 hits 2 # Arginyl-tRNA synthetase (EC 6.1.1.19)
+   FIG142459 hits 3 # Glutaminyl-tRNA synthetase (EC 6.1.1.18)
+   FIG144909 hits 15 # Seryl-tRNA synthetase (EC 6.1.1.11)
+   FIG035486 hits 10 # Valyl-tRNA synthetase (EC 6.1.1.9)
+   FIG000069 hits 7 # Prolyl-tRNA synthetase (EC 6.1.1.15)
+   FIG145614 hits 3 # Glutamyl-tRNA synthetase (EC 6.1.1.17); Glutamyl-tRNA(Gln) synthetase
+   FIG021822 hits 6 # Cysteinyl-tRNA synthetase (EC 6.1.1.16)
+   FIG000300 hits 5 # Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
+   FIG000114 hits 4 # Leucyl-tRNA synthetase (EC 6.1.1.4)
+   FIG142221 hits 11 # Threonyl-tRNA synthetase (EC 6.1.1.3)
+   FIG144138 hits 6 # Asparaginyl-tRNA synthetase (EC 6.1.1.22)
+   FIG001576 hits 1 # Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+   FIG030919 hits 15 # Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+   FIG142496 hits 6 # Tyrosyl-tRNA synthetase (EC 6.1.1.1)
+   FIG142552 hits 30 # Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+   FIG000096 hits 6 # Methionyl-tRNA synthetase (EC 6.1.1.10)
+   FIG001189 hits 3 # Glycyl-tRNA synthetase (EC 6.1.1.14)
+path The_Tartronate_Semialdehyde_Hub fam0 17 fam-found 3 # The_Tartronate_Semialdehyde_Hub
+   FIG144585 hits 1 # 2-hydroxy-3-oxopropionate reductase (EC 1.1.1.60)
+   FIG109710 hits 5 # Glucarate dehydratase (EC 4.2.1.40)
+   FIG133864 hits 1 # Glyoxylate reductase (EC 1.1.1.79) / Glyoxylate reductase (EC 1.1.1.26) / Hydroxypyruvate reductase (EC 1.1.1.81)
+path Copper_homeostasis fam0 30 fam-found 1 # Copper_homeostasis
+   FIG120356 hits 16 # Multicopper oxidase
+path PROSC_Class fam0 5 fam-found 3 # PROSC_Class
+   FIG119456 hits 1 # Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+   FIG133325 hits 2 # Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+   FIG142829 hits 3 # Glutamate 5-kinase (EC 2.7.2.11)
+path Proline_Synthesis fam0 7 fam-found 4 # Proline_Synthesis
+   FIG119456 hits 1 # Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
+   FIG133325 hits 2 # Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+   FIG142829 hits 3 # Glutamate 5-kinase (EC 2.7.2.11)
+   FIG137408 hits 2 # NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+path Ribonuclease_P_archaeal_and_eukaryal fam0 8 fam-found 4 # Ribonuclease_P_archaeal_and_eukaryal
+   FIG134754 hits 2 # Ribonucleases P/MRP protein subunit POP8 (EC 3.1.26.5)
+   FIG135179 hits 3 # Ribonuclease P protein component 3 (EC 3.1.26.5)
+   FIG142032 hits 1 # Ribonucleases P/MRP protein subunit POP7 (EC 3.1.26.5)
+   FIG134186 hits 2 # Ribonucleases P/MRP protein subunit POP1 (EC 3.1.26.5)
+path Ubiquinone_Menaquinone-cytochrome_c_reductase_complexes fam0 20 fam-found 5 # Ubiquinone_Menaquinone-cytochrome_c_reductase_complexes
+   FIG000754 hits 294 # Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)
+   FIG004490 hits 9 # ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit
+   FIG121082 hits 1 # Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2) / ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit
+   FIG133337 hits 2 # Ubiquinol-cytochrome-c reductase complex core protein 2, mitochondrial precursor (EC 1.10.2.2)
+   FIG133716 hits 3 # Ubiquinol-cytochrome C reductase complex core protein I, mitochondrial precursor (EC 1.10.2.2)
+path Lipopolysaccharide_assembly fam0 24 fam-found 1 # Lipopolysaccharide_assembly
+   FIG089914 hits 1 # Lipoprotein releasing system ATP-binding protein lolD
+path Protein_degradation fam0 19 fam-found 3 # Protein_degradation
+   FIG004058 hits 1 # Aminopeptidase Y (Arg, Lys, Leu preference) (EC 3.4.11.-)
+   FIG000714 hits 3 # Membrane alanine aminopeptidase N (EC 3.4.11.2)
+   FIG000336 hits 1 # Cytosol aminopeptidase PepA (EC 3.4.11.1)
+path Biogenesis_of_cytochrome_c_oxidases fam0 32 fam-found 9 # Biogenesis_of_cytochrome_c_oxidases
+   FIG145261 hits 3 # Heme O synthase, protoheme IX farnesyltransferase (EC 2.5.1.-) COX10-CtaB
+   FIG064434 hits 2 # Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, putative copper metallochaperone
+   FIG000664 hits 1 # Ferredoxin, 2Fe-2S
+   FIG135170 hits 1 # Cytochrome oxidase biogenesis protein Mss51, required for maturation, translation of COX1 mRNA
+   FIG134829 hits 6 # Cytochrome oxidase biogenesis protein Pet191
+   FIG132973 hits 1 # Ferredoxin--NADP(+) reductase (EC 1.18.1.2)
+   FIG001248 hits 1 # Cytochrome oxidase biogenesis protein Cox11-CtaG, copper delivery to Cox1
+   FIG142413 hits 2 # Heme A synthase, cytochrome oxidase biogenesis protein Cox15-CtaA
+   FIG134560 hits 3 # Putative protein, involved in import and assembly of intermembrane space proteins
+path KDO2-Lipid_A_biosynthesis fam0 26 fam-found 5 # KDO2-Lipid_A_biosynthesis
+   FIG138404 hits 3 # UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.-)
+   FIG000603 hits 2 # 3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+   FIG000943 hits 2 # UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.-)
+   FIG000742 hits 1 # 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)
+   FIG077757 hits 2 # 3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+path Utilization_of_glutathione_as_a_sulphur_source fam0 6 fam-found 3 # Utilization_of_glutathione_as_a_sulphur_source
+   FIG061554 hits 1 # Gamma-glutamyltranspeptidase (EC 2.3.2.2)
+   FIG017184 hits 1 # Putative glutathione transporter, permease component
+   FIG071014 hits 1 # Putative glutathione transporter, ATP-binding component
+path Two_cell_division_clusters_relating_to_chromosome_partitioning fam0 14 fam-found 5 # Two_cell_division_clusters_relating_to_chromosome_partitioning
+   FIG145365 hits 2 # Chromosome partition protein smc
+   FIG143916 hits 2 # Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)
+   FIG066978 hits 2 # Chromosome (plasmid) partitioning protein ParA
+   FIG144134 hits 1 # Signal recognition particle receptor protein FtsY (=alpha subunit) (TC 3.A.5.1.1)
+   FIG134702 hits 2 # Segregation and condensation protein A
+path Multidrug_Resistance_Efflux_Pumps fam0 20 fam-found 1 # Multidrug_Resistance_Efflux_Pumps
+   FIG145691 hits 1 # Multidrug resistance ABC transporter ATP-binding and permease protein
+path Streptococcal_Hyaluronic_Acid_Capsule fam0 4 fam-found 2 # Streptococcal_Hyaluronic_Acid_Capsule
+   FIG030911 hits 3 # UDP-glucose dehydrogenase (EC 1.1.1.22)
+   FIG135626 hits 1 # UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+path ZZ_gjo_need_homes fam0 19 fam-found 1 # ZZ_gjo_need_homes
+   FIG082006 hits 1 # Lipid A export ATP-binding/permease protein msbA
+path Translation_elongation_factors_eukaryotic_and_archaeal fam0 12 fam-found 6 # Translation_elongation_factors_eukaryotic_and_archaeal
+   FIG134262 hits 10 # Translation elongation factor 3
+   FIG003863 hits 4 # Translation elongation factor 1 beta subunit
+   FIG135218 hits 3 # HBS1 protein
+   FIG134354 hits 2 # Translation elongation factor 1 gamma subunit
+   FIG071077 hits 5 # Translation elongation factor 1 alpha subunit
+   FIG133587 hits 3 # Eukaryotic peptide chain release factor GTP-binding subunit
+path F0F1-type_ATP_synthase fam0 10 fam-found 7 # F0F1-type_ATP_synthase
+   FIG105177 hits 3 # ATP synthase delta chain (EC 3.6.3.14)
+   FIG038303 hits 1 # ATP synthase protein I
+   FIG134687 hits 5 # ATP synthase beta chain (EC 3.6.3.14)
+   FIG000082 hits 2 # ATP synthase alpha chain (EC 3.6.3.14)
+   FIG006048 hits 1 # ATP synthase B chain (EC 3.6.3.14)
+   FIG000138 hits 1 # ATP synthase A chain (EC 3.6.3.14)
+   FIG063246 hits 1 # ATP synthase C chain (EC 3.6.3.14)
+path Translation_elongation_factor_G_family fam0 11 fam-found 3 # Translation_elongation_factor_G_family
+   FIG138661 hits 10 # Translation elongation factor G, mitochondrial
+   FIG001635 hits 5 # Translation elongation factor G-related protein
+   FIG134254 hits 4 # Translation elongation factor G
+path Lysine_degradation fam0 23 fam-found 2 # Lysine_degradation
+   FIG090418 hits 3 # Saccharopine dehydrogenase [NADP , L-glutamate-forming] (EC 1.5.1.10)
+   FIG033499 hits 2 # Lysine 2,3-aminomutase (EC 5.4.3.2)
+path NAD_consumption fam0 4 fam-found 2 # NAD_consumption
+   FIG144436 hits 2 # DNA ligase (EC 6.5.1.2)
+   FIG128190 hits 1 # NAD-dependent protein deacetylase of SIR2 family
+path Vibrio_Core_Oligosaccharide_Biosynthesis fam0 17 fam-found 3 # Vibrio_Core_Oligosaccharide_Biosynthesis
+   FIG024261 hits 1 # Polysaccharide deacetylase
+   FIG001052 hits 2 # ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)
+   FIG077757 hits 2 # 3-deoxy-D-manno-octulosonic-acid transferase (EC 2.-.-.-)
+path 2-oxoisovalerate_to_2-isopropyl-3-oxosuccinate_module fam0 10 fam-found 4 # 2-oxoisovalerate_to_2-isopropyl-3-oxosuccinate_module
+   FIG107331 hits 1 # 3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+   FIG134179 hits 3 # 3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) / 3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+   FIG135261 hits 9 # 2-isopropylmalate synthase (EC 2.3.3.13)
+   FIG067874 hits 3 # 3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+path DNA_repair,_bacterial_MutL-MutS_system fam0 6 fam-found 1 # DNA_repair,_bacterial_MutL-MutS_system
+   FIG000380 hits 3 # DNA mismatch repair protein MutL
+path Experimental_-Creatinine_degradation fam0 7 fam-found 1 # Experimental_-Creatinine_degradation
+   FIG138399 hits 1 # Sarcosine oxidase alpha subunit (EC 1.5.3.1)
+path Ribitol,_Xylitol,_Arabitol,_Mannitol_and_Sorbitol_utilization fam0 23 fam-found 2 # Ribitol,_Xylitol,_Arabitol,_Mannitol_and_Sorbitol_utilization
+   FIG101840 hits 1 # Various polyols ABC transporter, ATP-binding component
+   FIG003702 hits 2 # Sorbitol dehydrogenase (EC 1.1.1.14)
+path Methionine_Biosynthesis fam0 39 fam-found 14 # Methionine_Biosynthesis
+   FIG055584 hits 1 # 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+   FIG142225 hits 3 # Adenosylhomocysteinase (EC 3.3.1.1)
+   FIG092434 hits 7 # Cystathionine beta-lyase (EC 4.4.1.8)
+   FIG000434 hits 2 # Homoserine dehydrogenase (EC 1.1.1.3)
+   FIG144314 hits 1 # 5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+   FIG142258 hits 1 # Cysteine synthase (EC 2.5.1.47)
+   FIG138370 hits 10 # Homoserine kinase (EC 2.7.1.39)
+   FIG142184 hits 4 # S-adenosylmethionine synthetase (EC 2.5.1.6)
+   FIG143956 hits 1 # Methionine ABC transporter substrate-binding protein
+   FIG106385 hits 12 # Cystathionine gamma-synthase (EC 2.5.1.48)
+   FIG045144 hits 1 # Methionine ABC transporter permease protein
+   FIG137512 hits 6 # Homoserine O-acetyltransferase (EC 2.3.1.31)
+   FIG001106 hits 1 # Homoserine O-succinyltransferase (EC 2.3.1.46)
+   FIG001346 hits 2 # Cystathionine gamma-lyase (EC 4.4.1.1)
+path NDP-sugar_epimerase fam0 2 fam-found 1 # NDP-sugar_epimerase
+   FIG025364 hits 1 # Nucleoside-diphosphate-sugar epimerases
+path Biphenyl_Degradation fam0 17 fam-found 1 # Biphenyl_Degradation
+   FIG007954 hits 1 # 2-keto-4-pentenoate hydratase (EC 4.2.1.-)
+path CR_clusters_Euk_1 fam0 5 fam-found 3 # CR_clusters_Euk_1
+   FIG144688 hits 6 # 6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+   FIG037640 hits 4 # Transketolase (EC 2.2.1.1)
+   FIG000415 hits 1 # Ribose 5-phosphate isomerase A (EC 5.3.1.6)
+path Tolerance_to_Furfural-Induced_Stress fam0 6 fam-found 4 # Tolerance_to_Furfural-Induced_Stress
+   FIG144688 hits 6 # 6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+   FIG051490 hits 1 # Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+   FIG037640 hits 4 # Transketolase (EC 2.2.1.1)
+   FIG145908 hits 2 # Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+path RNA_polymerase_I fam0 13 fam-found 5 # RNA_polymerase_I
+   FIG142360 hits 16 # DNA-directed RNA polymerase I second largest subunit (EC 2.7.7.6)
+   FIG134318 hits 18 # DNA-directed RNA polymerase I largest subunit (EC 2.7.7.6)
+   FIG133608 hits 1 # DNA-directed RNA polymerases I, II, and III 27 kDa polypeptide (EC 2.7.7.6)
+   FIG133755 hits 2 # DNA-directed RNA polymerases I, II, and III 14.5 kDa polypeptide (EC 2.7.7.6)
+   FIG134126 hits 2 # DNA-directed RNA polymerases I and III 40 kDa polypeptide (EC 2.7.7.6)
+path RNA_polymerase_II fam0 12 fam-found 7 # RNA_polymerase_II
+   FIG136706 hits 5 # DNA-directed RNA polymerase II 32 kDa polypeptide (EC 2.7.7.6)
+   FIG133608 hits 1 # DNA-directed RNA polymerases I, II, and III 27 kDa polypeptide (EC 2.7.7.6)
+   FIG133755 hits 2 # DNA-directed RNA polymerases I, II, and III 14.5 kDa polypeptide (EC 2.7.7.6)
+   FIG133249 hits 1 # DNA-directed RNA polymerase II largest subunit (EC 2.7.7.6)
+   FIG134612 hits 3 # DNA-directed RNA polymerase II 13.2 kDa polypeptide (EC 2.7.7.6)
+   FIG133306 hits 7 # DNA-directed RNA polymerase II second largest subunit (EC 2.7.7.6)
+   FIG135141 hits 4 # DNA-directed RNA polymerase II 45 kDa polypeptide (EC 2.7.7.6)
+path L-rhamnose_utilization fam0 33 fam-found 2 # L-rhamnose_utilization
+   FIG145013 hits 3 # Rhamnogalacturonides degradation protein RhiN
+   FIG135546 hits 1 # Predicted rhamnogalacturonan lyase in rhamnose utilization cluster
+path Restriction-Modification_System fam0 10 fam-found 1 # Restriction-Modification_System
+   FIG135984 hits 1 # Type III restriction-modification system methylation subunit (EC 2.1.1.72)
+path Ribonucleotide_reduction fam0 11 fam-found 3 # Ribonucleotide_reduction
+   FIG000585 hits 3 # Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)
+   FIG078043 hits 6 # Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+   FIG000606 hits 35 # Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)
+path Chlorophyll_Degradation fam0 6 fam-found 1 # Chlorophyll_Degradation
+   FIG099689 hits 1 # Candidate 1: dienelactone hydrolase
+path L-fucose_utilization fam0 23 fam-found 1 # L-fucose_utilization
+   FIG042149 hits 1 # Alpha-L-fucosidase (EC 3.2.1.51)
+path RNA_polymerase_archaeal fam0 16 fam-found 3 # RNA_polymerase_archaeal
+   FIG014625 hits 1 # DNA-directed RNA polymerase subunit B (EC 2.7.7.6)
+   FIG035794 hits 2 # DNA-directed RNA polymerase subunit A' (EC 2.7.7.6)
+   FIG007419 hits 1 # DNA-directed RNA polymerase subunit B' (EC 2.7.7.6)
+path Alginate_metabolism fam0 31 fam-found 2 # Alginate_metabolism
+   FIG142669 hits 1 # Phosphomannomutase (EC 5.4.2.8)
+   FIG002377 hits 1 # Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)
+path Lipoic_acid_metabolism fam0 17 fam-found 6 # Lipoic_acid_metabolism
+   FIG133059 hits 2 # Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+   FIG144992 hits 1 # Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)
+   FIG063418 hits 6 # Lipoate synthase
+   FIG127747 hits 2 # Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)
+   FIG144248 hits 4 # Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase
+   FIG000700 hits 2 # Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)
+path PQQ-dependent_quinoprotein_dehydrogenases fam0 8 fam-found 2 # PQQ-dependent_quinoprotein_dehydrogenases
+   FIG139059 hits 4 # Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
+   FIG064515 hits 1 # Quinate/shikimate dehydrogenase [Pyrroloquinoline-quinone] (EC 1.1.99.25)
+path V-Type_ATP_synthase fam0 12 fam-found 1 # V-Type_ATP_synthase
+   FIG001902 hits 1 # V-type ATP synthase subunit A (EC 3.6.3.14)
+path Protocatechuate_branch_of_beta-ketoadipate_pathway fam0 19 fam-found 4 # Protocatechuate_branch_of_beta-ketoadipate_pathway
+   FIG141707 hits 1 # Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+   FIG145434 hits 1 # 4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+   FIG001777 hits 2 # 3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+   FIG079888 hits 4 # Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5) / Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)
+path Dimethylarginine_metabolism fam0 14 fam-found 3 # Dimethylarginine_metabolism
+   FIG138144 hits 12 # Ornithine aminotransferase (EC 2.6.1.13); Succinylornithine transaminase (EC 2.6.1.81); Acetylornithine aminotransferase (EC 2.6.1.11); N-succinyl-L,L-diaminopimelate aminotransferase (EC 2.6.1.17)
+   FIG142126 hits 1 # Protein arginine N-methyltransferase 1 (EC 2.1.1.-)
+   FIG135415 hits 16 # protein arginine methyltransferase type 2 (SDMA formation)
+path Cytochrome_B6-F_complex fam0 11 fam-found 1 # Cytochrome_B6-F_complex
+   FIG005210 hits 4 # Cytochrome b6-f complex subunit, cytochrome b6
+path Experimental_Iddo_1 fam0 9 fam-found 3 # Experimental_Iddo_1
+   FIG138685 hits 1 # GTP pyrophosphokinase (EC 2.7.6.5)
+   FIG000370 hits 2 # Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+   FIG143637 hits 1 # GTP pyrophosphokinase (EC 2.7.6.5) / Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+path Pyruvate_Alanine_Serine_Interconversions fam0 21 fam-found 5 # Pyruvate_Alanine_Serine_Interconversions
+   FIG144691 hits 7 # Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+   FIG054875 hits 2 # D-amino acid dehydrogenase small subunit (EC 1.4.99.1)
+   FIG144443 hits 1 # Alanine racemase (EC 5.1.1.1)
+   FIG060729 hits 1 # Alanine dehydrogenase (EC 1.4.1.1)
+   FIG001693 hits 2 # Alanine racemase, catabolic (EC 5.1.1.1)
+path DNA_topoisomerases,_Type_II,_ATP-dependent fam0 10 fam-found 6 # DNA_topoisomerases,_Type_II,_ATP-dependent
+   FIG136916 hits 1 # Topoisomerase IV subunit B (EC 5.99.1.-)
+   FIG044984 hits 1 # DNA topoisomerase VI subunit B (EC 5.99.1.3)
+   FIG145418 hits 1 # Topoisomerase IV subunit A (EC 5.99.1.-)
+   FIG029023 hits 4 # DNA gyrase subunit A (EC 5.99.1.3)
+   FIG004564 hits 1 # DNA topoisomerase VI subunit A (EC 5.99.1.3)
+   FIG133780 hits 6 # DNA topoisomerase II (EC 5.99.1.3)
+path Resistance_to_fluoroquinolones fam0 6 fam-found 3 # Resistance_to_fluoroquinolones
+   FIG136916 hits 1 # Topoisomerase IV subunit B (EC 5.99.1.-)
+   FIG145418 hits 1 # Topoisomerase IV subunit A (EC 5.99.1.-)
+   FIG029023 hits 4 # DNA gyrase subunit A (EC 5.99.1.3)
+path Fructose-bisphosphate_aldolase_protein_family fam0 3 fam-found 2 # Fructose-bisphosphate_aldolase_protein_family
+   FIG001916 hits 6 # Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+   FIG000370 hits 2 # Fructose-bisphosphate aldolase class II (EC 4.1.2.13)
+path Adhesion_of_Campylobacter fam0 9 fam-found 1 # Adhesion_of_Campylobacter
+   FIG138381 hits 1 # Fibronectin/fibrinogen-binding protein
+path DNA_replication,_archaeal fam0 18 fam-found 3 # DNA_replication,_archaeal
+   FIG120834 hits 27 # Archaeal DNA polymerase II large subunit (EC 2.7.7.7)
+   FIG115829 hits 3 # Flap structure-specific endonuclease (EC 3.-.-.-)
+   FIG055248 hits 4 # Ribonuclease HII (EC 3.1.26.4)
+path coenzyme_M_biosynthesis fam0 5 fam-found 1 # coenzyme_M_biosynthesis
+   FIG050404 hits 2 # Phosphosulfolactate synthase (EC 4.4.1.19)
+path ArsR_methyltransferase_fusion fam0 10 fam-found 5 # ArsR_methyltransferase_fusion
+   FIG142225 hits 3 # Adenosylhomocysteinase (EC 3.3.1.1)
+   FIG136868 hits 1 # Ubiquinone/menaquinone biosynthesis methyltransferase UbiE/COQ5 (EC 2.1.1.-)
+   FIG144314 hits 1 # 5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
+   FIG142184 hits 4 # S-adenosylmethionine synthetase (EC 2.5.1.6)
+   FIG137512 hits 6 # Homoserine O-acetyltransferase (EC 2.3.1.31)
+path Listeria_surface_proteins:_Internalin-like_proteins fam0 36 fam-found 1 # Listeria_surface_proteins:_Internalin-like_proteins
+   FIG009400 hits 1 # Internalin-like protein (LPXTG motif) Lmo1136 homolog
+path Homocitrate_to_2-oxoadipate_module fam0 10 fam-found 2 # Homocitrate_to_2-oxoadipate_module
+   FIG025709 hits 3 # Homoisocitrate dehydrogenase (EC 1.1.1.87)
+   FIG066957 hits 1 # Homocitrate synthase (EC 2.3.3.14)
+path Cyanate_hydrolysis fam0 9 fam-found 2 # Cyanate_hydrolysis
+   FIG141706 hits 1 # Cyanate hydratase (EC 4.2.1.104)
+   FIG051667 hits 1 # Carbonic anhydrase (EC 4.2.1.1)
+path Polyadenylation_bacterial fam0 9 fam-found 3 # Polyadenylation_bacterial
+   FIG086640 hits 1 # tRNA nucleotidyltransferase, A-adding (EC 2.7.7.-)
+   FIG045303 hits 1 # Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+   FIG136524 hits 1 # tRNA nucleotidyltransferase (EC 2.7.7.25)
+path tRNA_splicing fam0 10 fam-found 4 # tRNA_splicing
+   FIG142522 hits 2 # tRNA-splicing endonuclease subunit SEN34 (EC 3.1.27.9)
+   FIG142335 hits 1 # tRNA-splicing endonuclease subunit SEN54 (EC 3.1.27.9)
+   FIG135850 hits 3 # tRNA-splicing endonuclease subunit SEN2 (EC 3.1.27.9)
+   FIG135842 hits 3 # tRNA-splicing ligase (EC 6.5.1.3)
+path DNA_structural_proteins,_bacterial fam0 9 fam-found 1 # DNA_structural_proteins,_bacterial
+   FIG039265 hits 2 # DNA-binding protein HU-beta
+path Polysaccharide_deacetylases fam0 2 fam-found 1 # Polysaccharide_deacetylases
+   FIG024261 hits 1 # Polysaccharide deacetylase
+path D-galactonate_catabolism fam0 7 fam-found 1 # D-galactonate_catabolism
+   FIG003187 hits 6 # Galactonate dehydratase (EC 4.2.1.6)
+path N-heterocyclic_aromatic_compound_degradation fam0 3 fam-found 1 # N-heterocyclic_aromatic_compound_degradation
+   FIG135495 hits 4 # 1H-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase
+path Experimental_-_Histidine_Degradation fam0 18 fam-found 3 # Experimental_-_Histidine_Degradation
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG133311 hits 4 # Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+   FIG057840 hits 1 # Imidazolonepropionase (EC 3.5.2.7)
+path CR_clusters_Euk_3 fam0 1 fam-found 1 # CR_clusters_Euk_3
+   FIG145409 hits 1 # L-lactate dehydrogenase (EC 1.1.1.27)
+path CR_clusters_Euk_6_lactateDehB fam0 1 fam-found 1 # CR_clusters_Euk_6_lactateDehB
+   FIG145409 hits 1 # L-lactate dehydrogenase (EC 1.1.1.27)
+path Phytochromes fam0 6 fam-found 1 # Phytochromes
+   FIG141952 hits 1 # Phytochrome-like protein; Cph2
+path Alpha-Amylase_locus_in_Streptocococcus fam0 6 fam-found 1 # Alpha-Amylase_locus_in_Streptocococcus
+   FIG003066 hits 1 # putative esterase
+path Cellulosome fam0 7 fam-found 1 # Cellulosome
+   FIG010771 hits 1 # SusC, outer membrane protein involved in starch binding
+path Peptidyl-prolyl_cis-trans_isomerase fam0 11 fam-found 1 # Peptidyl-prolyl_cis-trans_isomerase
+   FIG142519 hits 1 # Peptidyl-prolyl cis-trans isomerase ppiD (EC 5.2.1.8)
+path Lactose_utilization fam0 10 fam-found 3 # Lactose_utilization
+   FIG142031 hits 3 # Beta-galactosidase (EC 3.2.1.23)
+   FIG139238 hits 1 # Galactoside O-acetyltransferase (EC 2.3.1.18)
+   FIG005378 hits 57 # Transcriptional repressor of the lac operon
+path RNA_3'-terminal_phosphate_cyclase fam0 5 fam-found 2 # RNA_3'-terminal_phosphate_cyclase
+   FIG143850 hits 2 # Protein RtcB
+   FIG007253 hits 3 # RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+path Glycine_Biosynthesis fam0 4 fam-found 2 # Glycine_Biosynthesis
+   FIG124314 hits 2 # Serine hydroxymethyltransferase (EC 2.1.2.1)
+   FIG000679 hits 4 # Low-specificity L-threonine aldolase (EC 4.1.2.5)
+path RNA_processing_and_degradation,_bacterial fam0 8 fam-found 4 # RNA_processing_and_degradation,_bacterial
+   FIG129087 hits 1 # Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+   FIG000913 hits 1 # Ribonuclease E (EC 3.1.4.-)
+   FIG000308 hits 3 # Ribonuclease R (EC 3.1.-.-)
+   FIG001097 hits 2 # Oligoribonuclease (EC 3.1.-.-)
+path Signal_peptidase fam0 2 fam-found 2 # Signal_peptidase
+   FIG133626 hits 1 # Signal peptidase I (EC 3.4.21.89)
+   FIG136589 hits 1 # Lipoprotein signal peptidase (EC 3.4.23.36)
+path A_Hypothetical_Protein_Related_to_Proline_Metabolism fam0 2 fam-found 1 # A_Hypothetical_Protein_Related_to_Proline_Metabolism
+   FIG133325 hits 2 # Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+path CMP-N-acetylneuraminate_Biosynthesis fam0 7 fam-found 1 # CMP-N-acetylneuraminate_Biosynthesis
+   FIG025283 hits 1 # N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43)
+path Succinate_dehydrogenase fam0 20 fam-found 6 # Succinate_dehydrogenase
+   FIG134258 hits 1 # Succinate dehydrogenase hydrophobic membrane anchor protein
+   FIG142606 hits 2 # Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1)
+   FIG138165 hits 40 # Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
+   FIG134636 hits 2 # Succinate dehydrogenase cytochrome b560 subunit, mitochondrial precursor
+   FIG004104 hits 1 # Putative succinate dehydrogenase cytochrome b subunit
+   FIG133208 hits 8 # soluble fumarate reductase, cytoplasmic
+path DNA_topoisomerases,_Type_I,_ATP-independent fam0 6 fam-found 3 # DNA_topoisomerases,_Type_I,_ATP-independent
+   FIG000204 hits 5 # DNA topoisomerase I (EC 5.99.1.2)
+   FIG000578 hits 1 # DNA topoisomerase III (EC 5.99.1.2)
+   FIG133055 hits 1 # DNA topoisomerase I, eukaryotic-type (EC 5.99.1.2)
+path Quorum_Sensing:_Autoinducer-2_Synthesis fam0 1 fam-found 1 # Quorum_Sensing:_Autoinducer-2_Synthesis
+   FIG142184 hits 4 # S-adenosylmethionine synthetase (EC 2.5.1.6)
+path ABC_transporter_peptide_(TC_3.A.1.5.5) fam0 5 fam-found 1 # ABC_transporter_peptide_(TC_3.A.1.5.5)
+   FIG012029 hits 1 # Peptide transport system permease protein sapB (TC 3.A.1.5.5)
+path Ribonuclease_H fam0 9 fam-found 2 # Ribonuclease_H
+   FIG055248 hits 4 # Ribonuclease HII (EC 3.1.26.4)
+   FIG146037 hits 1 # Ribonuclease HI (EC 3.1.26.4)
+path Quinolinic_acid_and_its_derivatives fam0 2 fam-found 2 # Quinolinic_acid_and_its_derivatives
+   FIG133462 hits 2 # 3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6)
+   FIG039054 hits 2 # Quinolinate synthetase (EC 4.1.99.-)
+path RelBE_bacterial_toxin-antitoxin_system fam0 4 fam-found 2 # RelBE_bacterial_toxin-antitoxin_system
+   FIG006335 hits 1 # RelB protein (antitoxin to RelE)
+   FIG006637 hits 1 # RelE antibacterial toxin protein
+path RNA_polymerase_archaeal_initiation_factors fam0 5 fam-found 2 # RNA_polymerase_archaeal_initiation_factors
+   FIG133723 hits 1 # TATA-box binding protein
+   FIG002138 hits 1 # Transcription initiation factor B
+path RNA_polymerase_II_initiation_factors fam0 3 fam-found 2 # RNA_polymerase_II_initiation_factors
+   FIG134668 hits 1 # CDK-activating kinase assembly factor MAT1
+   FIG133723 hits 1 # TATA-box binding protein
+path RNA_polymerase_III_initiation_factors fam0 1 fam-found 1 # RNA_polymerase_III_initiation_factors
+   FIG133723 hits 1 # TATA-box binding protein
+path ATP-dependent_Nuclease fam0 2 fam-found 1 # ATP-dependent_Nuclease
+   FIG052665 hits 1 # ATP-dependent nuclease, subunit A
+path GroEL_GroES fam0 2 fam-found 1 # GroEL_GroES
+   FIG098667 hits 4 # Heat shock protein 60 family chaperone GroEL
+path RNA_polymerase_chloroplast fam0 5 fam-found 1 # RNA_polymerase_chloroplast
+   FIG134079 hits 1 # DNA-directed RNA polymerase delta (= beta'') subunit (EC 2.7.7.6), chloroplast
+path Betaine_biosynthesis_from_glycine fam0 3 fam-found 1 # Betaine_biosynthesis_from_glycine
+   FIG134089 hits 1 # Glycine N-methyltransferase (EC 2.1.1.20)
+path Thermosome,_archaeal fam0 1 fam-found 1 # Thermosome,_archaeal
+   FIG112376 hits 2 # Thermosome subunit

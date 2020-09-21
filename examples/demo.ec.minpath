@@ -1,0 +1,20 @@
+path PWY-5101 any n/a  naive 1  minpath 0  fam0  8  fam-found  1  name  L-isoleucine biosynthesis II
+path PWY-3001 any n/a  naive 1  minpath 0  fam0  10  fam-found  2  name  superpathway of L-isoleucine biosynthesis I
+path PWY-6142 any n/a  naive 1  minpath 0  fam0  11  fam-found  2  name  gluconeogenesis II (Methanobacterium thermoautotrophicum)
+path PWY-2201 any n/a  naive 1  minpath 1  fam0  9  fam-found  1  name  folate transformations I
+path PWY-3841 any n/a  naive 1  minpath 0  fam0  9  fam-found  1  name  folate transformations II (plants)
+path PWY-6613 any n/a  naive 1  minpath 1  fam0  2  fam-found  1  name  tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
+path PWY-7124 any n/a  naive 1  minpath 0  fam0  21  fam-found  1  name  ethene biosynthesis V (engineered)
+path PWY-6396 any n/a  naive 1  minpath 0  fam0  7  fam-found  1  name  superpathway of 2,3-butanediol biosynthesis
+path PWY-7218 any n/a  naive 1  minpath 0  fam0  21  fam-found  1  name  photosynthetic 3-hydroxybutanoate biosynthesis (engineered)
+path PWY-6146 any n/a  naive 1  minpath 1  fam0  20  fam-found  2  name  Methanobacterium thermoautotrophicum biosynthetic metabolism
+path PWY-5030 any n/a  naive 1  minpath 0  fam0  3  fam-found  1  name  L-histidine degradation III
+path PWY-7909 any n/a  naive 1  minpath 1  fam0  1  fam-found  1  name  formaldehyde oxidation VII (THF pathway)
+path PWY-1722 any n/a  naive 1  minpath 0  fam0  3  fam-found  1  name  formate assimilation into 5,10-methylenetetrahydrofolate
+path PWY-7345 any n/a  naive 1  minpath 0  fam0  14  fam-found  1  name  superpathway of anaerobic sucrose degradation
+path PWY-5938 any n/a  naive 1  minpath 1  fam0  2  fam-found  1  name  pyruvate fermentation to (R)-acetoin I
+path PWY-5939 any n/a  naive 1  minpath 1  fam0  2  fam-found  1  name  pyruvate fermentation to (R)-acetoin II
+path PWY-7111 any n/a  naive 1  minpath 1  fam0  5  fam-found  2  name  pyruvate fermentation to isobutanol (engineered)
+path PWY-5484 any n/a  naive 1  minpath 0  fam0  11  fam-found  1  name  glycolysis II (from fructose 6-phosphate)
+path PWY-1042 any n/a  naive 1  minpath 0  fam0  5  fam-found  1  name  glycolysis IV (plant cytosol)
+path PWY-5464 any n/a  naive 1  minpath 0  fam0  11  fam-found  1  name  superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle
