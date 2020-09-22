@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<!-- ANT build file for Glpk JNI interface -->
+
+<!-- =================================================================== -->
+<!-- $Id: build.xml,v 1.2 2003/03/19 18:31:01 yuri Exp $                -->
+<!-- =================================================================== -->
+
+<project name="Glpk JNI" default="all" basedir=".">
+  <target name="init">
+    <property name="javac.debug" value="true"/>
+    <property name="glpk.home" value="."/>
+    <property name="glpk.src" value="${glpk.home}"/>
+    <property name="glpk.classbindir" value="${glpk.home}/classes"/>
+    <property name="glpk.jarfile" value="${glpk.home}/glpk.jar"/>
+  </target>
+
+  <target name="compile" depends="init">
+    <mkdir dir="${glpk.classbindir}"/>
+    <javac srcdir="${glpk.src}"
+           debug="${javac.debug}"
+           destdir="${glpk.classbindir}"
+           includes="**"/>
+  </target>
+
+  <target name="jar" depends="init, compile">
+    <jar destfile="${glpk.jarfile}" basedir="${glpk.classbindir}">
+      <manifest>
+      </manifest>
+    </jar>
+     <copy file="${glpk.jarfile}" todir="/home/cpr/dev/planner_src/lib/"/>
+  </target>
+
+  <target name="banner">
+      <echo>+---------------------------------------+</echo>
+      <echo>+  Building Glpk JNI                    +</echo>
+      <echo>+---------------------------------------+</echo>
+  </target>
+
+  <target name="all" depends="banner, compile, jar" />
+
+</project>
+

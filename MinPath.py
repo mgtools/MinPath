@@ -19,7 +19,7 @@ import operator
 import math
 
 minpath = os.path.dirname(os.path.abspath(sys.argv[0]))
-#print("dirname " + minpath)
+print("minpath directory: " + minpath)
 if not os.path.exists(minpath + "/data"):
 	minpath = os.environ.get('MinPath')
 if not (os.path.exists(minpath) and os.path.exists(minpath + "/data")):
@@ -834,15 +834,16 @@ if __name__ == '__main__':
 	elif anyfile and mapfile:
 		Orth2Path(infile = anyfile, mpsfile = mpsfile, reportfile = reportfile, detailfile = detailfile, whichdb = "ANY", mapfile=mapfile)
 	else:
-		print ("Usage: python MinPath.py <-ko filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output]")
+		print ("Usage: python MinPath.py <-ko filename>/<ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output]")
 		print ("Note: your input file can contain functional annotations in either of the following")
 		print ("   -ko file: annotation in KEGG KO families")
+		print ("   -ec file: annotation in EC numbers (to be mapped to MetaCyc pathways)")
 		print ("   -fig file: annotation in SEED fig families")
 		print ("   -any file: annotation in any families, then you must specify -map, the pathway-function mapping file")
 		print ("Example 1: python MinPath.py -ko demo.ko -report demo.ko.minpath")
 		print ("Example 2: python MinPath.py -ko demo.ko -report demo.ko.minpath -details demo.ko.minpath.details")
-		print ("Example 3: python MinPath.py -fig demo.fig -report demo.fig.minpath")
+		print ("Example 3: python MinPath.py -ec demo.ec -report demo.ec.minpath -details demo.ec.minpath.details")
 		print ("Example 4: python MinPath.py -fig demo.fig -report demo.fig.minpath -details demo.fig.minpath.details")
-		print ("Example 5: python MinPath.py -any demo.ec -map ec2path -report demo.ec.minpath -details demo.ec.minpath.details")
+		print ("Example 5: python MinPath.py -any demo.ec -map data/ec2path -report demo.any.minpath -details demo.any.minpath.details")
 		sys.exit(1)
 

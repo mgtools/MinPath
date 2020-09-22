@@ -1,0 +1,6 @@
+To use the example please make sure both Java Runtime Environment and GLPK JNI
+are installed.
+
+Compile the file with command "javac GlpkMagicSquare.java".
+Run it with command "java GlpkMagicSquare".
+

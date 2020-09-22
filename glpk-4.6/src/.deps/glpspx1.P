@@ -1,0 +1,42 @@
+glpspx1.o: glpspx1.c \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/float.h \
+  /usr/include/math.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/bits/huge_val.h \
+  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+  /usr/include/bits/mathinline.h /usr/include/string.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h \
+  /usr/include/bits/string.h /usr/include/bits/string2.h \
+  /usr/include/endian.h /usr/include/bits/endian.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/stdlib.h ../include/glplib.h ../include/glpspx.h \
+  ../include/glplpx.h ../include/glpinv.h ../include/glpluf.h \
+  ../include/glpstr.h ../include/glpdmp.h
+glpspx1.c :
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/float.h :
+/usr/include/math.h :
+/usr/include/features.h :
+/usr/include/sys/cdefs.h :
+/usr/include/bits/wordsize.h :
+/usr/include/gnu/stubs.h :
+/usr/include/gnu/stubs-64.h :
+/usr/include/bits/huge_val.h :
+/usr/include/bits/mathdef.h :
+/usr/include/bits/mathcalls.h :
+/usr/include/bits/mathinline.h :
+/usr/include/string.h :
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h :
+/usr/include/bits/string.h :
+/usr/include/bits/string2.h :
+/usr/include/endian.h :
+/usr/include/bits/endian.h :
+/usr/include/bits/types.h :
+/usr/include/bits/typesizes.h :
+/usr/include/stdlib.h :
+../include/glplib.h :
+../include/glpspx.h :
+../include/glplpx.h :
+../include/glpinv.h :
+../include/glpluf.h :
+../include/glpstr.h :
+../include/glpdmp.h :

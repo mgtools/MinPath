@@ -1,0 +1,82 @@
+                    GLPK Delphi Interface (DELI)
+
+1.1 What is GLPK DELI?
+  GLPK DELI is a Delphi binding for GLPK package. It allows Delphi programs to
+  utilize GLPK in solving linear and mixed integer programs while solving
+  problems of linear or discrete optimization. 
+
+1.2 What are the components?
+  GLPK DELI consists of only one file: Glpk4.pas which gives access to the 
+  GLPK functions in the DLL. The Glpk4 file is just for the 'glpk-4.dll' file. 
+  GLPK Delphi Interface file contains the original c declaration of the 
+  functions.
+  
+  In addition, the four files are included:
+  - TestGLPK.dpr   the Delphi project file 
+  - MainForm.pas   the delphi unit for the main form with a button to start 
+                   the procedure GLPKSolve
+  - MainForm.dfm   the definition of the mainform
+  - Sample.pas     the 'sample' program of the original GLPK distribution 
+                   transformed to a Delphi unit.
+
+1.3 How to compile it?
+  1.3.1 Prerequisites
+    You need to install Delphi 5 Standard, Professional or Enterprise or later
+    versions. Earlier version might work if they support the Dialogs and 
+    SysUtils units.
+    You need further the GLPK DLL file, in this case the file 'glpk-4.dll'.
+
+  1.3.2 Sample program
+    In order to run the sample program, execute the following steps:
+    - Create a folder dedicated to the sample program.
+    - Un(g)zip the five files described above into this folder
+    - put the file 'glpk-4.dll' in this folder
+
+  1.3.3 Delphi
+    Run Delphi, open the folder and open TestGLPK.dpr.
+    Compile and run the program.
+
+  1.3.4 Results
+    The result is a message box showing the value of the objective function
+    and the variables. In addition, the program writes the solution and KKT
+    conditions to a file named 'Sample-Solution.txt'. 
+
+1.4 How to install GLPK DELI
+  See 1.3 
+
+1.5 How keep in pace with future GLPK distributions and the corresponding dll files.
+  In order to prepare the GLPK Delphi Interface for a new GLPK distribution,
+  you need to take the following steps for the GLPK API functions in 'lpx_' namespace:
+  - track the dll file on internet corresponding to the new GLPK distribution
+  - check the all corresponding declarations in new \include\glplpx.h file with
+    the corresponding ones in the GLPK Delphi Interface file.
+    If changed, adapt the Delphi declarations.
+  - check the corresponding index numbers by running the Delphi tdump program 
+    on the the new dll file and compare the results with the index numbers
+    in the the GLPK Delphi Interface file.
+    If changed, adapt the index number of the functions/procedures.
+    an alternative way is to use the def file in the distribution of the dll.
+  - change the name of the dll to the new one in the GLPK Delphi Interface file.
+  - rename the unit and update its name in the 'Uses' section of the units
+    which call functions/procedures from GLPK Delphi Interface file.
+  - replace the dll file by the new one in the folder with the sample application.
+  - compile and run the sample application to see whether everything is ok.
+
+1.6 What functions are supported?
+  All GLPK API functions in 'lpx_' namespace are supported with exception of
+  lpx_load_mat due to compiler complexities. Their respective names and declarations 
+  are reformatted to fit the Delphi programming style and dll calling conventions. 
+  You get full functionality of GLPK package available for Delphi programs. 
+  Additional functionality en demo is provided to handle null-terminated strings
+  in Delphi when calling a DLL compiled in a C environment.
+
+1.7 Possible extensions
+  The functionaly provided is restricted to 'lpx_' namespace. However, more functions
+  are accessible in the dll. For example, if you want functionality for implicit
+  enumeration or branch-and-cut, you could call the functions in the 'ies_' or 
+  'bcs_'namespace. It is not very difficult to follow the approach above in order
+  to adapt the GLPK Delphi Interface.  
+1.8 Notes
+  Only a small set of functions have been tested: the functions in the sample program.
+  Test results and errors are welcome.
+

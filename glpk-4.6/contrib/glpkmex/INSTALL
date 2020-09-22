@@ -1,0 +1,92 @@
+GLPKMEX INSTALLATION INSTRUCTIONS
+**********************************
+
+
+Introduction
+-------------
+
+glpkmex.c is a Matlab MEX Interface for the glpk library developed by 
+Andrew Makhorin. 
+
+
+
+---------------------------
+Installing glpkmex on Win*
+---------------------------
+
+
+Compiler: Cygwin/Mingw
+-----------------------
+
+Requirements:
+
+A) The last version of cygwin, downloadable from http://cygwin.com
+   (or download mingw)
+B) Gnumex: http://www.mrc-cbu.cam.ac.uk/Imaging/gnumex20.html
+
+Instructions:
+
+1/ After you downloaded and installed cygwin, compile the glpk library  
+   (glpk-xxx.tar.gz) with the -mno-cygwin option as explained in the
+   follow:
+
+   a) ./configure 
+   b) edit Makefile and in the CC Flags add -mno-cygwin (This option is 
+      used to produce a .exe file that doesn't depend on cygwin1.dll) if 
+      you are using cygwin. If you are using mingw leave all as it is.
+   c) make
+   d) make install
+
+2/ Copy libglpk.a in the directory of glpkmex.c
+
+3/ With gnumex make a mexopts.bat for the 'cygwin-mingw' if you are 
+   using cygwin or 'mingw' if you are using mingw.
+
+4/ Compile the mex interface with the following command:
+     
+      mex -f mexopts.bat -I<path_glpk>/include glpkmex.c libglpk.a
+      
+5/ Launch Matlab and update your path through menu File/Set Path.. 
+   to include
+    .../glpk-x.x/contrib/glpkmex/src
+    .../glpk-x.x/contrib/glpkmex/doc
+   *in that order* (which can be checked with >> path)
+
+6/ Try the .mexmac library on the examples glpktest1.m, glpktest2.m or 
+   glpksparse.m.
+
+
+
+Compiler: Visual Studio, .NET
+------------------------------
+Never tried.
+
+
+
+------------------------------------------
+Installing glpkmex on Linux/Mac OS X 10.3
+------------------------------------------
+
+1/ After you have compiled and installed glpk change to directory 
+   .../glpk-x.x/contrib/glpkmex/src and type the following command 
+   from prompt
+
+        $ <MATLAB-DIR>/bin/mex glpkmex.c -lglpk
+        
+   to compile the glpkmex.[mexglx|mexmax] library.
+        
+2/ Launch Matlab and update your path through menu File/Set Path.. 
+   to include
+    .../glpk-x.x/contrib/glpkmex/src
+    .../glpk-x.x/contrib/glpkmex/doc
+   *in that order* (which can be checked with >> path)
+
+3/ Try the .mexmac library on the examples glpktest1.m, glpktest2.m or 
+   glpksparse.m.
+
+----
+Note: A full path to mex has been given in case teTeX is installed and so there is
+another mex:
+ % which mex
+ /usr/local/teTeX/bin/mex
+

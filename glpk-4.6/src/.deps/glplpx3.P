@@ -1,0 +1,12 @@
+glplpx3.o: glplpx3.c \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/float.h \
+  ../include/glplib.h ../include/glplpx.h ../include/glpinv.h \
+  ../include/glpluf.h ../include/glpstr.h ../include/glpdmp.h
+glplpx3.c :
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/float.h :
+../include/glplib.h :
+../include/glplpx.h :
+../include/glpinv.h :
+../include/glpluf.h :
+../include/glpstr.h :
+../include/glpdmp.h :

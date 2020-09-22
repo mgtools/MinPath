@@ -1,0 +1,32 @@
+dnl configure.in
+
+dnl Process this file with autoconf to produce a configure script.
+
+AC_INIT(src/glpavl.c)
+
+AM_INIT_AUTOMAKE(GLPK, 4.6)
+
+dnl Checks for programs.
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_PROG_RANLIB
+
+dnl Checks for libraries.
+AC_CHECK_LIB(m, sqrt)
+
+dnl Checks for header files.
+AC_HEADER_STDC
+
+dnl Checks for typedefs.
+
+dnl Checks for structures.
+
+dnl Checks for compiler characteristics.
+
+dnl Checks for library functions.
+
+dnl Checks for system services.
+
+AC_OUTPUT(include/Makefile src/Makefile examples/Makefile Makefile)
+
+dnl eof
