@@ -31,7 +31,7 @@ path 00010 fam0 105 fam-found 32 # Glycolysis / Gluconeogenesis
    K01835 hits 3 # pgm; phosphoglucomutase [EC:5.4.2.2]
    K01895 hits 6 # ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]
    K03841 hits 1 # FBP, fbp; fructose-1,6-bisphosphatase I [EC:3.1.3.11]
-path 00020 fam0 61 fam-found 23 # Citrate cycle (TCA cycle)
+path 00020 fam0 62 fam-found 23 # Citrate cycle (TCA cycle)
    K00026 hits 2 # MDH2; malate dehydrogenase [EC:1.1.1.37]
    K00030 hits 3 # IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]
    K00031 hits 4 # IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]
@@ -64,7 +64,7 @@ path 00030 fam0 84 fam-found 19 # Pentose phosphate pathway
    K00850 hits 9 # pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]
    K00852 hits 2 # rbsK, RBKS; ribokinase [EC:2.7.1.15]
    K00948 hits 9 # PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
-   K01053 hits 1 # E3.1.1.17, gnl, RGN; gluconolactonase [EC:3.1.1.17]
+   K01053 hits 1 # gnl, RGN; gluconolactonase [EC:3.1.1.17]
    K01057 hits 6 # PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]
    K01619 hits 2 # deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]
    K01623 hits 4 # ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
@@ -75,13 +75,14 @@ path 00030 fam0 84 fam-found 19 # Pentose phosphate pathway
    K01810 hits 3 # GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]
    K01835 hits 3 # pgm; phosphoglucomutase [EC:5.4.2.2]
    K03841 hits 1 # FBP, fbp; fructose-1,6-bisphosphatase I [EC:3.1.3.11]
-path 00040 fam0 79 fam-found 8 # Pentose and glucuronate interconversions
+path 00040 fam0 85 fam-found 9 # Pentose and glucuronate interconversions
    K00002 hits 1 # AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
    K00008 hits 3 # SORD, gutB; L-iditol 2-dehydrogenase [EC:1.1.1.14]
    K00012 hits 5 # UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
    K00065 hits 2 # kduD; 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase [EC:1.1.1.127]
    K00963 hits 3 # UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
    K01195 hits 5 # uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
+   K01628 hits 3 # fucA; L-fuculose-phosphate aldolase [EC:4.1.2.17]
    K01783 hits 1 # rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
    K01812 hits 1 # uxaC; glucuronate isomerase [EC:5.3.1.12]
 path 00051 fam0 111 fam-found 21 # Fructose and mannose metabolism
@@ -122,11 +123,14 @@ path 00052 fam0 77 fam-found 15 # Galactose metabolism
    K01854 hits 1 # glf; UDP-galactopyranose mutase [EC:5.4.99.9]
    K07407 hits 3 # E3.2.1.22B, galA, rafA; alpha-galactosidase [EC:3.2.1.22]
    K08302 hits 7 # gatY-kbaY; tagatose 1,6-diphosphate aldolase GatY/KbaY [EC:4.1.2.40]
-path 00053 fam0 50 fam-found 6 # Ascorbate and aldarate metabolism
+path 00053 fam0 61 fam-found 9 # Ascorbate and aldarate metabolism
+   K00002 hits 1 # AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
    K00012 hits 5 # UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+   K00107 hits 1 # ALO; D-arabinono-1,4-lactone oxidase [EC:1.1.3.37]
    K00128 hits 14 # ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
    K00469 hits 1 # MIOX; inositol oxygenase [EC:1.13.99.1]
-   K01053 hits 1 # E3.1.1.17, gnl, RGN; gluconolactonase [EC:3.1.1.17]
+   K01053 hits 1 # gnl, RGN; gluconolactonase [EC:3.1.1.17]
+   K01195 hits 5 # uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
    K01706 hits 6 # gudD; glucarate dehydratase [EC:4.2.1.40]
    K10046 hits 1 # GME; GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.18 5.1.3.-]
 path 00061 fam0 39 fam-found 15 # Fatty acid biosynthesis
@@ -166,7 +170,7 @@ path 00100 fam0 34 fam-found 12 # Steroid biosynthesis
    K09831 hits 1 # ERG5, CYP61A; sterol 22-desaturase [EC:1.14.19.41]
 path 00121 fam0 15 fam-found 1 # Secondary bile acid biosynthesis
    K07007 hits 1 # baiN; 3-dehydro-bile acid Delta4,6-reductase [EC:1.3.1.114]
-path 00130 fam0 58 fam-found 8 # Ubiquinone and other terpenoid-quinone biosynthesis
+path 00130 fam0 59 fam-found 8 # Ubiquinone and other terpenoid-quinone biosynthesis
    K00355 hits 2 # NQO1; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
    K00457 hits 6 # HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
    K00838 hits 1 # ARO8; aromatic amino acid aminotransferase I / 2-aminoadipate transaminase [EC:2.6.1.57 2.6.1.39 2.6.1.27 2.6.1.5]
@@ -217,7 +221,7 @@ path 00190 fam0 218 fam-found 67 # Oxidative phosphorylation
    K02256 hits 797 # COX1; cytochrome c oxidase subunit 1 [EC:7.1.1.9]
    K02257 hits 1 # COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]
    K02258 hits 1 # COX11, ctaG; cytochrome c oxidase assembly protein subunit 11
-   K02259 hits 5 # COX15, ctaA; cytochrome c oxidase assembly protein subunit 15
+   K02259 hits 5 # COX15, ctaA; heme a synthase [EC:1.17.99.9]
    K02261 hits 613 # COX2; cytochrome c oxidase subunit 2
    K02262 hits 361 # COX3; cytochrome c oxidase subunit 3
    K02263 hits 3 # COX4; cytochrome c oxidase subunit 4
@@ -272,7 +276,7 @@ path 00220 fam0 59 fam-found 19 # Arginine biosynthesis
    K01915 hits 12 # glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
    K01940 hits 1 # argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
    K01941 hits 2 # E6.3.4.6; urea carboxylase [EC:6.3.4.6]
-path 00230 fam0 210 fam-found 46 # Purine metabolism
+path 00230 fam0 213 fam-found 46 # Purine metabolism
    K00087 hits 1 # ygeS, xdhA; xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]
    K00088 hits 6 # IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]
    K00106 hits 1 # XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]
@@ -322,7 +326,7 @@ path 00230 fam0 210 fam-found 46 # Purine metabolism
 path 00232 fam0 16 fam-found 2 # Caffeine metabolism
    K00106 hits 1 # XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]
    K00492 hits 3 # tmuM; 1,3,7-trimethyluric acid 5-monooxygenase [EC:1.14.13.212]
-path 00240 fam0 100 fam-found 26 # Pyrimidine metabolism
+path 00240 fam0 102 fam-found 26 # Pyrimidine metabolism
    K00226 hits 5 # pyrD; dihydroorotate dehydrogenase (fumarate) [EC:1.3.98.1]
    K00525 hits 16 # E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
    K00526 hits 1 # E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
@@ -377,7 +381,7 @@ path 00250 fam0 70 fam-found 27 # Alanine, aspartate and glutamate metabolism
    K01955 hits 10 # carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
    K01956 hits 7 # carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
    K07250 hits 1 # gabT; 4-aminobutyrate aminotransferase / (S)-3-amino-2-methylpropionate transaminase / 5-aminovalerate transaminase [EC:2.6.1.19 2.6.1.22 2.6.1.48]
-path 00260 fam0 100 fam-found 31 # Glycine, serine and threonine metabolism
+path 00260 fam0 99 fam-found 31 # Glycine, serine and threonine metabolism
    K00003 hits 3 # hom; homoserine dehydrogenase [EC:1.1.1.3]
    K00018 hits 1 # hprA; glycerate dehydrogenase [EC:1.1.1.29]
    K00058 hits 3 # serA, PHGDH; D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]
@@ -473,7 +477,7 @@ path 00300 fam0 47 fam-found 10 # Lysine biosynthesis
    K01586 hits 3 # lysA; diaminopimelate decarboxylase [EC:4.1.1.20]
    K01655 hits 1 # LYS21, LYS20; homocitrate synthase [EC:2.3.3.14]
    K05824 hits 2 # LYS12; homoisocitrate dehydrogenase [EC:1.1.1.87]
-path 00310 fam0 84 fam-found 17 # Lysine degradation
+path 00310 fam0 89 fam-found 17 # Lysine degradation
    K00128 hits 14 # ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
    K00135 hits 8 # gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]
    K00252 hits 8 # GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
@@ -494,7 +498,7 @@ path 00310 fam0 84 fam-found 17 # Lysine degradation
 path 00311 fam0 16 fam-found 2 # Penicillin and cephalosporin biosynthesis
    K00273 hits 1 # DAO, aao; D-amino-acid oxidase [EC:1.4.3.3]
    K10852 hits 4 # PENDE; isopenicillin-N N-acyltransferase [EC:2.3.1.164]
-path 00330 fam0 108 fam-found 16 # Arginine and proline metabolism
+path 00330 fam0 112 fam-found 16 # Arginine and proline metabolism
    K00128 hits 14 # ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
    K00273 hits 1 # DAO, aao; D-amino-acid oxidase [EC:1.4.3.3]
    K00274 hits 7 # MAO, aofH; monoamine oxidase [EC:1.4.3.4]
@@ -553,7 +557,7 @@ path 00360 fam0 77 fam-found 15 # Phenylalanine metabolism
    K02618 hits 2 # paaZ; oxepin-CoA hydrolase / 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase [EC:3.3.2.12 1.2.1.91]
    K03782 hits 5 # katG; catalase-peroxidase [EC:1.11.1.21]
    K05712 hits 1 # mhpA; 3-(3-hydroxy-phenyl)propionate hydroxylase [EC:1.14.13.127]
-   K10437 hits 2 # PHAA, CYP504; phenylacetate 2-hydroxylase [EC:1.14.14.54]
+   K10437 hits 2 # PHAA, PHACA, CYP504A1; phenylacetate 2-hydroxylase [EC:1.14.14.54]
 path 00361 fam0 41 fam-found 4 # Chlorocyclohexane and chlorobenzene degradation
    K00217 hits 1 # E1.3.1.32; maleylacetate reductase [EC:1.3.1.32]
    K01061 hits 2 # E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]
@@ -568,7 +572,7 @@ path 00362 fam0 106 fam-found 8 # Benzoate degradation
    K01055 hits 1 # pcaD; 3-oxoadipate enol-lactonase [EC:3.1.1.24]
    K01692 hits 6 # paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]
    K07824 hits 6 # CYP53A1; benzoate 4-monooxygenase [EC:1.14.14.92]
-path 00380 fam0 78 fam-found 18 # Tryptophan metabolism
+path 00380 fam0 80 fam-found 18 # Tryptophan metabolism
    K00128 hits 14 # ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
    K00252 hits 8 # GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
    K00274 hits 7 # MAO, aofH; monoamine oxidase [EC:1.4.3.4]
@@ -727,9 +731,9 @@ path 00521 fam0 20 fam-found 5 # Streptomycin biosynthesis
    K01092 hits 3 # E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]
    K01710 hits 6 # rfbB, rmlB, rffG; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]
    K01835 hits 3 # pgm; phosphoglucomutase [EC:5.4.2.2]
-path 00522 fam0 36 fam-found 1 # Biosynthesis of 12-, 14- and 16-membered macrolides
-   K10817 hits 1 # eryA; 6-deoxyerythronolide-B synthase [EC:2.3.1.94]
-path 00540 fam0 59 fam-found 8 # Lipopolysaccharide biosynthesis
+path 00522 fam0 59 fam-found 1 # Biosynthesis of 12-, 14- and 16-membered macrolides
+   K10817 hits 1 # eryAI; 6-deoxyerythronolide-B synthase EryAI [EC:2.3.1.94]
+path 00540 fam0 62 fam-found 8 # Lipopolysaccharide biosynthesis
    K00677 hits 2 # lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
    K00979 hits 1 # kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
    K01627 hits 4 # kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
@@ -738,6 +742,8 @@ path 00540 fam0 59 fam-found 8 # Lipopolysaccharide biosynthesis
    K02536 hits 1 # lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
    K03269 hits 2 # lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
    K03274 hits 2 # gmhD, rfaD; ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]
+path 00542 fam0 35 fam-found 1 # O-Antigen repeat unit biosynthesis
+   K02851 hits 1 # wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
 path 00550 fam0 51 fam-found 5 # Peptidoglycan biosynthesis
    K01000 hits 1 # mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
    K01925 hits 2 # murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
@@ -768,7 +774,7 @@ path 00562 fam0 76 fam-found 11 # Inositol phosphate metabolism
    K01106 hits 3 # INPP5A; inositol polyphosphate 5-phosphatase INPP5A [EC:3.1.3.56]
    K01114 hits 3 # plc; phospholipase C [EC:3.1.4.3]
    K01803 hits 2 # TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
-path 00563 fam0 26 fam-found 14 # Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+path 00563 fam0 27 fam-found 14 # Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
    K03434 hits 1 # PIGL; N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89]
    K03859 hits 3 # PIGC, GPI2; phosphatidylinositol N-acetylglucosaminyltransferase subunit C
    K03860 hits 1 # PIGQ, GPI1; phosphatidylinositol N-acetylglucosaminyltransferase subunit Q
@@ -783,7 +789,7 @@ path 00563 fam0 26 fam-found 14 # Glycosylphosphatidylinositol (GPI)-anchor bios
    K05292 hits 2 # PIGT; GPI-anchor transamidase subunit T
    K05293 hits 2 # PIGU; GPI-anchor transamidase subunit U
    K05310 hits 3 # PIGG, GPI7; ethanolamine phosphate transferase 2 subunit G [EC:2.7.-.-]
-path 00564 fam0 111 fam-found 14 # Glycerophospholipid metabolism
+path 00564 fam0 113 fam-found 14 # Glycerophospholipid metabolism
    K00006 hits 6 # GPD1; glycerol-3-phosphate dehydrogenase (NAD+) [EC:1.1.1.8]
    K00111 hits 2 # glpA, glpD; glycerol-3-phosphate dehydrogenase [EC:1.1.5.3]
    K00551 hits 11 # PEMT; phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]
@@ -804,8 +810,6 @@ path 00565 fam0 31 fam-found 5 # Ether lipid metabolism
    K01062 hits 1 # PLA2G7, PAFAH; platelet-activating factor acetylhydrolase [EC:3.1.1.47]
    K01114 hits 3 # plc; phospholipase C [EC:3.1.4.3]
    K01115 hits 4 # PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
-path 00572 fam0 12 fam-found 1 # Arabinogalactan biosynthesis - Mycobacterium
-   K02851 hits 1 # wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
 path 00590 fam0 45 fam-found 3 # Arachidonic acid metabolism
    K00432 hits 1 # gpx, btuE, bsaA; glutathione peroxidase [EC:1.11.1.9]
    K00509 hits 2 # PTGS1, COX1; prostaglandin-endoperoxide synthase 1 [EC:1.14.99.1]
@@ -815,7 +819,7 @@ path 00592 fam0 25 fam-found 4 # alpha-Linolenic acid metabolism
    K00232 hits 4 # E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]
    K00632 hits 7 # fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]
    K07513 hits 1 # ACAA1; acetyl-CoA acyltransferase 1 [EC:2.3.1.16]
-path 00600 fam0 45 fam-found 8 # Sphingolipid metabolism
+path 00600 fam0 47 fam-found 8 # Sphingolipid metabolism
    K00654 hits 15 # SPT; serine palmitoyltransferase [EC:2.3.1.50]
    K00720 hits 1 # UGCG; ceramide glucosyltransferase [EC:2.4.1.80]
    K01130 hits 3 # E3.1.6.1; arylsulfatase [EC:3.1.6.1]
@@ -824,12 +828,15 @@ path 00600 fam0 45 fam-found 8 # Sphingolipid metabolism
    K04712 hits 2 # DEGS; sphingolipid 4-desaturase/C4-monooxygenase [EC:1.14.19.17 1.14.18.5]
    K04713 hits 2 # SUR2; sphinganine C4-monooxygenase [EC:1.14.18.5]
    K07407 hits 3 # E3.2.1.22B, galA, rafA; alpha-galactosidase [EC:3.2.1.22]
-path 00620 fam0 107 fam-found 30 # Pyruvate metabolism
+path 00620 fam0 126 fam-found 33 # Pyruvate metabolism
+   K00001 hits 6 # E1.1.1.1, adh; alcohol dehydrogenase [EC:1.1.1.1]
+   K00002 hits 1 # AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
    K00026 hits 2 # MDH2; malate dehydrogenase [EC:1.1.1.37]
    K00027 hits 6 # ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
    K00029 hits 1 # E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
    K00101 hits 16 # lldD; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]
    K00102 hits 10 # LDHD, dld; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]
+   K00121 hits 5 # frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]
    K00128 hits 14 # ALDH; aldehyde dehydrogenase (NAD+) [EC:1.2.1.3]
    K00161 hits 4 # PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]
    K00162 hits 3 # PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]
@@ -1086,10 +1093,10 @@ path 00780 fam0 23 fam-found 7 # Biotin metabolism
    K00833 hits 2 # bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]
    K01012 hits 1 # bioB; biotin synthase [EC:2.8.1.6]
    K09458 hits 3 # fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]
-path 00785 fam0 11 fam-found 2 # Lipoic acid metabolism
+path 00785 fam0 13 fam-found 2 # Lipoic acid metabolism
    K03644 hits 3 # lipA, LIAS, LIP1, LIP5; lipoyl synthase [EC:2.8.1.8]
    K03801 hits 1 # lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]
-path 00790 fam0 81 fam-found 13 # Folate biosynthesis
+path 00790 fam0 82 fam-found 13 # Folate biosynthesis
    K00796 hits 2 # folP; dihydropteroate synthase [EC:2.5.1.15]
    K01077 hits 13 # E3.1.3.1, phoA, phoB; alkaline phosphatase [EC:3.1.3.1]
    K01495 hits 2 # GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]
@@ -1110,7 +1117,7 @@ path 00791 fam0 16 fam-found 6 # Atrazine degradation
    K01457 hits 1 # atzF; allophanate hydrolase [EC:3.5.1.54]
    K01941 hits 2 # E6.3.4.6; urea carboxylase [EC:6.3.4.6]
    K06035 hits 2 # DDI2_3; cyanamide hydratase [EC:4.2.1.69]
-path 00860 fam0 129 fam-found 20 # Porphyrin and chlorophyll metabolism
+path 00860 fam0 131 fam-found 20 # Porphyrin and chlorophyll metabolism
    K00228 hits 2 # CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]
    K00643 hits 3 # E2.3.1.37, ALAS; 5-aminolevulinate synthase [EC:2.3.1.37]
    K01195 hits 5 # uidA, GUSB; beta-glucuronidase [EC:3.2.1.31]
@@ -1125,13 +1132,13 @@ path 00860 fam0 129 fam-found 20 # Porphyrin and chlorophyll metabolism
    K02191 hits 1 # cbiT; cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]
    K02232 hits 1 # cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
    K02257 hits 1 # COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]
-   K02259 hits 5 # COX15, ctaA; cytochrome c oxidase assembly protein subunit 15
+   K02259 hits 5 # COX15, ctaA; heme a synthase [EC:1.17.99.9]
    K02302 hits 1 # cysG; uroporphyrin-III C-methyltransferase / precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:2.1.1.107 1.3.1.76 4.99.1.4]
    K02495 hits 2 # hemN, hemZ; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3]
    K03399 hits 1 # cbiE; cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]
    K03594 hits 1 # bfr; bacterioferritin [EC:1.16.3.1]
-   K05934 hits 2 # E2.1.1.131, cobJ, cbiH; precorrin-3B C17-methyltransferase [EC:2.1.1.131]
-path 00900 fam0 58 fam-found 13 # Terpenoid backbone biosynthesis
+   K05934 hits 2 # cobJ, cbiH; precorrin-3B C17-methyltransferase / cobalt-factor III methyltransferase [EC:2.1.1.131 2.1.1.272]
+path 00900 fam0 59 fam-found 13 # Terpenoid backbone biosynthesis
    K00021 hits 1 # HMGCR; hydroxymethylglutaryl-CoA reductase (NADPH) [EC:1.1.1.34]
    K00626 hits 10 # ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
    K00787 hits 2 # FDPS; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
@@ -1145,9 +1152,9 @@ path 00900 fam0 58 fam-found 13 # Terpenoid backbone biosynthesis
    K03527 hits 1 # ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]
    K05906 hits 1 # PCYOX1, FCLY; prenylcysteine oxidase / farnesylcysteine lyase [EC:1.8.3.5 1.8.3.6]
    K05954 hits 3 # FNTB; protein farnesyltransferase subunit beta [EC:2.5.1.58]
-path 00904 fam0 66 fam-found 1 # Diterpenoid biosynthesis
-   K04125 hits 1 # E1.14.11.13; gibberellin 2beta-dioxygenase [EC:1.14.11.13]
-path 00906 fam0 49 fam-found 1 # Carotenoid biosynthesis
+path 00904 fam0 68 fam-found 1 # Diterpenoid biosynthesis
+   K04125 hits 1 # GA2ox; gibberellin 2beta-dioxygenase [EC:1.14.11.13]
+path 00906 fam0 52 fam-found 1 # Carotenoid biosynthesis
    K02291 hits 1 # crtB; 15-cis-phytoene synthase [EC:2.5.1.32]
 path 00910 fam0 65 fam-found 11 # Nitrogen metabolism
    K00260 hits 2 # gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]
@@ -1176,7 +1183,7 @@ path 00920 fam0 109 fam-found 12 # Sulfur metabolism
    K04091 hits 1 # ssuD; alkanesulfonate monooxygenase [EC:1.14.14.5]
 path 00930 fam0 22 fam-found 5 # Caprolactam degradation
    K00002 hits 1 # AKR1A1, adh; alcohol dehydrogenase (NADP+) [EC:1.1.1.2]
-   K01053 hits 1 # E3.1.1.17, gnl, RGN; gluconolactonase [EC:3.1.1.17]
+   K01053 hits 1 # gnl, RGN; gluconolactonase [EC:3.1.1.17]
    K01692 hits 6 # paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]
    K03379 hits 4 # chnB; cyclohexanone monooxygenase [EC:1.14.13.22]
    K06446 hits 1 # DCAA; acyl-CoA dehydrogenase [EC:1.3.99.-]
@@ -1262,7 +1269,7 @@ path 01524 fam0 46 fam-found 12 # Platinum drug resistance
    K08737 hits 87 # MSH6; DNA mismatch repair protein MSH6
    K08738 hits 1 # CYC; cytochrome c
    K10849 hits 1 # ERCC1; DNA excision repair protein ERCC-1
-path 02010 fam0 515 fam-found 20 # ABC transporters
+path 02010 fam0 512 fam-found 20 # ABC transporters
    K01995 hits 2 # livG; branched-chain amino acid transport system ATP-binding protein
    K01998 hits 1 # livM; branched-chain amino acid transport system permease protein
    K02012 hits 1 # afuA, fbpA; iron(III) transport system substrate-binding protein
@@ -1297,9 +1304,9 @@ path 02020 fam0 495 fam-found 27 # Two-component system
    K01915 hits 12 # glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
    K02040 hits 4 # pstS; phosphate transport system substrate-binding protein
    K02106 hits 2 # atoE; short-chain fatty acids transporter
-   K02259 hits 5 # COX15, ctaA; cytochrome c oxidase assembly protein subunit 15
+   K02259 hits 5 # COX15, ctaA; heme a synthase [EC:1.17.99.9]
    K02313 hits 2 # dnaA; chromosomal replication initiator protein
-   K02405 hits 1 # fliA; RNA polymerase sigma factor for flagellar operon FliA
+   K02405 hits 1 # fliA, whiG; RNA polymerase sigma factor FliA
    K03407 hits 1 # cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]
    K07651 hits 1 # resE; two-component system, OmpR family, sensor histidine kinase ResE [EC:2.7.13.3]
    K07657 hits 1 # phoB; two-component system, OmpR family, phosphate regulon response regulator PhoB
@@ -1307,7 +1314,7 @@ path 02020 fam0 495 fam-found 27 # Two-component system
    K07718 hits 1 # yesM; two-component system, sensor histidine kinase YesM [EC:2.7.13.3]
    K07787 hits 2 # cusA, silA; copper/silver efflux system protein
    K08738 hits 1 # CYC; cytochrome c
-   K10941 hits 1 # fleQ, flrA; sigma-54 dependent transcriptional regulator, flagellar regulatory protein
+   K10941 hits 1 # flrA, fleQ, flaK; sigma-54 dependent transcriptional regulator, flagellar regulatory protein
    K11230 hits 9 # SSK2; mitogen-activated protein kinase kinase kinase [EC:2.7.11.25]
    K11231 hits 2 # SLN1; osomolarity two-component system, sensor histidine kinase SLN1 [EC:2.7.13.3]
    K11233 hits 1 # SSK1; osomolarity two-component system, response regulator SSK1
@@ -1332,8 +1339,12 @@ path 02024 fam0 282 fam-found 18 # Quorum sensing
    K03217 hits 2 # yidC, spoIIIJ, OXA1, ccfA; YidC/Oxa1 family membrane protein insertase
 path 02026 fam0 61 fam-found 3 # Biofilm formation - Escherichia coli
    K00688 hits 8 # PYG, glgP; glycogen phosphorylase [EC:2.4.1.1]
-   K02405 hits 1 # fliA; RNA polymerase sigma factor for flagellar operon FliA
+   K02405 hits 1 # fliA, whiG; RNA polymerase sigma factor FliA
    K06204 hits 1 # dksA; DnaK suppressor protein
+path 02040 fam0 55 fam-found 3 # Flagellar assembly
+   K02405 hits 1 # fliA, whiG; RNA polymerase sigma factor FliA
+   K03086 hits 5 # rpoD; RNA polymerase primary sigma factor
+   K10941 hits 1 # flrA, fleQ, flaK; sigma-54 dependent transcriptional regulator, flagellar regulatory protein
 path 02060 fam0 71 fam-found 5 # Phosphotransferase system (PTS)
    K02768 hits 3 # fruB; fructose PTS system EIIA component [EC:2.7.1.202]
    K02769 hits 3 # fruAb; fructose PTS system EIIB component [EC:2.7.1.202]
@@ -1707,7 +1718,7 @@ path 04011 fam0 91 fam-found 30 # MAPK signaling pathway - yeast
    K06630 hits 1 # YWHAE; 14-3-3 protein epsilon
    K06665 hits 1 # SSN6, CYC8; general transcriptional corepressor CYC8
    K06666 hits 3 # TUP1; general transcriptional corepressor TUP1
-   K07973 hits 1 # GNG; guanine nucleotide-binding protein subunit gamma, other
+   K07973 hits 1 # GNG; guanine nucleotide-binding protein subunit gamma, fungi
    K08294 hits 2 # MKK1_2; mitogen-activated protein kinase kinase [EC:2.7.12.2]
    K10591 hits 5 # NEDD4, RSP5; E3 ubiquitin-protein ligase NEDD4 [EC:2.3.2.26]
    K11215 hits 3 # STE12; transcription factor STE12
@@ -1855,7 +1866,7 @@ path 04120 fam0 131 fam-found 29 # Ubiquitin mediated proteolysis
    K10601 hits 2 # SYVN1, HRD1; E3 ubiquitin-protein ligase synoviolin [EC:2.3.2.27]
    K10608 hits 1 # TRIM37, MUL; tripartite motif-containing protein 37 [EC:2.3.2.27]
    K10684 hits 4 # UBLE1A, SAE1; ubiquitin-like 1-activating enzyme E1 A [EC:6.2.1.45]
-   K10686 hits 1 # UBE1C, UBA3; ubiquitin-activating enzyme E1 C [EC:6.2.1.45]
+   K10686 hits 1 # UBA3, UBE1C; NEDD8-activating enzyme E1 [EC:6.2.1.64]
    K10688 hits 1 # UBE2W, UBC16; ubiquitin-conjugating enzyme E2 W [EC:2.3.2.25]
 path 04122 fam0 29 fam-found 3 # Sulfur relay system
    K00566 hits 2 # mnmA, trmU; tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
@@ -1869,12 +1880,15 @@ path 04130 fam0 35 fam-found 7 # SNARE interactions in vesicular transport
    K08504 hits 3 # BET1; blocked early in transport 1
    K08515 hits 2 # VAMP7; vesicle-associated membrane protein 7
    K08517 hits 1 # SEC22; vesicle transport protein SEC22
-path 04138 fam0 77 fam-found 14 # Autophagy - yeast
+path 04138 fam0 82 fam-found 17 # Autophagy - yeast
    K00654 hits 15 # SPT; serine palmitoyltransferase [EC:2.3.1.50]
    K00914 hits 2 # PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]
    K01381 hits 4 # PEP4; saccharopepsin [EC:3.4.23.25]
    K03237 hits 1 # EIF2S1; translation initiation factor 2 subunit 1
    K04345 hits 4 # PKA; protein kinase A [EC:2.7.11.11]
+   K05754 hits 1 # ARPC5; actin related protein 2/3 complex, subunit 5
+   K05755 hits 1 # ARPC4; actin related protein 2/3 complex, subunit 4
+   K05757 hits 1 # ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B
    K06027 hits 5 # NSF, SEC18; vesicle-fusing ATPase [EC:3.6.4.6]
    K07203 hits 5 # MTOR, FRAP, TOR; serine/threonine-protein kinase mTOR [EC:2.7.11.1]
    K07204 hits 15 # RAPTOR; regulatory associated protein of mTOR
@@ -1908,7 +1922,7 @@ path 04141 fam0 144 fam-found 26 # Protein processing in endoplasmic reticulum
    K10578 hits 3 # UBE2J1, NCUBE1, UBC6; ubiquitin-conjugating enzyme E2 J1 [EC:2.3.2.23]
    K10597 hits 4 # UBE4B, UFD2; ubiquitin conjugation factor E4 B [EC:2.3.2.27]
    K10601 hits 2 # SYVN1, HRD1; E3 ubiquitin-protein ligase synoviolin [EC:2.3.2.27]
-   K10636 hits 2 # AMFR, GP78; autocrine motility factor receptor [EC:2.3.2.27]
+   K10636 hits 2 # AMFR, GP78; E3 ubiquitin-protein ligase AMFR [EC:2.3.2.36]
    K10661 hits 1 # MARCH6, DOA10; E3 ubiquitin-protein ligase MARCH6 [EC:2.3.2.27]
    K10956 hits 3 # SEC61A; protein transport protein SEC61 subunit alpha
 path 04142 fam0 105 fam-found 10 # Lysosome
@@ -1922,7 +1936,7 @@ path 04142 fam0 105 fam-found 10 # Lysosome
    K02154 hits 4 # ATPeV0A, ATP6N; V-type H+-transporting ATPase subunit a
    K03661 hits 3 # ATPeV0B, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit
    K04646 hits 3 # CLTC; clathrin heavy chain
-path 04144 fam0 166 fam-found 14 # Endocytosis
+path 04144 fam0 169 fam-found 14 # Endocytosis
    K00889 hits 2 # PIP5K; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
    K01115 hits 4 # PLD1_2; phospholipase D1/2 [EC:3.1.4.4]
    K01528 hits 6 # DNM1_3; dynamin 1/3 [EC:3.6.5.5]
@@ -2008,30 +2022,33 @@ path 04310 fam0 119 fam-found 6 # Wnt signaling pathway
    K03097 hits 1 # CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]
    K03347 hits 1 # CUL1, CDC53; cullin 1
    K04345 hits 4 # PKA; protein kinase A [EC:2.7.11.11]
-   K04499 hits 1 # RUVBL1, RVB1, INO80H; RuvB-like protein 1 (pontin 52)
+   K04499 hits 1 # RUVBL1, RVB1, INO80H; RuvB-like protein 1 [EC:3.6.4.12]
    K06268 hits 3 # PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit
-path 04360 fam0 127 fam-found 6 # Axon guidance
+path 04360 fam0 128 fam-found 7 # Axon guidance
    K02677 hits 7 # PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]
    K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
    K04393 hits 1 # CDC42; cell division control protein 42
    K04409 hits 1 # PAK1; p21-activated kinase 1 [EC:2.7.11.1]
    K06268 hits 3 # PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit
+   K06276 hits 6 # PDPK1; 3-phosphoinositide dependent protein kinase-1 [EC:2.7.11.1]
    K06820 hits 1 # PLXNA; plexin A
-path 04380 fam0 99 fam-found 3 # Osteoclast differentiation
+path 04613 fam0 90 fam-found 12 # Neutrophil extracellular trap formation
+   K02677 hits 7 # PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]
    K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
-   K06268 hits 3 # PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit
-   K08008 hits 11 # NOX1, MOX1; NADPH oxidase 1
-path 04612 fam0 46 fam-found 6 # Antigen processing and presentation
-   K03283 hits 9 # HSPA1s; heat shock 70kDa protein 1/2/6/8
-   K04079 hits 2 # HSP90A, htpG; molecular chaperone HtpG
-   K08064 hits 1 # NFYA, HAP2; nuclear transcription factor Y, alpha
-   K08066 hits 1 # NFYC, HAP5; nuclear transcription factor Y, gamma
-   K09489 hits 10 # HSPA4; heat shock 70kDa protein 4
-   K09490 hits 4 # HSPA5, BIP; endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+   K05012 hits 9 # CLCN3_4_5; chloride channel 3/4/5
+   K05692 hits 2 # ACTB_G1; actin beta/gamma 1
+   K06067 hits 4 # HDAC1_2; histone deacetylase 1/2 [EC:3.5.1.98]
+   K07203 hits 5 # MTOR, FRAP, TOR; serine/threonine-protein kinase mTOR [EC:2.7.11.1]
+   K08337 hits 1 # ATG7; ubiquitin-like modifier-activating enzyme ATG7
+   K11251 hits 2 # H2A; histone H2A
+   K11253 hits 5 # H3; histone H3
+   K11254 hits 4 # H4; histone H4
+   K11303 hits 1 # HAT1, KAT1; histone acetyltransferase 1 [EC:2.3.1.48]
+   K11407 hits 3 # HDAC6; histone deacetylase 6 [EC:3.5.1.98]
 path 04710 fam0 24 fam-found 2 # Circadian rhythm
    K02295 hits 2 # CRY; cryptochrome
    K03347 hits 1 # CUL1, CDC53; cullin 1
-path 04714 fam0 187 fam-found 44 # Thermogenesis
+path 04714 fam0 188 fam-found 44 # Thermogenesis
    K00234 hits 36 # SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
    K00235 hits 2 # SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
    K00411 hits 1 # UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]
@@ -2050,7 +2067,7 @@ path 04714 fam0 187 fam-found 44 # Thermogenesis
    K02256 hits 797 # COX1; cytochrome c oxidase subunit 1 [EC:7.1.1.9]
    K02257 hits 1 # COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]
    K02258 hits 1 # COX11, ctaG; cytochrome c oxidase assembly protein subunit 11
-   K02259 hits 5 # COX15, ctaA; cytochrome c oxidase assembly protein subunit 15
+   K02259 hits 5 # COX15, ctaA; heme a synthase [EC:1.17.99.9]
    K02261 hits 613 # COX2; cytochrome c oxidase subunit 2
    K02262 hits 361 # COX3; cytochrome c oxidase subunit 3
    K02263 hits 3 # COX4; cytochrome c oxidase subunit 4
@@ -2076,7 +2093,7 @@ path 04714 fam0 187 fam-found 44 # Thermogenesis
    K08266 hits 6 # MLST8, GBL; target of rapamycin complex subunit LST8
    K11340 hits 1 # ACTL6A, INO80K; actin-like protein 6A
    K11450 hits 5 # KDM1A, AOF2, LSD1; [histone H3]-N6,N6-dimethyl-L-lysine4 FAD-dependent demethylase [EC:1.14.99.66]
-path 04810 fam0 161 fam-found 12 # Regulation of actin cytoskeleton
+path 04810 fam0 163 fam-found 12 # Regulation of actin cytoskeleton
    K00889 hits 2 # PIP5K; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]
    K00921 hits 6 # PIKFYVE, FAB1; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]
    K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
@@ -2127,85 +2144,6 @@ path 04914 fam0 64 fam-found 12 # Progesterone-mediated oocyte maturation
 path 04974 fam0 66 fam-found 2 # Protein digestion and absorption
    K01278 hits 3 # DPP4, CD26; dipeptidyl-peptidase 4 [EC:3.4.14.5]
    K01539 hits 2 # ATP1A; sodium/potassium-transporting ATPase subunit alpha [EC:7.2.2.13]
-path 05016 fam0 229 fam-found 78 # Huntington disease
-   K00234 hits 36 # SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
-   K00235 hits 2 # SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
-   K00411 hits 1 # UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]
-   K00412 hits 553 # CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
-   K00413 hits 7 # CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit
-   K00415 hits 1 # QCR2, UQCRC2; ubiquinol-cytochrome c reductase core subunit 2
-   K00432 hits 1 # gpx, btuE, bsaA; glutathione peroxidase [EC:1.11.1.9]
-   K00914 hits 2 # PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]
-   K02126 hits 113 # ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
-   K02127 hits 1 # ATPeF0B, ATP5F1, ATP4; F-type H+-transporting ATPase subunit b
-   K02128 hits 4 # ATPeF0C, ATP5G, ATP9; F-type H+-transporting ATPase subunit c
-   K02133 hits 6 # ATPeF1B, ATP5B, ATP2; F-type H+-transporting ATPase subunit beta [EC:7.1.2.2]
-   K02134 hits 1 # ATPeF1D, ATP5D, ATP16; F-type H+-transporting ATPase subunit delta
-   K02136 hits 1 # ATPeF1G, ATP5C1, ATP3; F-type H+-transporting ATPase subunit gamma
-   K02137 hits 1 # ATPeF0O, ATP5O, ATP5; F-type H+-transporting ATPase subunit O
-   K02138 hits 1 # ATPeF0D, ATP5H, ATP7; F-type H+-transporting ATPase subunit d
-   K02256 hits 797 # COX1; cytochrome c oxidase subunit 1 [EC:7.1.1.9]
-   K02261 hits 613 # COX2; cytochrome c oxidase subunit 2
-   K02262 hits 361 # COX3; cytochrome c oxidase subunit 3
-   K02263 hits 3 # COX4; cytochrome c oxidase subunit 4
-   K02265 hits 1 # COX5B; cytochrome c oxidase subunit 5b
-   K02725 hits 2 # PSMA1; 20S proteasome subunit alpha 6 [EC:3.4.25.1]
-   K02727 hits 6 # PSMA3; 20S proteasome subunit alpha 7 [EC:3.4.25.1]
-   K02729 hits 3 # PSMA5; 20S proteasome subunit alpha 5 [EC:3.4.25.1]
-   K02730 hits 3 # PSMA6; 20S proteasome subunit alpha 1 [EC:3.4.25.1]
-   K02731 hits 1 # PSMA7; 20S proteasome subunit alpha 4 [EC:3.4.25.1]
-   K02732 hits 5 # PSMB1; 20S proteasome subunit beta 6 [EC:3.4.25.1]
-   K02735 hits 1 # PSMB3; 20S proteasome subunit beta 3 [EC:3.4.25.1]
-   K02737 hits 1 # PSMB5; 20S proteasome subunit beta 5 [EC:3.4.25.1]
-   K02738 hits 1 # PSMB6; 20S proteasome subunit beta 1 [EC:3.4.25.1]
-   K02739 hits 1 # PSMB7; 20S proteasome subunit beta 2 [EC:3.4.25.1]
-   K03006 hits 1 # RPB1, POLR2A; DNA-directed RNA polymerase II subunit RPB1 [EC:2.7.7.6]
-   K03010 hits 7 # RPB2, POLR2B; DNA-directed RNA polymerase II subunit RPB2 [EC:2.7.7.6]
-   K03011 hits 6 # RPB3, POLR2C; DNA-directed RNA polymerase II subunit RPB3
-   K03012 hits 2 # RPB4, POLR2D; DNA-directed RNA polymerase II subunit RPB4
-   K03014 hits 1 # RPB6, POLR2F; DNA-directed RNA polymerases I, II, and III subunit RPABC2
-   K03016 hits 2 # RPB8, POLR2H; DNA-directed RNA polymerases I, II, and III subunit RPABC3
-   K03017 hits 1 # RPB9, POLR2I; DNA-directed RNA polymerase II subunit RPB9
-   K03028 hits 2 # PSMD2, RPN1; 26S proteasome regulatory subunit N1
-   K03029 hits 3 # PSMD4, RPN10; 26S proteasome regulatory subunit N10
-   K03030 hits 3 # PSMD14, RPN11, POH1; 26S proteasome regulatory subunit N11
-   K03031 hits 2 # PSMD8, RPN12; 26S proteasome regulatory subunit N12
-   K03032 hits 3 # PSMD1, RPN2; 26S proteasome regulatory subunit N2
-   K03035 hits 3 # PSMD12, RPN5; 26S proteasome regulatory subunit N5
-   K03036 hits 2 # PSMD11, RPN6; 26S proteasome regulatory subunit N6
-   K03037 hits 1 # PSMD6, RPN7; 26S proteasome regulatory subunit N7
-   K03038 hits 2 # PSMD7, RPN8; 26S proteasome regulatory subunit N8
-   K03039 hits 2 # PSMD13, RPN9; 26S proteasome regulatory subunit N9
-   K03061 hits 18 # PSMC2, RPT1; 26S proteasome regulatory subunit T1
-   K03062 hits 4 # PSMC1, RPT2; 26S proteasome regulatory subunit T2
-   K03063 hits 1 # PSMC4, RPT3; 26S proteasome regulatory subunit T3
-   K03065 hits 4 # PSMC3, RPT5; 26S proteasome regulatory subunit T5
-   K03066 hits 15 # PSMC5, RPT6; 26S proteasome regulatory subunit T6
-   K03120 hits 2 # TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
-   K03878 hits 371 # ND1; NADH-ubiquinone oxidoreductase chain 1 [EC:7.1.1.2]
-   K03879 hits 3 # ND2; NADH-ubiquinone oxidoreductase chain 2 [EC:7.1.1.2]
-   K03880 hits 232 # ND3; NADH-ubiquinone oxidoreductase chain 3 [EC:7.1.1.2]
-   K03881 hits 68 # ND4; NADH-ubiquinone oxidoreductase chain 4 [EC:7.1.1.2]
-   K03883 hits 511 # ND5; NADH-ubiquinone oxidoreductase chain 5 [EC:7.1.1.2]
-   K03934 hits 1 # NDUFS1; NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:7.1.1.2]
-   K03935 hits 3 # NDUFS2; NADH dehydrogenase (ubiquinone) Fe-S protein 2 [EC:7.1.1.2]
-   K03936 hits 2 # NDUFS3; NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:7.1.1.2]
-   K03938 hits 1 # NDUFS5; NADH dehydrogenase (ubiquinone) Fe-S protein 5
-   K03940 hits 2 # NDUFS7; NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2]
-   K03953 hits 2 # NDUFA9; NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9
-   K03963 hits 1 # NDUFB7; NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 7
-   K04564 hits 6 # SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
-   K04565 hits 4 # SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
-   K04646 hits 3 # CLTC; clathrin heavy chain
-   K04648 hits 3 # DCTN1; dynactin 1
-   K06067 hits 4 # HDAC1_2; histone deacetylase 1/2 [EC:3.5.1.98]
-   K07203 hits 5 # MTOR, FRAP, TOR; serine/threonine-protein kinase mTOR [EC:2.7.11.1]
-   K07374 hits 4 # TUBA; tubulin alpha
-   K08269 hits 1 # ULK2, ATG1; serine/threonine-protein kinase ULK2 [EC:2.7.11.1]
-   K08333 hits 3 # PIK3R4, VPS15; phosphoinositide-3-kinase, regulatory subunit 4 [EC:2.7.11.1]
-   K08738 hits 1 # CYC; cytochrome c
-   K08852 hits 3 # ERN1; serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-]
-   K10427 hits 2 # DCTN5; dynactin 5
 path 05017 fam0 116 fam-found 38 # Spinocerebellar ataxia
    K00914 hits 2 # PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]
    K02677 hits 7 # PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]
@@ -2342,7 +2280,7 @@ path 05110 fam0 49 fam-found 12 # Vibrio cholerae infection
    K05692 hits 2 # ACTB_G1; actin beta/gamma 1
    K10949 hits 2 # KDELR; ER lumen protein retaining receptor
    K10956 hits 3 # SEC61A; protein transport protein SEC61 subunit alpha
-path 05130 fam0 150 fam-found 14 # Pathogenic Escherichia coli infection
+path 05130 fam0 152 fam-found 14 # Pathogenic Escherichia coli infection
    K00134 hits 6 # GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
    K02985 hits 3 # RP-S3e, RPS3; small subunit ribosomal protein S3e
    K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
@@ -2357,7 +2295,7 @@ path 05130 fam0 150 fam-found 14 # Pathogenic Escherichia coli infection
    K10352 hits 5 # MYH9s; myosin heavy chain 9/10/11/14
    K10356 hits 5 # MYO1; myosin I
    K11294 hits 2 # NCL, NSR1; nucleolin
-path 05132 fam0 203 fam-found 17 # Salmonella infection
+path 05132 fam0 217 fam-found 20 # Salmonella infection
    K00134 hits 6 # GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
    K00914 hits 2 # PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]
    K02985 hits 3 # RP-S3e, RPS3; small subunit ribosomal protein S3e
@@ -2366,15 +2304,18 @@ path 05132 fam0 203 fam-found 17 # Salmonella infection
    K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
    K04393 hits 1 # CDC42; cell division control protein 42
    K04409 hits 1 # PAK1; p21-activated kinase 1 [EC:2.7.11.1]
+   K04648 hits 3 # DCTN1; dynactin 1
    K05692 hits 2 # ACTB_G1; actin beta/gamma 1
    K05754 hits 1 # ARPC5; actin related protein 2/3 complex, subunit 5
    K05755 hits 1 # ARPC4; actin related protein 2/3 complex, subunit 4
    K05757 hits 1 # ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B
    K06111 hits 2 # EXOC4, SEC8; exocyst complex component 4
+   K07374 hits 4 # TUBA; tubulin alpha
    K08738 hits 1 # CYC; cytochrome c
    K10413 hits 8 # DYNC1H; dynein heavy chain 1, cytosolic
    K10415 hits 2 # DYNC1I, DNCI; dynein intermediate chain, cytosolic
    K10418 hits 1 # DYNLL; dynein light chain LC8-type
+   K10427 hits 2 # DCTN5; dynactin 5
 path 05134 fam0 69 fam-found 8 # Legionellosis
    K00239 hits 1 # sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]
    K03231 hits 6 # EEF1A; elongation factor 1-alpha
@@ -2383,6 +2324,20 @@ path 05134 fam0 69 fam-found 8 # Legionellosis
    K03596 hits 1 # lepA; GTP-binding protein LepA
    K04077 hits 6 # groEL, HSPD1; chaperonin GroEL
    K08517 hits 1 # SEC22; vesicle transport protein SEC22
+   K08738 hits 1 # CYC; cytochrome c
+path 05152 fam0 131 fam-found 13 # Tuberculosis
+   K00914 hits 2 # PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]
+   K02040 hits 4 # pstS; phosphate transport system substrate-binding protein
+   K02144 hits 5 # ATPeV1H; V-type H+-transporting ATPase subunit H
+   K02154 hits 4 # ATPeV0A, ATP6N; V-type H+-transporting ATPase subunit a
+   K02183 hits 2 # CALM; calmodulin
+   K03661 hits 3 # ATPeV0B, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit
+   K04043 hits 13 # dnaK, HSPA9; molecular chaperone DnaK
+   K04077 hits 6 # groEL, HSPD1; chaperonin GroEL
+   K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+   K06268 hits 3 # PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit
+   K08064 hits 1 # NFYA, HAP2; nuclear transcription factor Y, alpha
+   K08066 hits 1 # NFYC, HAP5; nuclear transcription factor Y, gamma
    K08738 hits 1 # CYC; cytochrome c
 path 05165 fam0 231 fam-found 20 # Human papillomavirus infection
    K02144 hits 5 # ATPeV1H; V-type H+-transporting ATPase subunit H
@@ -2405,7 +2360,7 @@ path 05165 fam0 231 fam-found 20 # Human papillomavirus infection
    K10389 hits 2 # TUBG; tubulin gamma
    K11126 hits 1 # TERT, EST2; telomerase reverse transcriptase [EC:2.7.7.49]
    K11315 hits 1 # TADA3, ADA3, NGG1; transcriptional adapter 3
-path 05166 fam0 182 fam-found 18 # Human T-cell leukemia virus 1 infection
+path 05166 fam0 184 fam-found 18 # Human T-cell leukemia virus 1 infection
    K00787 hits 2 # FDPS; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
    K02216 hits 5 # CHEK1; serine/threonine-protein kinase CHEK1 [EC:2.7.11.1]
    K03120 hits 2 # TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein
@@ -2436,3 +2391,64 @@ path 05322 fam0 45 fam-found 6 # Systemic lupus erythematosus
    K11251 hits 2 # H2A; histone H2A
    K11253 hits 5 # H3; histone H3
    K11254 hits 4 # H4; histone H4
+path 05415 fam0 160 fam-found 42 # Diabetic cardiomyopathy
+   K00134 hits 6 # GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+   K00161 hits 4 # PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]
+   K00162 hits 3 # PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]
+   K00234 hits 36 # SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
+   K00235 hits 2 # SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]
+   K00383 hits 2 # GSR, gor; glutathione reductase (NADPH) [EC:1.8.1.7]
+   K00411 hits 1 # UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]
+   K00412 hits 553 # CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+   K00413 hits 7 # CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit
+   K00415 hits 1 # QCR2, UQCRC2; ubiquinol-cytochrome c reductase core subunit 2
+   K00693 hits 6 # GYS; glycogen synthase [EC:2.4.1.11]
+   K00820 hits 3 # glmS, GFPT; glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+   K00898 hits 1 # PDK2_3_4; pyruvate dehydrogenase kinase 2/3/4 [EC:2.7.11.2]
+   K02126 hits 113 # ATPeF0A, MTATP6, ATP6; F-type H+-transporting ATPase subunit a
+   K02127 hits 1 # ATPeF0B, ATP5F1, ATP4; F-type H+-transporting ATPase subunit b
+   K02128 hits 4 # ATPeF0C, ATP5G, ATP9; F-type H+-transporting ATPase subunit c
+   K02133 hits 6 # ATPeF1B, ATP5B, ATP2; F-type H+-transporting ATPase subunit beta [EC:7.1.2.2]
+   K02134 hits 1 # ATPeF1D, ATP5D, ATP16; F-type H+-transporting ATPase subunit delta
+   K02136 hits 1 # ATPeF1G, ATP5C1, ATP3; F-type H+-transporting ATPase subunit gamma
+   K02137 hits 1 # ATPeF0O, ATP5O, ATP5; F-type H+-transporting ATPase subunit O
+   K02138 hits 1 # ATPeF0D, ATP5H, ATP7; F-type H+-transporting ATPase subunit d
+   K02256 hits 797 # COX1; cytochrome c oxidase subunit 1 [EC:7.1.1.9]
+   K02261 hits 613 # COX2; cytochrome c oxidase subunit 2
+   K02262 hits 361 # COX3; cytochrome c oxidase subunit 3
+   K02263 hits 3 # COX4; cytochrome c oxidase subunit 4
+   K02265 hits 1 # COX5B; cytochrome c oxidase subunit 5b
+   K02677 hits 7 # PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]
+   K03878 hits 371 # ND1; NADH-ubiquinone oxidoreductase chain 1 [EC:7.1.1.2]
+   K03879 hits 3 # ND2; NADH-ubiquinone oxidoreductase chain 2 [EC:7.1.1.2]
+   K03880 hits 232 # ND3; NADH-ubiquinone oxidoreductase chain 3 [EC:7.1.1.2]
+   K03881 hits 68 # ND4; NADH-ubiquinone oxidoreductase chain 4 [EC:7.1.1.2]
+   K03883 hits 511 # ND5; NADH-ubiquinone oxidoreductase chain 5 [EC:7.1.1.2]
+   K03934 hits 1 # NDUFS1; NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:7.1.1.2]
+   K03935 hits 3 # NDUFS2; NADH dehydrogenase (ubiquinone) Fe-S protein 2 [EC:7.1.1.2]
+   K03936 hits 2 # NDUFS3; NADH dehydrogenase (ubiquinone) Fe-S protein 3 [EC:7.1.1.2]
+   K03938 hits 1 # NDUFS5; NADH dehydrogenase (ubiquinone) Fe-S protein 5
+   K03940 hits 2 # NDUFS7; NADH dehydrogenase (ubiquinone) Fe-S protein 7 [EC:7.1.1.2]
+   K03953 hits 2 # NDUFA9; NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 9
+   K03963 hits 1 # NDUFB7; NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 7
+   K05853 hits 5 # ATP2A; P-type Ca2+ transporter type 2A [EC:7.2.2.10]
+   K06269 hits 3 # PPP1C; serine/threonine-protein phosphatase PP1 catalytic subunit [EC:3.1.3.16]
+   K07203 hits 5 # MTOR, FRAP, TOR; serine/threonine-protein kinase mTOR [EC:2.7.11.1]
+path 05417 fam0 159 fam-found 17 # Lipid and atherosclerosis
+   K02183 hits 2 # CALM; calmodulin
+   K02677 hits 7 # PRKCA; classical protein kinase C alpha type [EC:2.7.11.13]
+   K03237 hits 1 # EIF2S1; translation initiation factor 2 subunit 1
+   K03283 hits 9 # HSPA1s; heat shock 70kDa protein 1/2/6/8
+   K04077 hits 6 # groEL, HSPD1; chaperonin GroEL
+   K04079 hits 2 # HSP90A, htpG; molecular chaperone HtpG
+   K04371 hits 4 # ERK, MAPK1_3; mitogen-activated protein kinase 1/3 [EC:2.7.11.24]
+   K04393 hits 1 # CDC42; cell division control protein 42
+   K04564 hits 6 # SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+   K06268 hits 3 # PPP3R, CNB; serine/threonine-protein phosphatase 2B regulatory subunit
+   K06276 hits 6 # PDPK1; 3-phosphoinositide dependent protein kinase-1 [EC:2.7.11.1]
+   K08008 hits 11 # NOX1, MOX1; NADPH oxidase 1
+   K08738 hits 1 # CYC; cytochrome c
+   K08852 hits 3 # ERN1; serine/threonine-protein kinase/endoribonuclease IRE1 [EC:2.7.11.1 3.1.26.-]
+   K08860 hits 3 # EIF2AK3; eukaryotic translation initiation factor 2-alpha kinase 3 [EC:2.7.11.1]
+   K09489 hits 10 # HSPA4; heat shock 70kDa protein 4
+   K09490 hits 4 # HSPA5, BIP; endoplasmic reticulum chaperone BiP [EC:3.6.4.10]

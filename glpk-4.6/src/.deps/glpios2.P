@@ -1,10 +1,11 @@
-glpios2.o: glpios2.c \
-  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h \
-  ../include/glpios.h ../include/glpiet.h ../include/glpstr.h \
-  ../include/glpdmp.h ../include/glplib.h ../include/glplpx.h \
-  ../include/glpinv.h ../include/glpluf.h
+glpios2.o: glpios2.c /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ ../include/glpios.h ../include/glpiet.h ../include/glpstr.h \
+ ../include/glpdmp.h ../include/glplib.h ../include/glplpx.h \
+ ../include/glpinv.h ../include/glpluf.h
 glpios2.c :
-/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h :
+/usr/include/stdc-predef.h :
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h :
 ../include/glpios.h :
 ../include/glpiet.h :
 ../include/glpstr.h :

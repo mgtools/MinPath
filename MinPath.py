@@ -1,9 +1,10 @@
 from __future__ import print_function
 #!/usr/bin/env python
-# MinPath (current version: 1.5)
+# MinPath (current version: 1.6)
 # developed by Yuzhen Ye (yye@indiana.edu)
 # Indiana University, Bloomington
-# version 1.5 (for python3)
+# version 1.6 (May 11, 2021)
+# version 1.5 (for python3, Sep 21, 2020)
 # version 1.21 fixed a bug that messed up with fig input (released on Jan 11, 2018)
 # version 1.2 (released on Oct 19, 2010)
 #  MinPath1.2 works on any pathway system
@@ -138,7 +139,6 @@ class MinPath:
 				pathidx = self.pathList.index(path)
 			else:
 				pathidx = len(self.pathList)
-				#self.pathList.append(str(pathidx + 1))
 				self.pathID.append(str(pathidx + 1))
 				self.pathList.append(path)
 				self.pathName.append(path)
@@ -148,7 +148,7 @@ class MinPath:
 			else:
 				famidx = len(self.famList)
 				self.famID.append(str(famidx + 1))
-				self.famList.append(str(famidx + 1))
+				self.famList.append(fam)  #May 11, 2021
 				self.famName.append(fam)
 				self.fam2Path.append([])
 			#print("check: " + path + " " + str(pathidx) + " " + fam + " " + str(famidx))
@@ -804,6 +804,7 @@ def Orth2Path(infile = "demo.ko", whichdb = "KEGG", mpsfile = "test.mps", report
 
 	os.remove("test.mps")
 	os.remove("test.mps.LPout")
+
 	#os.system("rm test.mps*")
 
 if __name__ == '__main__':
@@ -834,7 +835,7 @@ if __name__ == '__main__':
 	elif anyfile and mapfile:
 		Orth2Path(infile = anyfile, mpsfile = mpsfile, reportfile = reportfile, detailfile = detailfile, whichdb = "ANY", mapfile=mapfile)
 	else:
-		print ("Usage: python MinPath.py <-ko filename>/<ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output]")
+		print ("Usage: python MinPath.py <-ko filename>/<-ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output]")
 		print ("Note: your input file can contain functional annotations in either of the following")
 		print ("   -ko file: annotation in KEGG KO families")
 		print ("   -ec file: annotation in EC numbers (to be mapped to MetaCyc pathways)")
