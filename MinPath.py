@@ -834,7 +834,7 @@ if __name__ == '__main__':
 	elif anyfile and mapfile:
 		Orth2Path(infile = anyfile, mpsfile = mpsfile, reportfile = reportfile, detailfile = detailfile, whichdb = "ANY", mapfile=mapfile)
 	else:
-		print ("Usage: python MinPath.py <-ko filename>/<ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output] [-mps intermediatefilename]")
+		print ("Usage: python MinPath.py <-ko filename>/<-ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output] [-mps intermediatefilename]")
 		print ("Note: your input file can contain functional annotations in either of the following")
 		print ("   -ko file: annotation in KEGG KO families")
 		print ("   -ec file: annotation in EC numbers (to be mapped to MetaCyc pathways)")
