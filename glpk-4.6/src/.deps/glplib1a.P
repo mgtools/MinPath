@@ -1,6 +1,7 @@
-glplib1a.o: glplib1a.c \
-  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h \
-  ../include/glplib.h
+glplib1a.o: glplib1a.c /usr/include/stdc-predef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
+ ../include/glplib.h
 glplib1a.c :
-/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h :
+/usr/include/stdc-predef.h :
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h :
 ../include/glplib.h :

@@ -1,4 +1,6 @@
-glprng.o: glprng.c ../include/glplib.h ../include/glprng.h
+glprng.o: glprng.c /usr/include/stdc-predef.h ../include/glplib.h \
+ ../include/glprng.h
 glprng.c :
+/usr/include/stdc-predef.h :
 ../include/glplib.h :
 ../include/glprng.h :

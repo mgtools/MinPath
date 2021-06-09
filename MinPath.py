@@ -1,9 +1,9 @@
-#!/usr/bin/env python3
-from __future__ import print_function
-# MinPath (current version: 1.5)
+#!/usr/bin/env python
+# MinPath (current version: 1.6)
 # developed by Yuzhen Ye (yye@indiana.edu)
 # Indiana University, Bloomington
-# version 1.5 (for python3)
+# version 1.6 (May 11, 2021)
+# version 1.5 (for python3, Sep 21, 2020)
 # version 1.21 fixed a bug that messed up with fig input (released on Jan 11, 2018)
 # version 1.2 (released on Oct 19, 2010)
 #  MinPath1.2 works on any pathway system
@@ -138,7 +138,6 @@ class MinPath:
 				pathidx = self.pathList.index(path)
 			else:
 				pathidx = len(self.pathList)
-				#self.pathList.append(str(pathidx + 1))
 				self.pathID.append(str(pathidx + 1))
 				self.pathList.append(path)
 				self.pathName.append(path)
@@ -148,7 +147,7 @@ class MinPath:
 			else:
 				famidx = len(self.famList)
 				self.famID.append(str(famidx + 1))
-				self.famList.append(str(famidx + 1))
+				self.famList.append(fam)  #May 11, 2021
 				self.famName.append(fam)
 				self.fam2Path.append([])
 			#print("check: " + path + " " + str(pathidx) + " " + fam + " " + str(famidx))

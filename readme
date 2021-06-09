@@ -1,11 +1,12 @@
-MinPath version as of Sep 21, 2020
-(older versions: MinPath1.1 released on July 31, 2010; MinPath1.0 released on July 3, 2009; MinPath1.2 on Oct 20, 2010, MinPath1.4 on Sep 11, 2018; older releases are available at https://omics.informatics.indiana.edu/MinPath/)
+MinPath version 1.6 as of May 11, 2021
+(older versions: MinPath1.5 released on Sep 21, 2020, MinPath1.1 released on July 31, 2010; MinPath1.0 released on July 3, 2009; MinPath1.2 on Oct 20, 2010, MinPath1.4 on Sep 11, 2018; older releases are available at https://omics.informatics.indiana.edu/MinPath/)
 
 Developer: Yuzhen Ye <yye@indiana.edu>
 Affiliation: School of Informatics, Computing and Engineering, Indiana University, Bloomington
 
 0. What's new
-  current version: python 2 & 3 compatible, with updated KEGG and MetaCyc pathways
+  MinPath1.6: updated KEGG and MetaCyc Pathways as of May 10, 2021
+  MinPath1.5: python 2 & 3 compatible, with updated KEGG and MetaCyc pathways
   MinPath1.4: fixed a bug that did not work with fig families
   MinPath1.2: works with any pathway system (see 3.1.3; and usages)
   MinPath1.1: outputs detailed pathway assignments 
@@ -29,24 +30,22 @@ Check 3.2 if glpk doesn't work.
 3. Requirements
  3.1 files of reference pathways with function to pathway (subsystem) mapping
   3.1.1 Files required for KEGG pathway reconstruction by MinPath (placed under data/)
-    KEGG-pathway.txt, KEGG-family.txt, KEGG-mapping.txt
-   (note: the three files included in this package are from KEGG database as of Sep 2020. 
-    If you need more recent files, you may download tar files from KEGG ftp website 
-    ftp://ftp.genome.jp/pub/kegg/. After you extract the files, copy the corresponding files to data/.
-    For some reason, if you need older KEGG files, they are included in old releases of MinPath.) 
+    * KEGG-pathway.txt, KEGG-family.txt, KEGG-mapping.txt
+    * These files are updated regularly
 
-  3.1.2 File required for SEED subsystem reconstruction by MinPath (placed under data/)
-   * figfam_subsystem.dat
+  3.1.2 File required for MetaCyc metabolic pathway reconstruction by MinPath (placed under data/)
+    * MetaCyc-pathway.txt, MetaCyc-family.txt, MetaCyc-mapping.txt 
+    * These files are updated regularly
+
+  3.1.3 File required for SEED subsystem reconstruction by MinPath (placed under data/)
+    * figfam_subsystem.dat (this file isn't updated since 2010)
     (note: current file is copied from figfam release6: 
      Release6/FigfamsData.Release.6/release_history/figfam_subsystem.dat; 
      please note it is an outdated version. )
 
-  3.1.3 File required for MetaCyc metabolic pathway reconstruction by MinPath (placed under data/)
-   * MetaCyc-pathway.txt, MetaCyc-family.txt, MetaCyc-mapping.txt 
-    (note: current files are prepared according to MetaCyc database as of Sep 2020)
-
   3.1.4 Any pathway system
-   * what you need to prepare is a pathway-function mapping file (see an example file, ec2path file under data/)
+   * what you need to prepare is a pathway-function mapping file similar to KEGG-mapping.txt or MetaCyc-mapping.txt
+   * format of this file: one row for a mapping of a function to a pathway; pathway-id comes before functions, seperated by a tab;
 
  3.2 LP package for integer programming of the minimal pathway reconstruction
   package glpk-4.6 under glpk-4.6/ directory
@@ -60,13 +59,13 @@ Check 3.2 if glpk doesn't work.
  4.2 Examples (under examples/ directory):
       under examples/
 	#for KEGG pathway
-	python ../MinPath.py -ko demo.ko -report demo.ko.report -details demo.ko.details
-	#for SEED subsystem
-	python ../MinPath.py -fig demo.fig -report demo.fig.report -details demo.fig.details
+	python ../MinPath.py -ko demo.ko -report demo.ko.minpath -details demo.ko.minpath.details
 	#for MetaCyc pathway
-	python ../MinPath.py -ec demo.ec -report demo.ec.report -details demo.ec.details
+	python ../MinPath.py -ec demo.ec -report demo.ec.minpath -details demo.ec.minpath.details
+	#for SEED subsystem
+	python ../MinPath.py -fig demo.fig -report demo.fig.minpath -details demo.fig.minpath.details
 	#for any pathway
-	python ../MinPath.py -any demo.any -map ec2path -report demo.any.report -details demo.any.details
+	python ../MinPath.py -any demo.any -map ../data/MetaCyc-mapping.txt -report demo.any.minpath -details demo.any.minpath.details
 
     Input of MinPath: ko (or fig, ec, or any) annotations (check demo.ko, demo.fig and demo.ec under examples/ directory)
     Format of the inputs: 
@@ -74,10 +73,10 @@ Check 3.2 if glpk doesn't work.
         the first column is the protein/sequence id, and the second column is the annotation0;
         the two columns are seperated by a tab
 
-    Outputs of MinPath: demo.ko.report, and demo.ko.details (and so on) 
+    Outputs of MinPath: demo.ko.minpath, and demo.ko.minpath.details (and so on) 
 
  4.3 How to read the MinPath report file?
-    e.g, demo.ko.report
+    e.g, demo.ko.minpath
     ...
     path 00030 kegg n/a  naive 1  minpath 1  fam0  42  fam-found  18  name  Pentose phosphate pathway
     path 00031 kegg n/a  naive 1  minpath 0  fam0  12  fam-found  2  name  Inositol metabolism
@@ -93,7 +92,7 @@ Check 3.2 if glpk doesn't work.
   
  4.4 How to read the MinPath detailed report file?
     This report file lists all the pathways found MinPath, and a list of families each pathway includes
-    e.g. demo.ko.details
+    e.g. demo.ko.minpath.details
     ...
     path 00010 fam0 56 fam-found 27 # Glycolysis / Gluconeogenesis
        K00001 hits 6 # E1.1.1.1, adh

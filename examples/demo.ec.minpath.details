@@ -1,16 +1,14 @@
-path PWY-2201 fam0 9 fam-found 1 # folate transformations I
+path P125-PWY fam0 2 fam-found 1 # superpathway of (R,R)-butanediol biosynthesis
+   2.2.1.6 hits 1 # acetolactate synthase
+path PWY-1722 fam0 3 fam-found 1 # formate assimilation into 5,10-methylenetetrahydrofolate
    3.5.4.9 hits 2 # methenyltetrahydrofolate cyclohydrolase
-path PWY-6613 fam0 2 fam-found 1 # tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
-   3.5.4.9 hits 2 # methenyltetrahydrofolate cyclohydrolase
-path PWY-6146 fam0 20 fam-found 2 # Methanobacterium thermoautotrophicum biosynthetic metabolism
-   6.4.1.1 hits 1 # pyruvate carboxylase
+path PWY0-1479 fam0 4 fam-found 3 # tRNA processing
+   3.1.26.12 hits 2 # ribonuclease
+   3.1.13.5 hits 1 # RNase T exonuclease
+   3.1.26.5 hits 1 # ribonuclease
+path PWY-6142 fam0 11 fam-found 2 # gluconeogenesis II (Methanobacterium thermoautotrophicum)
    5.3.1.1 hits 1 # triosephosphate isomerase
-path PWY-7909 fam0 1 fam-found 1 # formaldehyde oxidation VII (THF pathway)
-   3.5.4.9 hits 2 # methenyltetrahydrofolate cyclohydrolase
-path PWY-5938 fam0 2 fam-found 1 # pyruvate fermentation to (R)-acetoin I
-   2.2.1.6 hits 1 # pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)
-path PWY-5939 fam0 2 fam-found 1 # pyruvate fermentation to (R)-acetoin II
-   2.2.1.6 hits 1 # pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)
-path PWY-7111 fam0 5 fam-found 2 # pyruvate fermentation to isobutanol (engineered)
-   2.2.1.6 hits 1 # pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)
+   6.4.1.1 hits 1 # pyruvate carboxylase
+path THREOCAT-PWY fam0 14 fam-found 2 # superpathway of L-threonine metabolism
+   2.2.1.6 hits 1 # acetolactate synthase
    1.1.1.86 hits 1 # (R)-2,3-dihydroxy-3-methylpentanoate:NADP+ oxidoreductase (isomerizing)

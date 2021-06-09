@@ -1,3 +1,4 @@
-glpqmd.o: glpqmd.c ../include/glpqmd.h
+glpqmd.o: glpqmd.c /usr/include/stdc-predef.h ../include/glpqmd.h
 glpqmd.c :
+/usr/include/stdc-predef.h :
 ../include/glpqmd.h :

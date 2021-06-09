@@ -1,7 +1,8 @@
-glplpx6d.o: glplpx6d.c ../include/glplib.h ../include/glplpx.h \
-  ../include/glpinv.h ../include/glpluf.h ../include/glpstr.h \
-  ../include/glpdmp.h
+glplpx6d.o: glplpx6d.c /usr/include/stdc-predef.h ../include/glplib.h \
+ ../include/glplpx.h ../include/glpinv.h ../include/glpluf.h \
+ ../include/glpstr.h ../include/glpdmp.h
 glplpx6d.c :
+/usr/include/stdc-predef.h :
 ../include/glplib.h :
 ../include/glplpx.h :
 ../include/glpinv.h :

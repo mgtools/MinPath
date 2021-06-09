@@ -1,7 +1,7 @@
 # MinPath
 MinPath (Minimal set of Pathways) is a parsimony approach for biological pathway reconstructions using protein family predictions, achieving a more conservative, yet more faithful, estimation of the biological pathways for a query dataset.
 
-KEGG and MetaCyc pathways included in Minpath were updated as of Sep 21, 2020. 
+KEGG and MetaCyc pathways included in Minpath were updated as of May 10, 2021. 
 
 See readme file for usages.
 

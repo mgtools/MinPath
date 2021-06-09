@@ -81,6 +81,7 @@
 00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
 00540	Lipopolysaccharide biosynthesis
 00541	O-Antigen nucleotide sugar biosynthesis
+00542	O-Antigen repeat unit biosynthesis
 00550	Peptidoglycan biosynthesis
 00561	Glycerolipid metabolism
 00562	Inositol phosphate metabolism
@@ -289,6 +290,7 @@
 04610	Complement and coagulation cascades
 04611	Platelet activation
 04612	Antigen processing and presentation
+04613	Neutrophil extracellular trap formation
 04614	Renin-angiotensin system
 04620	Toll-like receptor signaling pathway
 04621	NOD-like receptor signaling pathway
@@ -380,6 +382,7 @@
 05016	Huntington disease
 05017	Spinocerebellar ataxia
 05020	Prion disease
+05022	Pathways of neurodegeneration - multiple diseases
 05030	Cocaine addiction
 05031	Amphetamine addiction
 05032	Morphine addiction
@@ -414,6 +417,7 @@
 05168	Herpes simplex virus 1 infection
 05169	Epstein-Barr virus infection
 05170	Human immunodeficiency virus 1 infection
+05171	Coronavirus disease - COVID-19
 05200	Pathways in cancer
 05202	Transcriptional misregulation in cancer
 05203	Viral carcinogenesis
@@ -451,7 +455,9 @@
 05410	Hypertrophic cardiomyopathy
 05412	Arrhythmogenic right ventricular cardiomyopathy
 05414	Dilated cardiomyopathy
+05415	Diabetic cardiomyopathy
 05416	Viral myocarditis
+05417	Lipid and atherosclerosis
 05418	Fluid shear stress and atherosclerosis
 07011	Penicillins
 07012	Cephalosporins - parenteral agents
