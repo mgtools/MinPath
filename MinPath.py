@@ -1,3 +1,4 @@
+from __future__ import print_function
 #!/usr/bin/env python
 # MinPath (current version: 1.6)
 # developed by Yuzhen Ye (yye@indiana.edu)
