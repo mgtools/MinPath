@@ -802,9 +802,8 @@ def Orth2Path(infile = "demo.ko", whichdb = "KEGG", mpsfile = "test.mps", report
 
 	test.WriteReport(map_add, reportfile, detailfile)
 
-	os.remove("test.mps")
-	os.remove("test.mps.LPout")
-
+	os.remove(mpsfile)
+	os.remove(mpsfile+".LPout")
 	#os.system("rm test.mps*")
 
 if __name__ == '__main__':
@@ -835,12 +834,13 @@ if __name__ == '__main__':
 	elif anyfile and mapfile:
 		Orth2Path(infile = anyfile, mpsfile = mpsfile, reportfile = reportfile, detailfile = detailfile, whichdb = "ANY", mapfile=mapfile)
 	else:
-		print ("Usage: python MinPath.py <-ko filename>/<-ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output]")
+		print ("Usage: python MinPath.py <-ko filename>/<-ec filename>/<-fig filename>/<-any annfile> [-map mapfile] [-report filename] [-details detailed-output] [-mps mpsfile]")
 		print ("Note: your input file can contain functional annotations in either of the following")
 		print ("   -ko file: annotation in KEGG KO families")
 		print ("   -ec file: annotation in EC numbers (to be mapped to MetaCyc pathways)")
 		print ("   -fig file: annotation in SEED fig families")
 		print ("   -any file: annotation in any families, then you must specify -map, the pathway-function mapping file")
+		print ("   -mps file: filename for temporary/intermediate mps file [default: test.mps]")
 		print ("Example 1: python MinPath.py -ko demo.ko -report demo.ko.minpath")
 		print ("Example 2: python MinPath.py -ko demo.ko -report demo.ko.minpath -details demo.ko.minpath.details")
 		print ("Example 3: python MinPath.py -ec demo.ec -report demo.ec.minpath -details demo.ec.minpath.details")
